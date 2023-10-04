@@ -1,0 +1,51 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arabic</title>
+    <style>
+        body {
+            padding: 0;
+            margin: 0;
+            background: #262626;
+            color: #fff;
+            font-family: Calibri;
+            font-size: 2.3rem;
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        a {
+            margin: .5em;
+            padding: .5em;
+            border: red 5px cove;
+            background-color: cadetblue;
+            height: fit-content;
+            text-decoration: none;
+        }
+    </style>
+    <!-- <link rel="icon" href="./favicon.png"> -->
+</head>
+
+<body>
+
+</body>
+<script>
+    var links = new Map([
+        ['Medina Arabic Quiz', 'https://khdev01.github.io/lessons/MedinaArabic/Quiz/adaptiveQuiz.html'],
+        ['Phonetic Typer', './General/PhoneticTyper.html'],
+    ]);
+
+
+
+    for (let [text, link] of links) {
+        let element = document.createElement("a")
+        element.href = link
+        element.innerHTML = text
+        document.body.appendChild(element)
+    }
+</script>
+
+</html>

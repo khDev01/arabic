@@ -1,0 +1,24 @@
+{
+  "name": "arabic",
+  "version": "1.0.0",
+  "description": "Everything Arabic",
+  "main": "editJson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khDev01/arabic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khDev01/arabic/issues"
+  },
+  "homepage": "https://github.com/khDev01/arabic#readme",
+  "dependencies": {
+    "add-filename-increment": "^1.0.0",
+    "clipboardy": "^3.0.0"
+  }
+}

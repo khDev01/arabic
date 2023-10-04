@@ -1,0 +1,126 @@
+Unique 0 11 12 20 https://www.fluentarabic.net/numbers-in-arabic/
+by default numbers 3-10 are feminine
+
+Arabic, Number, gender, 
+صِفْرٌ,0,m
+وَاحِدٌ,1,m
+اِثْنَانِ,2,m
+ثَلَاثَةٌ,3,f
+أَرْبَعَةٌ,4,f
+خَمْسَةٌ,5,f
+سِتَّةٌ,6,f
+سَبْعَةٌ,7,f 
+ثَمَانِيَةٌ,8,f
+تِسْعَةٌ,9,f
+عَشَرَةٌ,10,f
+ending عَشَرَ
+أحَدَ عَشَرَ,11
+اِثْنَا عَشَرَ,12
+ثَلَاثَةَ عَشَر
+أَرْبَعَةَ عَشَر
+خَمْسَةَ عَشَر
+سِتَّةَ عَشَر
+سَبْعَةَ عَشَر
+ثَمَانِيَةَ عَشَر
+تِسْعَةَ عَشَر
+عِشْرُونَ,20
+ending ىُونَ
+ثَلَاثُونَ
+أَرْبَعُونَ
+خَمْسُونَ
+سِتُّونَ
+سَبْعُونَ
+ثَمَانُونَ,80
+تِسْعُونَ
+21-99 وَ
+وَاحِد وَعِشْرُونَ
+مِئَةٌ,100
+أَلْفٌ,1000
+مَلِيُوْن,1000000
+
+
+
+Ar,En,M,T,v,Pl,order
+ثَمَانٍ,eight,true,nNumber,false,,8
+خَمْس,five,true,nNumber,false,,5
+أَرَبـع,four,true,nNumber,false,,4
+نَصْف,half,true,nNumber,false,أَنْصَاف,0.5
+مِائةٌ,hundred,false,nnumber,true,,100
+تِسْع,nine,true,nNumber,false,,9
+عَدَد,number,true,nNumber,false,أَعْدَاد,0
+مَرَّةٌ,once,false,nnumber,true,,1
+وَاحِد,one,true,nNumber,false,وُحْدَان,1
+أَحَد,one2,true,nNumber,false,آحَاد,1
+إِحْدَى,one3,true,nNumber,false,,1
+سَبْع,seven,true,nNumber,false,,7
+سَابِع,seventh,true,nNumber,false,,0007
+سِتّ,six,true,nNumber,false,,6
+سَادِس,sixth,true,nNumber,false,,0006
+عَشْر,ten,true,nNumber,false,عَشَرَات,10
+أَلْفٌ,thousand,true,nnumber,true,,1000
+ثَلَاث,three,true,nNumber,false,,3
+عِشْرُونَ,twenty,true,nNumber,false,,20
+الثَّالِثُ وَالْعِشْرُونَ,twentythird,true,nNumber,false,,0023
+ثَامِنَ عَشَرَ,eighteenth,true,nNumbero,false,,0018
+ثَامِن,eighth,true,nNumbero,false,,0008
+حاديَ عَشَرَ,eleventh,true,nNumbero,false,,0011
+خَامِسَ عَشَرَ,fifteenth,true,nNumbero,false,,0015
+أَوَّل,first,true,nNumbero,false,أَوَّلُونَ/أُولَى,0001
+رَابِعَ عَشَرَ,fourteenth,true,nNumbero,false,,0014
+تَاسِعَ عَشَرَ,nineteenth,true,nNumbero,false,,0019
+تَاسِع,ninth,true,nNumbero,false,,0009
+ثَانٍ,second,true,nNumbero,false,ثَوَانٍ,0002
+الثَّانَوِيَّةُ/ثَانَوِيّ,secondary,true,nNumbero,false,ـُونَ/ـة,9002
+سابِعَ عَشَرَ,seventeenth,true,nNumbero,false,,0017
+سَادِسَ عَشَرَ,sixteenth,true,nNumbero,false,,0016
+عَاشِر,tenth,true,nNumbero,false,,0010
+الْخَامِسُ,thefifth,true,nNumbero,false,,0005
+الَرّابِعُ,thefourth,true,nNumbero,false,,0004
+الثَّانِي,thesecond,true,nNumbero,false,,0002
+الثَّالِثُ,thethird,true,nNumbero,false,,0003
+ثَالِثَ عَشَرَ,thirteenth,true,nNumbero,false,,0013
+ثَانِي عَشَرَ,twelfth,true,nNumbero,false,,0012
+حَادِي وَالْعِشْرُونَ,twentyfirst,true,nNumbero,false,,0021
+الثَّانِي وَالْعِشْرُونَ,twentysecond,true,nNumbero,false,,0022
+
+
+
+Ar,En,M,Pl,T,order
+إِحْدَى,one3,false,,nnumber,1
+أَوَّلٌ,first,true,أَوَّلُونَ/أُولَى,nnumber,1001
+الثَّانَوِيَّةُ/ثَانَوِيٌّ,secondary,true,ـُونَ/ـةٌ,nNumber,2002
+ثَمَانٍ,eight,true,,nNumber,8
+عَشَرَ,eighteenth,true,,nNumber,
+ثَامِنٌ,eighth,true,,nNumber,
+عَشَرَ,eleventh,true,حاديَ,nNumber,
+عَشَرَ خَامِسَ,fifteenth,true,,nNumber,
+خَمْسٌ,five,true,,nNumber,
+أَرَبـعٌ,four,true,,nNumber,
+عَشَرَ,fourteenth,true,رَابِعَ,nNumber,
+نَصْفٌ,half,true,أَنْصَافٌ,nNumber,
+تِسْعٌ,nine,true,,nNumber,
+عَشَرَ,nineteenth,true,تَاسِعَ,nNumber,
+تَاسِعٌ,ninth,true,,nNumber,
+عَدَدٌ,number,true,أَعْدَادٌ,nNumber,
+وَاحِدٌ,one,true,وُحْدَانٌ,nNumber,
+أَحَدٌ,one2,true,آحَادٌ,nNumber,
+سَبْعٌ,seven,true,,nNumber,
+عَشَرَ,seventeenth,true,سابِعَ,nNumber,
+سَابِعٌ,seventh,true,,nNumber,
+سِتٌّ,six,true,,nNumber,
+عَشَرَ,sixteenth,true,سَادِسَ,nNumber,
+سَادِسٌ,sixth,true,,nNumber,
+عَشْرٌ,ten,true,عَشَرَاتٌ,nNumber,
+عَاشِرٌ,tenth,true,,nNumber,
+الْخَامِسُ,thefifth,true,,nNumber,
+الَرّابِعُ,thefourth,true,,nNumber,
+الثَّانِي,thesecond,true,,nNumber,
+الثَّالِثُ,thethird,true,,nNumber,
+عَشَرَ,thirteenth,true,ثَالِثَ,nNumber,
+ثَلَاثٌ,three,true,,nNumber,
+عَشَرَ,twelfth,true,ثَانِي,nNumber,
+عِشْرُونَ,twenty,true,,nNumber,
+حَادِيوَالْعِشْرُونَ,twentyfirst,true,,nNumber,
+وَالْعِشْرُونَ,twentysecond,true,الثَّانِي,nNumber,
+الثَّالِثُ وَالْعِشْرُونَ,twentythird,true,,nNumber,
+

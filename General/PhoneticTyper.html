@@ -1,0 +1,198 @@
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arabic English Phonetic</title>
+    <!-- <link rel="stylesheet" href="./style.css"> -->
+    <style>
+        /* html, body {margin: 0; height: 100%; overflow: hidden} */
+        body {
+            padding: 0;
+            margin: 0;
+            background: #262626;
+            color: #fff;
+            font-family: 'Traditional Arabic', Amiri, Calibri;
+            font-size: 2.3rem;
+        }
+
+        textarea {
+            font-family: Calibri;
+        }
+    </style>
+    <!-- <link rel="icon" href="./favicon.png"> -->
+</head>
+
+<body>
+    <textarea autofocus name="" id="ar" cols="30" rows="10"
+    onkeyup="convert()"></textarea>
+</body>
+<script>
+    let code,
+        alif = 'ا',
+        ba = 'ب',
+        ta = 'ت',
+        tha = 'ث',
+        jeem = 'ج',
+        ha = 'ح',
+        kha = 'خ',
+        dal = 'د',
+        dhal = 'ذ',
+        ra = 'ر',
+        za = 'ز',
+        seen = 'س',
+        sheen = 'ش',
+        saad = 'ص',
+        daad = 'ض',
+        da = 'ط',
+        dha = 'ظ',
+        ain = 'ع',
+        gain = 'غ',
+        fa = 'ف',
+        qaf = 'ق',
+        kaf = 'ك',
+        lam = 'ل',
+        meem = 'م',
+        nun = 'ن',
+        wow = 'و',
+        heh = 'ه',
+        hamza = 'ء',
+        ya = 'ي',
+        alifMaksura = 'ى',
+        taMarbuta = 'ة',
+        alifMad = 'آ',
+        hamzaalif = 'أ',
+        hamzawasl = 'ٱ',
+        hamzaalifKesra = 'إ',
+        hamzaya = "ئ"
+
+    const fatha = '\u064e',
+        kesra = '\u0650',
+        doma = '\u064f',
+        fatha2 = '\u064b',
+        kesra2 = '\u064d',
+        doma2 = '\u064c',
+        shadda = '\u0651',
+        sukun = '\u0652'
+
+    comma = '\u060C',
+        spaceJoin = '\u0640',
+        invisibleLetter = '\u061C',
+        questionMark = '\u061f',
+        dateSeperator = '\u060d',
+        semicolon = '\u061b',
+        trippledot = '\ufbb3 \ufbb3 \ufbb3',
+        fullstop = '\u06d4',
+        Allah = '\ufdf2',
+        akbar = '\ufdf3',
+        Muhammad = '\ufdf4',
+        rasool = '\ufdf6',
+        salalahual = '\ufdfa',
+        reyal = '\ufdfc',
+        bism = '\ufdfd'
+
+    function convert() {
+        // get cursor position as it changes with replace
+        // var cursorPosition = getCursorPos(document.getElementById("ar")[0])
+        textarea = document.getElementById("ar")
+        var end = textarea.selectionEnd;
+
+
+        code = textarea.value
+        // More importance
+        code = code.replace(/َA/g, fatha2);
+        code = code.replace(/ًA/g, fatha);
+        code = code.replace(/ِe/g, kesra2);
+        code = code.replace(/ٍe/g, kesra);
+        code = code.replace(/ُu/g, doma2);
+        code = code.replace(/ٌu/g, doma);
+        code = code.replace(/ْo/g, sukun);
+        ////      // importance end
+
+        code = code.replace(/a/g, alif);
+        code = code.replace(/ا'/g, hamzaalif);
+        code = code.replace(/اا/g, alifMad);
+        code = code.replace(/A/g, fatha);
+
+        code = code.replace(/b/g, ba);
+        code = code.replace(/c/g, qaf);
+
+        code = code.replace(/d/g, dal);
+        code = code.replace(/د'/g, dhal);
+
+        code = code.replace(/e/g, kesra);
+
+        code = code.replace(/f/g, fa);
+        code = code.replace(/f/g, fa);
+
+        code = code.replace(/g/g, ain);
+        code = code.replace(/ع'/g, gain);
+
+        code = code.replace(/h/g, heh);
+        code = code.replace(/ه'/g, taMarbuta);
+        code = code.replace(/H/g, ha);
+        code = code.replace(/ح'/g, kha);
+
+        code = code.replace(/i/g, hamzaalifKesra);
+        code = code.replace(/j/g, jeem);
+        code = code.replace(/k/g, kaf);
+        code = code.replace(/l/g, lam);
+        code = code.replace(/m/g, meem);
+        code = code.replace(/n/g, nun);
+        code = code.replace(/o/g, sukun);
+        code = code.replace(/p/g, fatha);
+        code = code.replace(/;/g, fatha);
+        code = code.replace(/q/g, qaf);
+        code = code.replace(/r/g, ra);
+
+        code = code.replace(/s/g, seen);
+        code = code.replace(/س'/g, sheen);
+        code = code.replace(/S/g, saad);
+        code = code.replace(/ص'/g, daad);
+
+        code = code.replace(/t/g, ta);
+        code = code.replace(/ت'/g, tha)
+        code = code.replace(/T/g, da);
+        code = code.replace(/ط'/g, dha)
+
+        code = code.replace(/u/g, doma);
+        code = code.replace(/v/g, shadda);
+        code = code.replace(/w/g, wow);
+
+        code = code.replace(/x/g, alifMaksura);
+        code = code.replace(/ى'/g, dha)
+
+        code = code.replace(/y/g, ya);
+        code = code.replace(/z/g, za);
+
+        // punctuation
+        code = code.replace(/[.]/g, fullstop);
+        code = code.replace(/[,]/g, comma);
+        code = code.replace(/'/g, fullstop);
+        code = code.replace(/[?]/g, questionMark);
+
+        code = code.replace(/ّّ/g, wow); // 2 shadas
+
+        code = code.replace(/1/g, '١');
+        code = code.replace(/2/g, '٢');
+        code = code.replace(/3/g, '٣');
+        code = code.replace(/4/g, '٤');
+        code = code.replace(/5/g, '٥');
+        code = code.replace(/6/g, '٦');
+        code = code.replace(/7/g, '٧');
+        code = code.replace(/8/g, '٨');
+        code = code.replace(/9/g, '٩');
+        code = code.replace(/0/g, "٠");
+        // code = code.replace(/'/g, fullstop);
+
+        //
+        textarea.value = code;
+
+        //
+        textarea.focus();
+        textarea.selectionEnd = end;
+    }
+</script>
+
+</html>

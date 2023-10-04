@@ -1,0 +1,30 @@
+Remember
+
+auto generate csv/json for each type/category
+
+Animals
+Names
+Places
+Transport
+Body
+Work proffession workplace
+Study Education
+Activities Hobbies 
+Holiday
+Food 
+Drink
+Fruit
+Veg
+Clothes
+Colours
+Adjectives
+health
+Home
+HouseholdObjects
+Islam
+Number
+People
+Sport
+Time
+Weather
+
