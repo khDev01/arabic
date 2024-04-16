@@ -1,0 +1,1015 @@
+[
+  {
+    "Ar": "أَعْمَى (ث عَمْيَاءُ، ج عُمْيٌ",
+    "En": "blind",
+    "M": "true",
+    "T": "adj",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "كامِلٌ",
+    "En": "complete",
+    "M": "true",
+    "T": "adj",
+    "bk": "maB2L27",
+    "v": "false"
+  },
+  {
+    "Ar": "نَوْع",
+    "En": "type/kind",
+    "M": "true",
+    "Pl": "أَنْوَاع",
+    "T": "adjsnword",
+    "bk": "UNmaB3L8",
+    "v": "false"
+  },
+  {
+    "Ar": "ضَوْضَاءٌ",
+    "En": "noise",
+    "M": "true",
+    "T": "adj",
+    "bk": "maB2L17",
+    "v": "false"
+  },
+  {
+    "Ar": "هُدُوءٌ",
+    "En": "calm, quiet",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "maB2L17",
+    "v": "false"
+  },
+  {
+    "Ar": "بهُدُوءٍ",
+    "En": "calmly, quietly",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "maB2L17",
+    "v": "false"
+  },
+
+  {
+    "Ar": "أَقْوى",
+    "En": "stronger",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L31",
+    "v": "false"
+  },
+  {
+    "Ar": "أَلِيمٌ",
+    "En": "most painfulm very agonizing / Painful",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "الزَّحامُ",
+    "En": "crowd, jam",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L6",
+    "v": "false"
+  },
+  {
+    "Ar": "سَامٌ",
+    "En": "venemous, poisonous",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "طَفِيفٌ",
+    "En": "slight, little",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L28",
+    "v": "false"
+  },
+  {
+    "Ar": "أَحْمَقٌ",
+    "En": "stupid, foolish",
+    "M": "true",
+    "Pl": "حَمْقَى",
+    "T": "Adjs",
+    "bk": "UNmaB3L26",
+    "v": "false"
+  },
+  {
+    "Ar": "أَضْعَفُ (اِسْمُ التَّفْضِيْلِ)",
+    "En": "Weakest",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L15",
+    "v": "false"
+  },
+  {
+    "Ar": "أَعْرَجُ (ث عَرْجَاءُ، ج عُرْجٌ",
+    "En": "lame",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "أَوْهَنُ",
+    "En": "weakest",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "بَاهِرٌ",
+    "En": "brilliant, dazzling",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "بِرٌ",
+    "En": "piety, righteousness",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L26",
+    "v": "false"
+  },
+  {
+    "Ar": "بِسُرْعَةٍ",
+    "En": "quickly",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "جَافٌّ",
+    "En": "dry",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L8",
+    "v": "false"
+  },
+  {
+    "Ar": "جُوعٌ",
+    "En": "hunger",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "حُبْلَى",
+    "En": "pregnant",
+    "M": "true",
+    "Pl": "حَبَالَى",
+    "T": "Adjs",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "خَطِيرٌ",
+    "En": "danderous",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L16",
+    "v": "false"
+  },
+  {
+    "Ar": "ذُو جِنَّةٍ",
+    "En": "mad",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L26",
+    "v": "false"
+  },
+  {
+    "Ar": "رَدِيءٌ",
+    "En": "bad",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "زَاهِرٌ",
+    "En": "brilliant, bright",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L25",
+    "v": "false"
+  },
+  {
+    "Ar": "سَفِيهٌ",
+    "En": "foolish",
+    "M": "true",
+    "Pl": "سُفَهاءُ",
+    "T": "Adjs",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "صَحِيحٌ",
+    "En": "healthy",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L2",
+    "v": "false"
+  },
+  {
+    "Ar": "طَهُورٌ",
+    "En": "clean, means of cleansing",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L25",
+    "v": "false"
+  },
+  {
+    "Ar": "عَجِيبٌ",
+    "En": "strange, odd, wonderful",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L11",
+    "v": "false"
+  },
+  {
+    "Ar": "عَنِيفٌ",
+    "En": "violent",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L22",
+    "v": "false"
+  },
+  {
+    "Ar": "غَافِلٌ",
+    "En": "unmindful",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "maB2L29",
+    "v": "false"
+  },
+  {
+    "Ar": "فَرِحٌ",
+    "En": "happy, rejoicing",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L2",
+    "v": "false"
+  },
+  {
+    "Ar": "كَرِيْهٌ",
+    "En": "unpleasant",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "maB2L29",
+    "v": "false"
+  },
+  {
+    "Ar": "كَسَلٌ",
+    "En": "laziness",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "لَيِّنٌ",
+    "En": "soft",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "maB2L29",
+    "v": "false"
+  },
+  {
+    "Ar": "مُتْعَبٌ",
+    "En": "tired, weary",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "مُظْلِمٌ",
+    "En": "dark",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "maB2L14",
+    "v": "false"
+  },
+  {
+    "Ar": "مُعْجَبٌ",
+    "En": "Pleased, delighted",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L17",
+    "v": "false"
+  },
+  {
+    "Ar": "مُفِيدٌ",
+    "En": "Useful, Informative",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L15",
+    "v": "false"
+  },
+  {
+    "Ar": "مُمْتازٌ",
+    "En": "Distiction (over 90%)",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L12",
+    "v": "false"
+  },
+  {
+    "Ar": "مُنَافِقٌ",
+    "En": "hypocrit",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "نَوْعٌ",
+    "En": "kind",
+    "M": "true",
+    "T": "Adjs",
+    "v": "false"
+  },
+  {
+    "Ar": "وَاضِحٌ",
+    "En": "clear",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+
+  {
+    "Ar": "بَارِد",
+    "En": "cold",
+    "M": "true",
+    "Pl": "SOUND",
+    "T": "Adjs",
+    "bk": "maB1L3",
+    "v": "false",
+    "o": "hot"
+  },
+  {
+    "Ar": "بَخِيل",
+    "En": "stingy",
+    "M": "true",
+    "Pl": "بُخَلَاءُ",
+    "T": "Adjs",
+    "v": "false"
+  },
+  {
+    "Ar": "بَطِيء",
+    "En": "slow",
+    "M": "true",
+    "Pl": "بِطَاء/ـُونَ",
+    "T": "Adjs",
+    "v": "false",
+    "o": "fast"
+  },
+  {
+    "Ar": "بَعِيد",
+    "En": "far away",
+    "M": "true",
+    "Pl": "SOUND",
+    "T": "Adjs",
+    "bk": "maB1L3",
+    "v": "false",
+    "o": "near"
+  },
+  {
+    "Ar": "تَكْسِير",
+    "En": "cracking/broken2",
+    "M": "true",
+    "T": "Adjs",
+    "v": "false"
+  },
+  {
+    "Ar": "تَمَام!",
+    "En": "perfect!",
+    "M": "true",
+    "Pl": "تَمَامُونَ/تَمَامَة",
+    "T": "Adjs",
+    "v": "false"
+  },
+  {
+    "Ar": "ثَقِيل",
+    "En": "heavy",
+    "M": "true",
+    "Pl": "ثِقَال",
+    "T": "Adjs",
+    "bk": "maB1L3",
+    "v": "false",
+    "o": "light"
+  },
+  {
+    "Ar": "جَاهِل",
+    "En": "ignorant",
+    "M": "true",
+    "Pl": "جُهَّال/جَهَلَة",
+    "T": "Adjs",
+    "v": "false",
+    "o": "intelligent"
+  },
+  {
+    "Ar": "جَبَان",
+    "En": "coward",
+    "M": "true",
+    "Pl": "جُبَنَاءُ",
+    "T": "Adjs",
+    "v": "false"
+  },
+  {
+    "Ar": "جَدِيد",
+    "En": "new",
+    "M": "true",
+    "Pl": "جُدُد/جَدِيدَة",
+    "T": "Adjs",
+    "bk": "maB1L3",
+    "v": "false",
+    "o": "old"
+  },
+  {
+    "Ar": "جَمِيل",
+    "En": "beautiful",
+    "M": "true",
+    "Pl": "جُمَلَاءُ",
+    "T": "Adjs",
+    "bk": "maB1L3",
+    "v": "false",
+    "o": "ugly"
+  },
+  {
+    "Ar": "جَوَاد",
+    "En": "generous",
+    "M": "true",
+    "Pl": "أَجْوَاد",
+    "T": "Adjs",
+    "v": "false",
+    "o": "stingy"
+  },
+  {
+    "Ar": "جَوْعَانُ",
+    "En": "hungry",
+    "M": "true",
+    "Pl": "جِيَاع",
+    "T": "Adjs",
+    "v": "false"
+  },
+  {
+    "Ar": "جَيِّدًا",
+    "En": "well",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "maB2L5",
+    "v": "false"
+  },
+  {
+    "Ar": "جِدًّا",
+    "En": "very",
+    "M": "true",
+    "T": "Adjs",
+    "v": "false"
+  },
+  {
+    "Ar": "حَادّ",
+    "En": "sharp",
+    "M": "true",
+    "Pl": "حِدَاد",
+    "T": "Adjs",
+    "v": "false"
+  },
+  {
+    "Ar": "حَارّ",
+    "En": "hot",
+    "M": "true",
+    "Pl": "SOUND",
+    "T": "Adjs",
+    "bk": "maB1L3",
+    "v": "false",
+    "o": "cold"
+  },
+  {
+    "Ar": "حَرٌّ",
+    "En": "heat",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L1",
+    "v": "false"
+  },
+  {
+    "Ar": "حُلْو",
+    "En": "sweet",
+    "M": "true",
+    "Pl": "SOUND",
+    "T": "Adjs",
+    "bk": "maB1L3",
+    "v": "false",
+    "o": "bitter"
+  },
+  {
+    "Ar": "خَفِيف",
+    "En": "light",
+    "M": "true",
+    "Pl": "خِفَاف",
+    "T": "Adjs",
+    "bk": "maB1L3",
+    "v": "false",
+    "o": "heavy"
+  },
+  {
+    "Ar": "خَيْر",
+    "En": "good",
+    "M": "true",
+    "T": "Adjs",
+    "v": "false"
+  },
+  {
+    "Ar": "ذَكِيّ",
+    "En": "intelligent/smart",
+    "M": "true",
+    "Pl": "أَذْكِيَاءُ",
+    "T": "Adjs",
+    "bk": "maB2L1",
+    "v": "false",
+    "o": "ignorant"
+  },
+  {
+    "Ar": "رَخِيص",
+    "En": "cheap",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "maB1L17",
+    "v": "false",
+    "o": "expensive"
+  },
+  {
+    "Ar": "رَيَّانُ",
+    "En": "satiated",
+    "M": "true",
+    "Pl": "رِوَاء",
+    "T": "Adjs",
+    "v": "false"
+  },
+  {
+    "Ar": "سَمِين",
+    "En": "fat",
+    "M": "true",
+    "Pl": "سِمَان",
+    "T": "Adjs",
+    "v": "false",
+    "o": "skinny"
+  },
+  {
+    "Ar": "سَهْل",
+    "En": "easy",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "maB1L9",
+    "v": "false",
+    "o": "hard"
+  },
+  {
+    "Ar": "شَبْعَانُ",
+    "En": "full",
+    "M": "true",
+    "Pl": "شِبَاع",
+    "T": "Adjs",
+    "v": "false"
+  },
+  {
+    "Ar": "شَهِير",
+    "En": "famous",
+    "M": "true",
+    "Pl": "SOUND",
+    "T": "Adjs",
+    "bk": "maB1L9",
+    "v": "false"
+  },
+  {
+    "Ar": "شُجَاع",
+    "En": "brave",
+    "M": "true",
+    "Pl": "شُجْعَان",
+    "T": "Adjs",
+    "v": "false",
+    "o": "coward"
+  },
+  {
+    "Ar": "صَالِح",
+    "En": "pious",
+    "M": "true",
+    "T": "Adjs",
+    "v": "false"
+  },
+  {
+    "Ar": "صَحِيح",
+    "En": "correct/healthy",
+    "M": "true",
+    "Pl": "صِحَاح",
+    "T": "Adjs",
+    "v": "false"
+  },
+  {
+    "Ar": "صَعْب",
+    "En": "difficult",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "maB1L9",
+    "v": "false",
+    "o": "easy"
+  },
+  {
+    "Ar": "صَغِير",
+    "En": "small",
+    "M": "true",
+    "Pl": "صِغَار/ـة",
+    "T": "Adjs",
+    "bk": "maB1L3",
+    "v": "false",
+    "o": "big"
+  },
+  {
+    "Ar": "ضَعِيف",
+    "En": "weak",
+    "M": "true",
+    "Pl": "ضِعَاف",
+    "T": "Adjs",
+    "bk": "maB1L12",
+    "v": "false",
+    "o": "strong"
+  },
+  {
+    "Ar": "طَالِح",
+    "En": "wicked",
+    "M": "true",
+    "Pl": "ـة/ـُونَ",
+    "T": "Adjs",
+    "v": "false"
+  },
+  {
+    "Ar": "طَوِيل",
+    "En": "tall",
+    "M": "true",
+    "Pl": "طِوَال",
+    "T": "Adjs",
+    "bk": "maB1L3",
+    "v": "false",
+    "o": "short"
+  },
+  {
+    "Ar": "عَالٍ",
+    "En": "high, loud",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "maB2L7",
+    "v": "false"
+  },
+  {
+    "Ar": "عَالِم",
+    "En": "knowkedgeable",
+    "M": "true",
+    "Pl": "عُلَمَاءُ",
+    "T": "Adjs",
+    "v": "false"
+  },
+  {
+    "Ar": "عَالِيْةٌ",
+    "En": "high, loud (fem)",
+    "M": "false",
+    "T": "Adjs",
+    "bk": "maB2L7",
+    "v": "false"
+  },
+  {
+    "Ar": "عَزَبٌ",
+    "En": "unmarried",
+    "M": "true",
+    "Pl": "أعْزَاب",
+    "T": "Adjs",
+    "bk": "maB2L1",
+    "v": "false"
+  },
+  {
+    "Ar": "عَطْشَانُ",
+    "En": "thirsty",
+    "M": "true",
+    "Pl": "عِطَاش",
+    "T": "Adjs",
+    "v": "false"
+  },
+  {
+    "Ar": "غَالٍ",
+    "En": "expensive",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "maB2L1",
+    "v": "false"
+  },
+  {
+    "Ar": "غَضْبَانُ",
+    "En": "angry",
+    "M": "true",
+    "Pl": "غِضَاب",
+    "T": "Adjs",
+    "v": "false"
+  },
+  {
+    "Ar": "غَنِيّ",
+    "En": "rich",
+    "M": "true",
+    "Pl": "أَغْنِيَاءُ",
+    "T": "Adjs",
+    "bk": "maB1L3",
+    "v": "false",
+    "o": "poor"
+  },
+  {
+    "Ar": "غَيّ",
+    "En": "dumb",
+    "M": "true",
+    "Pl": "أَغْبِيَاءُ",
+    "T": "Adjs",
+    "bk": "maB2L1",
+    "v": "false",
+    "o": "intelligent"
+  },
+  {
+    "Ar": "فَقَطْ",
+    "En": "only",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "maB2L6",
+    "v": "false"
+  },
+  {
+    "Ar": "فَقِرت",
+    "En": "poor",
+    "M": "true",
+    "Pl": "فُقَرَاءُ",
+    "T": "Adjs",
+    "bk": "maB1L3",
+    "v": "false"
+  },
+  {
+    "Ar": "قَبِيح",
+    "En": "ugly",
+    "M": "true",
+    "Pl": "قَبَائِحُ",
+    "T": "Adjs",
+    "v": "false",
+    "o": "beautiful"
+  },
+  {
+    "Ar": "قَدِيم",
+    "En": "old",
+    "M": "true",
+    "Pl": "قُدَمَاءُ/ـة",
+    "T": "Adjs",
+    "bk": "maB1L3",
+    "v": "false",
+    "o": "new"
+  },
+  {
+    "Ar": "قَرِيب",
+    "En": "near",
+    "M": "true",
+    "Pl": "قَرِيبُونََ/قرِيبَة",
+    "T": "Adjs",
+    "bk": "maB1L3",
+    "v": "false",
+    "o": "far away"
+  },
+  {
+    "Ar": "قَصِر",
+    "En": "short",
+    "M": "true",
+    "Pl": "قِصَار",
+    "T": "Adjs",
+    "bk": "maB1L13",
+    "v": "false"
+  },
+  {
+    "Ar": "قَلِيل",
+    "En": "few/little",
+    "M": "true",
+    "T": "Adjs",
+    "v": "false",
+    "o": "many"
+  },
+  {
+    "Ar": "قَوِيّ",
+    "En": "strong",
+    "M": "true",
+    "Pl": "أَقْوِيَاءُ",
+    "T": "Adjs",
+    "bk": "maB1L12",
+    "v": "false",
+    "o": "weak"
+  },
+  {
+    "Ar": "كَبِير",
+    "En": "big",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "maB1L3",
+    "v": "false",
+    "o": "small"
+  },
+  {
+    "Ar": "لَذِيذ",
+    "En": "tasty",
+    "M": "true",
+    "Pl": "لُذِّ/لذَاذ",
+    "T": "Adjs",
+    "v": "false"
+  },
+  {
+    "Ar": "مَرِيض",
+    "En": "sick",
+    "M": "true",
+    "Pl": "مَرْضَى",
+    "T": "Adjs",
+    "bk": "maB1L3",
+    "v": "false",
+    "o": "healthy"
+  },
+  {
+    "Ar": "مَسْرُورٌ",
+    "En": "pleased, happy",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "maB2L6",
+    "v": "false"
+  },
+  {
+    "Ar": "مَفْتُوح",
+    "En": "open",
+    "M": "true",
+    "Pl": "SOUND",
+    "T": "Adjs",
+    "v": "false",
+    "o": "closed"
+  },
+  {
+    "Ar": "مَكْسُور",
+    "En": "broken",
+    "M": "true",
+    "Pl": "SOUND",
+    "T": "Adjs",
+    "v": "false"
+  },
+  {
+    "Ar": "مَلْآنُ",
+    "En": "full2",
+    "M": "true",
+    "Pl": "مِلَاء",
+    "T": "Adjs",
+    "v": "false"
+  },
+  {
+    "Ar": "مُتَزَوِّجٌ",
+    "En": "married",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "maB2L1",
+    "v": "false"
+  },
+  {
+    "Ar": "مُجْتَهِد",
+    "En": "hardworking",
+    "M": "true",
+    "Pl": "مُجْتَهِدُوْنَ",
+    "T": "Adjs",
+    "bk": "maB1L9",
+    "v": "false"
+  },
+  {
+    "Ar": "مُرّ",
+    "En": "bitter",
+    "M": "true",
+    "Pl": "أَمْرَار",
+    "T": "Adjs",
+    "v": "false",
+    "o": "sweet"
+  },
+  {
+    "Ar": "مُغْلَق",
+    "En": "closed/ shut",
+    "M": "true",
+    "Pl": "SOUND",
+    "T": "Adjs",
+    "bk": "maB1L5",
+    "v": "false",
+    "o": "open"
+  },
+  {
+    "Ar": "مُـتَّـقٍ",
+    "En": "god-fearing, pious",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "UNmaB3L1",
+    "v": "false"
+  },
+  {
+    "Ar": "مُلَوَّنٌ",
+    "En": "coloured",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "maB2L7",
+    "v": "false"
+  },
+  {
+    "Ar": "مُمَزَّقٌ",
+    "En": "torn",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "maB2L28",
+    "v": "false"
+  },
+  {
+    "Ar": "مُنَوَّر",
+    "En": "radiant",
+    "M": "true",
+    "Pl": "ـة/ـُونَ",
+    "T": "Adjs",
+    "v": "false"
+  },
+  {
+    "Ar": "مُوَجَّه",
+    "En": "love2",
+    "M": "true",
+    "Pl": "ـُونَ",
+    "T": "Adjs",
+    "v": "false"
+  },
+  {
+    "Ar": "نَحِيف",
+    "En": "skinny",
+    "M": "true",
+    "Pl": "نُحَفَاءُ",
+    "T": "Adjs",
+    "v": "false",
+    "o": "fat"
+  },
+  {
+    "Ar": "نَشِيطٌ",
+    "En": "active, energetic",
+    "M": "true",
+    "Pl": "نِشَاطٌ",
+    "T": "Adjs",
+    "bk": "UNmaB3L26",
+    "v": "false"
+  },
+  {
+    "Ar": "نَظِيف",
+    "En": "clean",
+    "M": "true",
+    "Pl": "نِظَاف/ـة",
+    "T": "Adjs",
+    "bk": "maB1L3",
+    "v": "false",
+    "o": "dirty"
+  },
+  {
+    "Ar": "نَعْسَانُ",
+    "En": "sleepy",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "maB2L14",
+    "v": "false"
+  },
+  {
+    "Ar": "مَشْغُولٌ",
+    "En": "busy",
+    "M": "true",
+    "T": "Adj",
+    "bk": "maB2L27",
+    "v": "false"
+  },
+  {
+    "Ar": "وَاسِع",
+    "En": "spacious",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "maB1L21",
+    "v": "false"
+  },
+  {
+    "Ar": "وَسِخ",
+    "En": "dirty",
+    "M": "true",
+    "T": "Adjs",
+    "bk": "maB1L3",
+    "v": "false",
+    "o": "clean"
+  }
+]

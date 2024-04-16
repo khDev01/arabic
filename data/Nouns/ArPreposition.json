@@ -1,0 +1,190 @@
+[
+  {
+    "Ar": "أَنَا",
+    "En": "I/me",
+    "M": "true",
+    "Pl": "نَحْنُ",
+    "T": "B",
+    "v": "false"
+  },
+  {
+    "Ar": "ـِـي",
+    "En": "my",
+    "M": "true",
+    "Pl": "ـنَا",
+    "T": "B",
+    "v": "false"
+  },
+  {
+    "Ar": "أَنْتَ",
+    "En": "you",
+    "M": "true",
+    "Pl": "أَنْتُمْ",
+    "T": "p",
+    "v": "false"
+  },
+  {
+    "Ar": "أَنْتُمَا",
+    "En": "you(2)",
+    "M": "true",
+    "T": "p",
+    "v": "false"
+  },
+  {
+    "Ar": "أَنْتِ",
+    "En": "you",
+    "M": "true",
+    "Pl": "أنْتُنَّ",
+    "T": "p",
+    "v": "false"
+  },
+  {
+    "Ar": "ـكِ",
+    "En": "your",
+    "M": "true",
+    "Pl": "ـكَُنَّ",
+    "T": "p",
+    "v": "false"
+  },
+  {
+    "Ar": "أ",
+    "En": "foraskingquestions",
+    "M": "true",
+    "T": "P",
+    "v": "false"
+  },
+  {
+    "Ar": "إِلَى",
+    "En": "to",
+    "M": "true",
+    "T": "P",
+    "bk": "maB1L4",
+    "v": "false"
+  },
+  {
+    "Ar": "ثُمّ",
+    "En": "then",
+    "M": "true",
+    "T": "P",
+    "v": "false"
+  },
+  {
+    "Ar": "عَلَى",
+    "En": "on",
+    "M": "true",
+    "T": "P",
+    "bk": "maB1L4",
+    "v": "false"
+  },
+  {
+    "Ar": "عَنْ",
+    "En": "about",
+    "M": "true",
+    "T": "P",
+    "v": "false"
+  },
+  {
+    "Ar": "عِنْدَ",
+    "En": "with/have/at",
+    "M": "true",
+    "T": "P",
+    "v": "false"
+  },
+  {
+    "Ar": "ـكَ",
+    "En": "your(attached)m",
+    "M": "true",
+    "Pl": "ـكُمْ",
+    "T": "P",
+    "v": "false"
+  },
+  {
+    "Ar": "ـهً",
+    "En": "his",
+    "M": "true",
+    "Pl": "ـهُمْ",
+    "T": "P",
+    "v": "false"
+  },
+  {
+    "Ar": "ـهَا",
+    "En": "her",
+    "M": "true",
+    "Pl": "ـهَُنَّ",
+    "T": "P",
+    "v": "false"
+  },
+  {
+    "Ar": "فِي",
+    "En": "in",
+    "M": "true",
+    "T": "P",
+    "bk": "maB1L4",
+    "v": "false"
+  },
+  {
+    "Ar": "لَا",
+    "En": "no",
+    "M": "true",
+    "T": "P",
+    "v": "false"
+  },
+  {
+    "Ar": "مَعَ",
+    "En": "with",
+    "M": "true",
+    "T": "P",
+    "v": "false"
+  },
+  {
+    "Ar": "مِنْ",
+    "En": "from",
+    "M": "true",
+    "T": "P",
+    "bk": "maB1L4",
+    "v": "false"
+  },
+  {
+    "Ar": "نَعَمْ",
+    "En": "yes",
+    "M": "true",
+    "T": "P",
+    "v": "false"
+  },
+  {
+    "Ar": "هِيَ",
+    "En": "she/it",
+    "M": "true",
+    "Pl": "هِيَ/هَُنّ",
+    "T": "P",
+    "v": "false"
+  },
+  {
+    "Ar": "هِيَ/هُمْ/هُوَ",
+    "En": "he/it",
+    "M": "true",
+    "T": "P",
+    "v": "false"
+  },
+  {
+    "Ar": "وَ",
+    "En": "and",
+    "M": "true",
+    "T": "P",
+    "v": "false"
+  },
+  {
+    "Ar": "يَا",
+    "En": "usedforcalling",
+    "M": "true",
+    "T": "P",
+    "v": "false"
+  },
+  {
+    "Ar": "هُمَا",
+    "En": "they(2)",
+    "M": "true",
+    "T": "P",
+    "v": "false"
+  }
+]

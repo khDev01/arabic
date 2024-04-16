@@ -1,0 +1,167 @@
+[
+  {
+    "Ar": "بَعْض",
+    "En": "some",
+    "M": "true",
+    "Pl": "أَبْعَاض",
+    "T": "finance misc",
+    "v": "false"
+  },
+  {
+    "Ar": "تِجَارَة",
+    "En": "commerce",
+    "M": "false",
+    "Pl": "تِجَارَات",
+    "T": "finance",
+    "v": "false"
+  },
+  {
+    "Ar": "ثَمَن",
+    "En": "price/value",
+    "M": "true",
+    "Pl": "أَثْمَان",
+    "T": "finance",
+    "v": "false"
+  },
+  {
+    "Ar": "جُنَيْه",
+    "En": "pound",
+    "M": "true",
+    "Pl": "جُنَيْهات",
+    "T": "finance",
+    "v": "false"
+  },
+  {
+    "Ar": "دُولَار",
+    "En": "dollar",
+    "M": "true",
+    "Pl": "دُولَارَات",
+    "T": "finance",
+    "bk": "maB2L1",
+    "v": "false"
+  },
+  {
+    "Ar": "ذَهَب",
+    "En": "gold",
+    "M": "true",
+    "Pl": "أَذْهَاب",
+    "T": "finance",
+    "v": "false"
+  },
+  {
+    "Ar": "رُوبِيَّةٌ",
+    "En": "rupee",
+    "M": "false",
+    "Pl": "رُوبِيَّات",
+    "T": "finance",
+    "bk": "maB2L1",
+    "v": "false"
+  },
+  {
+    "Ar": "رِيَال",
+    "En": "riyal",
+    "M": "true",
+    "Pl": "رِيَالَات",
+    "T": "finance",
+    "bk": "maB1L18",
+    "v": "false"
+  },
+  {
+    "Ar": "قُرُوْش",
+    "En": "thousandss of riyal",
+    "M": "true",
+    "T": "finance",
+    "v": "false"
+  },
+  {
+    "Ar": "قِرْش",
+    "En": "tenths of a riyal",
+    "M": "true",
+    "T": "finance",
+    "v": "false"
+  },
+  {
+    "Ar": "قِيمَةٌ",
+    "En": "value, price",
+    "M": "true",
+    "T": "nfin",
+    "bk": "UNmaB3L8",
+    "v": "false"
+  },
+  {
+    "Ar": "مَبْلَغٌ",
+    "En": "sum of money, amount",
+    "M": "true",
+    "Pl": "مَبَالِغُ",
+    "T": "nfin",
+    "bk": "UNmaB3L9",
+    "v": "false"
+  },
+  {
+    "Ar": "مَالٌ",
+    "En": "wealth",
+    "M": "true",
+    "Pl": "أَمْوَالٌ",
+    "T": "nfinan",
+    "bk": "UNmaB3L25",
+    "v": "false"
+  },
+  {
+    "Ar": "عُمْلَةٌ",
+    "En": "currency",
+    "M": "true",
+    "T": "nfinance",
+    "bk": "UNmaB3L9",
+    "v": "false"
+  },
+  {
+    "Ar": "تُرَاثٌ",
+    "En": "legacy, inheritance",
+    "M": "true",
+    "T": "nfinance",
+    "bk": "UNmaB3L28",
+    "v": "false"
+  },
+  {
+    "Ar": "تِجارَةٌ",
+    "En": "commerce, trade",
+    "M": "true",
+    "T": "nfinance",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "دِرْهَمٌ",
+    "En": "an ancient silver coin",
+    "M": "true",
+    "Pl": "دَرَاهِمُ",
+    "T": "nfinance",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "دِينارٌ",
+    "En": "an ancient gold coin",
+    "M": "true",
+    "Pl": "دَنَانِيرُ",
+    "T": "nfinance",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "مَزَادٌ",
+    "En": "auction",
+    "M": "true",
+    "T": "nfinance",
+    "bk": "UNmaB3L5",
+    "v": "false"
+  },
+  {
+    "Ar": "نَقْدٌ",
+    "En": "money, cash",
+    "M": "true",
+    "T": "nfin",
+    "bk": "maB2L26",
+    "v": "false"
+  }
+]

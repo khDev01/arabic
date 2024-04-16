@@ -1,0 +1,119 @@
+[
+  {
+    "Ar": "إِزَارٌ",
+    "En": "sheet covering the lower part of the body",
+    "M": "true",
+    "Pl": "أُزُرٌ",
+    "T": "ncloth",
+    "bk": "UNmaB3L17",
+    "v": "false"
+  },
+  {
+    "Ar": "رِدَاءٌ",
+    "En": "sheet covering the upper part of the body",
+    "M": "true",
+    "Pl": "أََرْدِيَةٌ",
+    "T": "ncloth",
+    "bk": "UNmaB3L17",
+    "v": "false"
+  },
+  {
+    "Ar": "لِبْسٌ",
+    "En": "Dress, clothes",
+    "M": "true",
+    "T": "ncloth",
+    "bk": "UNmaB3L13",
+    "v": "false"
+  },
+  {
+    "Ar": "نَعْلٌ",
+    "En": "sandal",
+    "M": "true",
+    "T": "ncloth",
+    "bk": "UNmaB3L9",
+    "v": "false"
+  },
+  {
+    "Ar": "قُمَاشٌ",
+    "En": "cloth-fabric",
+    "M": "true",
+    "T": "ncloth",
+    "bk": "maB2L16",
+    "v": "false"
+  },
+  {
+    "Ar": "مَلابِسُ",
+    "En": "clothes",
+    "M": "false",
+    "T": "ncloth",
+    "bk": "maB2L18",
+    "v": "false"
+  },
+  {
+    "Ar": "مُشْطٌ",
+    "En": "comb",
+    "M": "true",
+    "T": "ncloth",
+    "bk": "maB2L20",
+    "v": "false"
+  },
+  {
+    "Ar": "ثَوْب",
+    "En": "garment",
+    "M": "true",
+    "Pl": "أَثْوَاب",
+    "T": "nclothes",
+    "v": "false"
+  },
+  {
+    "Ar": "قَمِيص",
+    "En": "shirt",
+    "M": "true",
+    "Pl": "قُمْصَان",
+    "T": "nclothes",
+    "bk": "maB1L1",
+    "v": "false"
+  },
+  {
+    "Ar": "بَنْطِلُون",
+    "En": "trousers(western)",
+    "M": "true",
+    "Pl": "بَنَاطِيلُ",
+    "T": "nClothes",
+    "v": "false"
+  },
+  {
+    "Ar": "سِرْوَال",
+    "En": "trousers(islamic)",
+    "M": "true",
+    "Pl": "سَرَاوِيلُ",
+    "T": "nClothes",
+    "v": "false"
+  },
+  {
+    "Ar": "حِذَاء",
+    "En": "shoe/trainer",
+    "M": "true",
+    "Pl": "أَحْذِيَة",
+    "T": "nClothes",
+    "v": "false"
+  },
+
+  {
+    "Ar": "خَيْطٌ",
+    "En": "thread",
+    "M": "true",
+    "Pl": "خُيُوطٌ",
+    "T": "ntailor",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "خِيَاطٌ",
+    "En": "needle",
+    "M": "true",
+    "T": "ntailor",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  }
+]

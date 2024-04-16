@@ -1,0 +1,541 @@
+[
+  {
+    "Ar": "عُطْلَةٌ",
+    "En": "holiday",
+    "M": "false",
+    "T": "ntime",
+    "bk": "maB2L17",
+    "v": "false"
+  },
+  {
+    "Ar": "مُنْتَصَفُ اللَّيْلِ",
+    "En": "midnight",
+    "M": "true",
+    "T": "ntime",
+    "bk": "maB2L27",
+    "v": "false"
+  },
+  {
+    "Ar": "ثَانِيَةٌ",
+    "En": "second (unit of time)",
+    "M": "true",
+    "T": "ntime",
+    "bk": "maB2L23",
+    "v": "false"
+  },
+  {
+    "Ar": "العَامُ المُقْبِلُ",
+    "En": "next year",
+    "M": "true",
+    "T": "ntime",
+    "bk": "maB2L17",
+    "v": "false"
+  },
+  {
+    "Ar": "رَجَب",
+    "En": "Rajab",
+    "M": "true",
+    "T": "nMonth",
+    "v": "false"
+  },
+
+  {
+    "Ar": "فِي أَثْنَاءِ",
+    "En": "during",
+    "M": "true",
+    "T": "ntime",
+    "bk": "maB2L15",
+    "v": "false"
+  },
+
+  {
+    "Ar": "أُسْبُوع",
+    "En": "week",
+    "M": "true",
+    "Pl": "أَسَابِيعُ",
+    "T": "nTime",
+    "bk": "maB1L15",
+    "v": "false"
+  },
+  {
+    "Ar": "الآنَ",
+    "En": "now, just now",
+    "M": "true",
+    "T": "nTime",
+    "bk": "maB1L9",
+    "v": "false"
+  },
+  {
+    "Ar": "بَعْدَ",
+    "En": "after",
+    "M": "true",
+    "T": "nTime",
+    "bk": "maB1L12",
+    "v": "false"
+  },
+  {
+    "Ar": "دَقِيقَة",
+    "En": "minute",
+    "M": "false",
+    "Pl": "دَقَائِقُ",
+    "T": "nTime",
+    "bk": "maB1L22",
+    "v": "false"
+  },
+  {
+    "Ar": "شَهْر",
+    "En": "month",
+    "M": "true",
+    "Pl": "شُهُور",
+    "T": "nTime",
+    "bk": "maB1L14",
+    "v": "false"
+  },
+  {
+    "Ar": "يَوْم",
+    "En": "day",
+    "M": "true",
+    "Pl": "أيَّام",
+    "T": "nTime",
+    "v": "false"
+  },
+  {
+    "Ar": "يَوْمُ الأَرْبِعَاءِ",
+    "En": "Wednesday",
+    "M": "true",
+    "T": "nTime",
+    "v": "false"
+  },
+  {
+    "Ar": "يَوْمُ الثُّلَثَاءِ",
+    "En": "Tuesday",
+    "M": "true",
+    "T": "nTime",
+    "v": "false"
+  },
+  {
+    "Ar": "يَوْمُ السَّبْتِ",
+    "En": "Saturday",
+    "M": "true",
+    "T": "nTime",
+    "bk": "maB1L14",
+    "v": "false"
+  },
+  {
+    "Ar": "يَوْمُ الْأَحَدِ",
+    "En": "Sunday",
+    "M": "true",
+    "T": "nTime",
+    "v": "false"
+  },
+  {
+    "Ar": "يَوْمُ الْإثْنَيْنِ",
+    "En": "Monday",
+    "M": "true",
+    "T": "nTime",
+    "v": "false"
+  },
+  {
+    "Ar": "يَوْمُ الْجُمُعَةِ",
+    "En": "Friday",
+    "M": "false",
+    "T": "nTime",
+    "v": "false"
+  },
+  {
+    "Ar": "يَوْمُ الْخَمِيسِ",
+    "En": "Thursday",
+    "M": "true",
+    "T": "nTime",
+    "v": "false"
+  },
+  {
+    "Ar": "إلى أَجَلٍ غَيْرِ مُسَمًّى",
+    "En": "sine die( from the Latin 'without day'). E.g. Adjourned indefinitely - without setting any future date of meeting",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L16",
+    "v": "false"
+  },
+  {
+    "Ar": "عِشَاءٌ",
+    "En": "Evening, Early night",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L12",
+    "v": "false"
+  },
+  {
+    "Ar": "أَجَلٌ مُسَمًّى",
+    "En": "appointed time",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L16",
+    "v": "false"
+  },
+  {
+    "Ar": "أَحْيَانًا",
+    "En": "sometimes",
+    "M": "true",
+    "T": "ntime",
+    "bk": "maB2L10",
+    "v": "false"
+  },
+  {
+    "Ar": "أَيَّانَ",
+    "En": "when",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "الأسْبُوعُ المَاضي",
+    "En": "last week",
+    "M": "true",
+    "T": "ntime",
+    "bk": "maB2L7",
+    "v": "false"
+  },
+  {
+    "Ar": "البَارِحَةَ",
+    "En": "last night",
+    "M": "false",
+    "T": "ntime",
+    "bk": "maB2L7",
+    "v": "false"
+  },
+  {
+    "Ar": "العَامُ المُنْصَرِمُ",
+    "En": "last year",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L22",
+    "v": "false"
+  },
+  {
+    "Ar": "الفَيْنَةَ بَعْدَ الفَيْنَةِ",
+    "En": "every now and then",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L29",
+    "v": "false"
+  },
+  {
+    "Ar": "اليَوْمَ",
+    "En": "today",
+    "M": "true",
+    "T": "ntime",
+    "bk": "maB1L9",
+    "v": "false"
+  },
+  {
+    "Ar": "الْجَاهِلِيَّةُ",
+    "En": "the Time of Ignorance preceeding the advent of islam",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L28",
+    "v": "false"
+  },
+  {
+    "Ar": "الْحَرْبُ الأَهْلِيَّةُ",
+    "En": "civil war",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "الْحَرْبُ العَالَمِِيَّةُ الأُولَى",
+    "En": "first world war",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "انْـتِـظَارٌ",
+    "En": "waiting",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L10",
+    "v": "false"
+  },
+  {
+    "Ar": "حَرْبٌ",
+    "En": "war",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "حِـيـنَـئِـذٍ",
+    "En": "at that time",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L1",
+    "v": "false"
+  },
+  {
+    "Ar": "حِينَ (ظَرْفُ الزَّمَانِ)",
+    "En": "When, at the time when",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L15",
+    "v": "false"
+  },
+  {
+    "Ar": "حِيْنٌ",
+    "En": "Time, Period of time",
+    "M": "true",
+    "Pl": "أَحْيَانٌ جج أَحَايِينُ",
+    "T": "ntime",
+    "bk": "UNmaB3L15",
+    "v": "false"
+  },
+  {
+    "Ar": "دَائِمًا",
+    "En": "always",
+    "M": "true",
+    "T": "ntime",
+    "bk": "maB2L10",
+    "v": "false"
+  },
+  {
+    "Ar": "دَهْرٌ",
+    "En": "time/eternity",
+    "M": "true",
+    "Pl": "دُهُورٌ",
+    "T": "ntime",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "زَائِلٌ",
+    "En": "transitory, not eternal",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "زَمَان",
+    "En": "time/period of time",
+    "M": "true",
+    "Pl": "أَزْمِنَة",
+    "T": "ntime",
+    "v": "false"
+  },
+  {
+    "Ar": "سَاعَة",
+    "En": "watch/time/hour",
+    "M": "true",
+    "Pl": "سَاعَات",
+    "T": "ntime",
+    "v": "false"
+  },
+  {
+    "Ar": "سَنَة",
+    "En": "year",
+    "M": "true",
+    "T": "ntime",
+    "bk": "maB1L18",
+    "v": "false"
+  },
+  {
+    "Ar": "شَهْرِيٌّ",
+    "En": "monthly",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L4",
+    "v": "false"
+  },
+  {
+    "Ar": "صَبَاحٌ",
+    "En": "morning",
+    "M": "true",
+    "T": "ntime",
+    "bk": "maB2L7",
+    "v": "false"
+  },
+  {
+    "Ar": "عُمْرَةٌ",
+    "En": "visit to the Ka'bah",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L2",
+    "v": "false"
+  },
+  {
+    "Ar": "عِدَّةُ أَيَّامٍ",
+    "En": "several days",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "عِنْدَما",
+    "En": "when",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L16",
+    "v": "false"
+  },
+  {
+    "Ar": "عِيد",
+    "En": "festival",
+    "M": "true",
+    "Pl": "أَعْيَاد",
+    "T": "ntime",
+    "v": "false"
+  },
+  {
+    "Ar": "فَجْأَةًً",
+    "En": "suddenly",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L10",
+    "v": "false"
+  },
+  {
+    "Ar": "فَجْرٌ",
+    "En": "dawn",
+    "M": "true",
+    "T": "ntime",
+    "bk": "maB2L5",
+    "v": "false"
+  },
+  {
+    "Ar": "فَوْراً",
+    "En": "at once, instatly",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L24",
+    "v": "false"
+  },
+  {
+    "Ar": "فَيْنَةٌ",
+    "En": "moment, time",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L29",
+    "v": "false"
+  },
+  {
+    "Ar": "فُسْحَةٌ",
+    "En": "tea break (between lessons at school)",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L9",
+    "v": "false"
+  },
+  {
+    "Ar": "لَحْظَةٌ",
+    "En": "moment",
+    "M": "false",
+    "T": "ntime",
+    "bk": "maB2L9",
+    "v": "false"
+  },
+  {
+    "Ar": "لَيْلٌ",
+    "En": "night",
+    "M": "true",
+    "T": "ntime",
+    "bk": "maB2L28",
+    "v": "false"
+  },
+  {
+    "Ar": "مَرَّةً أُخْرَى",
+    "En": "once again",
+    "M": "true",
+    "T": "ntime",
+    "bk": "maB2L10",
+    "v": "false"
+  },
+  {
+    "Ar": "مَوْعِدٌ",
+    "En": "appointment",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L29",
+    "v": "false"
+  },
+  {
+    "Ar": "مُتَأَخِّرٌ",
+    "En": "late",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "مُدَّةٌ",
+    "En": "Period of time",
+    "M": "true",
+    "Pl": "مُدَدٌ",
+    "T": "ntime",
+    "bk": "UNmaB3L12",
+    "v": "false"
+  },
+  {
+    "Ar": "مُسْتَقْبَلٌ",
+    "En": "Future",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L13",
+    "v": "false"
+  },
+  {
+    "Ar": "نَهَارٌ",
+    "En": "day, daytime (from dawn to dusk)",
+    "M": "true",
+    "T": "ntime",
+    "bk": "UNmaB3L12",
+    "v": "false"
+  },
+  {
+    "Ar": "هُنَيْهَةٌ",
+    "En": "a while",
+    "M": "false",
+    "T": "ntime",
+    "bk": "maB2L29",
+    "v": "false"
+  },
+  {
+    "Ar": "عَشَاءٌ",
+    "En": "supper",
+    "M": "true",
+    "T": "ntime",
+    "bk": "maB2L17",
+    "v": "false"
+  },
+  {
+    "Ar": "أَجَلٌ",
+    "En": "term, appointed time, deadline, time of death",
+    "M": "true",
+    "Pl": "آجَالٌ",
+    "T": "ntime/ndeath",
+    "bk": "UNmaB3L16/28",
+    "v": "false"
+  },
+  {
+    "Ar": "حِصَّةٌ",
+    "En": "period (in educational institution)",
+    "M": "true",
+    "Pl": "حِصَصٌ",
+    "T": "ntimes/nstudy",
+    "bk": "UNmaB3L29",
+    "v": "false"
+  },
+  {
+    "Ar": "بِانْتِظَام",
+    "En": "regularly",
+    "M": "true",
+    "T": "ntime",
+    "bk": "maB2L26",
+    "v": "false"
+  }
+]

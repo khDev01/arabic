@@ -1,0 +1,26 @@
+[
+  {
+    "Ar": "كُرَةُ السَّلَّةِ",
+    "En": "basketball",
+    "M": "false",
+    "T": "nactive",
+    "bk": "maB2L7",
+    "v": "false"
+  },
+  {
+    "Ar": "كُرَةُ القَدَمِ",
+    "En": "football",
+    "M": "false",
+    "T": "nactive",
+    "bk": "maB2L7",
+    "v": "false"
+  },
+  {
+    "Ar": "فَرَاغ",
+    "En": "freetime",
+    "M": "true",
+    "Pl": "فَرَاغَات",
+    "T": "nactivity",
+    "v": "false"
+  }
+]

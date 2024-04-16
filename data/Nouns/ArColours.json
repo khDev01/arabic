@@ -1,0 +1,80 @@
+[
+  {
+    "Ar": "بُرْتُقَالٌ",
+    "En": "orange",
+    "M": "true",
+    "T": "color/fruit",
+    "bk": "maB2L7",
+    "v": "false"
+  },
+  {
+    "Ar": "أَبْيَضُ",
+    "En": "white",
+    "M": "true",
+    "Pl": "بِيض",
+    "T": "Colour",
+    "bk": "maB1L22",
+    "v": "false"
+  },
+  {
+    "Ar": "أَحْمَرُ",
+    "En": "red",
+    "M": "true",
+    "Pl": "حُمْر",
+    "T": "Colour",
+    "bk": "maB1L22",
+    "v": "false"
+  },
+  {
+    "Ar": "أَخْضَرُ",
+    "En": "green",
+    "M": "true",
+    "Pl": "خُضْر",
+    "T": "Colour",
+    "bk": "maB1L22",
+    "v": "false"
+  },
+  {
+    "Ar": "أَزْرَقُ",
+    "En": "blue",
+    "M": "true",
+    "Pl": "زُرْق",
+    "T": "Colour",
+    "bk": "maB1L22",
+    "v": "false"
+  },
+  {
+    "Ar": "أَسْوَدُ",
+    "En": "black",
+    "M": "true",
+    "Pl": "سُود",
+    "T": "Colour",
+    "bk": "maB1L22",
+    "v": "false"
+  },
+  {
+    "Ar": "أَصْفَرُ",
+    "En": "yellow",
+    "M": "true",
+    "Pl": "صُفْر",
+    "T": "Colour",
+    "bk": "maB1L22",
+    "v": "false"
+  },
+  {
+    "Ar": "لَوْن",
+    "En": "Colour",
+    "M": "true",
+    "Pl": "أَلْوَان",
+    "T": "Colour",
+    "v": "false"
+  },
+  {
+    "Ar": "أَسْمَرُ",
+    "En": "brown (diptote)",
+    "M": "true",
+    "T": "Colour",
+    "bk": "maB2L16",
+    "v": "false"
+  }
+]

@@ -1,0 +1,1484 @@
+[
+  {
+    "id": "1",
+    "Ar": "ذَلِكَ",
+    "En": "that",
+    "M": "true",
+    "Pl": "أُولَئِكَ/تِلْكَ",
+    "ArOgender": "تِلْكَ",
+    "Dl": "ذَانِكَ",
+    "DlEn": "those(2)",
+    "DlOppGender": "تَانِكَ",
+    "NonpopularAr": "ذَاكَ",
+    "T": "point",
+    "bk": "maB1L21",
+    "v": "false",
+    "pl2": "",
+    "o": ""
+  },
+  {
+    "Ar": "لِقَاءٌ",
+    "En": "meeting",
+    "M": "true",
+    "bk": "maB2L2",
+    "v": "false"
+  },
+  {
+    "Ar": "جَيِّدٌ",
+    "En": "good",
+    "M": "true",
+    "bk": "maB2L2",
+    "v": "false"
+  },
+  {
+    "Ar": "طَيِّبٌ",
+    "En": "good",
+    "M": "true",
+    "bk": "maB2L29",
+    "v": "false"
+  },
+  {
+    "Ar": "كَوْكَبٌ",
+    "En": "star",
+    "M": "true",
+    "bk": "maB2L3",
+    "v": "false"
+  },
+  {
+    "Ar": "أَثَرٌ",
+    "En": "effect",
+    "M": "true",
+    "Pl": "آثَارٌ",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "أَخْرَسُ",
+    "En": "???",
+    "M": "true",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "أَدَاةُ الاسْتِثْنَاءِ",
+    "En": "the tool of exception",
+    "M": "true",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "أَسْفَلَ",
+    "En": "the lowes",
+    "M": "true",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "أَصْلاً",
+    "En": "originally",
+    "M": "true",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "أُسْلُوبٌ",
+    "En": "style (literary)",
+    "M": "true",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "إِياك وَ...",
+    "En": "beware of ...",
+    "M": "true",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "الثَّقَت",
+    "En": "???",
+    "M": "true",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "اِحْتِمالٌ",
+    "En": "possibility, probability",
+    "M": "true",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "اِسْتِثْنَاءٌ",
+    "En": "exception",
+    "M": "true",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "اِعْتِبَارٌ",
+    "En": "consideration",
+    "M": "true",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "بَالٌ",
+    "En": "State, Condition",
+    "M": "true",
+    "bk": "UNmaB3L14",
+    "v": "false"
+  },
+  {
+    "Ar": "بَرِيَّةٌ",
+    "En": "creation",
+    "M": "true",
+    "Pl": "بَرَايَا",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "بُدٌّ",
+    "En": "escape",
+    "M": "true",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "بِدْعَةٌ",
+    "En": "innovation in religious matters",
+    "M": "true",
+    "Pl": "بِدَعٌ",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "بِكُلِّ سُرُورٍ",
+    "En": "with pleasure",
+    "M": "true",
+    "bk": "UNmaB3L16",
+    "v": "false"
+  },
+  {
+    "Ar": "بِوُضُوحٍ",
+    "En": "with clarity, clearly",
+    "M": "true",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "تَحْذِيرٌ",
+    "En": "warning",
+    "M": "true",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "تَخْفِيفٌ",
+    "En": "reduction",
+    "M": "true",
+    "bk": "UNmaB3L28",
+    "v": "false"
+  },
+  {
+    "Ar": "تَقْدِيمٌ",
+    "En": "shape, shaping",
+    "M": "true",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "تَنْبِيهٌ",
+    "En": "notification",
+    "M": "true",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "تَنْغِيْمٌ",
+    "En": "Intonation, Voice Modulation",
+    "M": "true",
+    "bk": "UNmaB3L15",
+    "v": "false"
+  },
+  {
+    "Ar": "جَوابٌ",
+    "En": "Reply, Answer",
+    "M": "true",
+    "Pl": "أجْوِبَةٌ",
+    "bk": "UNmaB3L13",
+    "v": "false"
+  },
+  {
+    "Ar": "جُزْءٌ",
+    "En": "part",
+    "M": "true",
+    "Pl": "أَجْزَاءٌ",
+    "bk": "UNmaB3L12",
+    "v": "false"
+  },
+  {
+    "Ar": "جِنَّةٌ",
+    "En": "madness",
+    "M": "true",
+    "bk": "UNmaB3L26",
+    "v": "false"
+  },
+  {
+    "Ar": "جِهَةٌ",
+    "En": "side, part, section, direction, quarter",
+    "M": "true",
+    "bk": "UNmaB3L4",
+    "v": "false"
+  },
+  {
+    "Ar": "حَاجَةٌ",
+    "En": "nedd, necessity, requirement",
+    "M": "true",
+    "Pl": "حَوَائِجُ",
+    "bk": "UNmaB3L17",
+    "v": "false"
+  },
+  {
+    "Ar": "حَالٌ",
+    "En": "condition, state, situation",
+    "M": "true",
+    "Pl": "أَحْوَالٌ",
+    "bk": "UNmaB3L29",
+    "v": "false"
+  },
+  {
+    "Ar": "حَذِرٌ",
+    "En": "cautous",
+    "M": "true",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "حَرْفُ اِمْتِنَاعٍ لاِمْتِنَاعٍ",
+    "En": "Name of the particle لولا which denotes that an action has been prevented from taking place due to the existence of anoter action or element.",
+    "M": "true",
+    "bk": "UNmaB3L12",
+    "v": "false"
+  },
+  {
+    "Ar": "حَسَبٌ",
+    "En": "consideration",
+    "M": "true",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "خَالٍ (الخَالِي)",
+    "En": "empty",
+    "M": "true",
+    "bk": "UNmaB3L23",
+    "v": "false"
+  },
+  {
+    "Ar": "خَصْلَةٌ",
+    "En": "attribute, nature, habit",
+    "M": "true",
+    "Pl": "خِصَالٌ",
+    "bk": "UNmaB3L28",
+    "v": "false"
+  },
+  {
+    "Ar": "خُطْوَةٌ",
+    "En": "step",
+    "M": "true",
+    "Pl": "خُطُوَاةٌ",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "خِلافٌ",
+    "En": "difference of opinion",
+    "M": "true",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "دَنَسٌ",
+    "En": "dirt/filth",
+    "M": "true",
+    "Pl": "أَدْناسٌ",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "دِيماسٌ",
+    "En": "dungeon",
+    "M": "true",
+    "Pl": "دَمَامِيسُ",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "ذُو (ذَوُو، ذَاتُ، ذَوَاتُ",
+    "En": "having, possessing",
+    "M": "true",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "رَاحَةٌ",
+    "En": "repose, rest (2) plam of the hand",
+    "M": "true",
+    "bk": "UNmaB3L30",
+    "v": "false"
+  },
+  {
+    "Ar": "رَحِمٌ",
+    "En": "womb (2) kinship",
+    "M": "true",
+    "Pl": "أَرْحَامٌ",
+    "bk": "UNmaB3L31",
+    "v": "false"
+  },
+  {
+    "Ar": "زاوِيَةٌ",
+    "En": "corner, angle",
+    "M": "true",
+    "Pl": "زَوَايَا",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "سَابِقٌ",
+    "En": "preceeding, previous",
+    "M": "true",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "سَرِيَّةٌ",
+    "En": "military detachment",
+    "M": "true",
+    "Pl": "سَرَايَا",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "سَفَرْجَلٌ",
+    "En": "quince",
+    "M": "true",
+    "Pl": "سَفَارِجُ",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "سَمٌّ",
+    "En": "eye (of a needle)",
+    "M": "true",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "سَهْلٌ",
+    "En": "soft, level ground",
+    "M": "true",
+    "bk": "UNmaB3L5",
+    "v": "false"
+  },
+  {
+    "Ar": "سِرٌّ",
+    "En": "secret",
+    "M": "true",
+    "bk": "UNmaB3L5",
+    "v": "false"
+  },
+  {
+    "Ar": "شَأْنٌ",
+    "En": "matter, affair",
+    "M": "true",
+    "bk": "UNmaB3L5",
+    "v": "false"
+  },
+  {
+    "Ar": "شَتِيتٌ",
+    "En": "separated, dispersed",
+    "M": "true",
+    "bk": "UNmaB3L28",
+    "v": "false"
+  },
+  {
+    "Ar": "شَرْطٌ",
+    "En": "condition, stipulation",
+    "M": "true",
+    "Pl": "شُرُوطٌ",
+    "bk": "UNmaB3L11",
+    "v": "false"
+  },
+  {
+    "Ar": "شَظِيَّةٌ",
+    "En": "splinter",
+    "M": "true",
+    "Pl": "شَظَايَا",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "شَفَقَةٌ",
+    "En": "compassion, pity",
+    "M": "true",
+    "bk": "UNmaB3L16",
+    "v": "false"
+  },
+  {
+    "Ar": "شَكٌّ",
+    "En": "doubt",
+    "M": "true",
+    "bk": "UNmaB3L11",
+    "v": "false"
+  },
+  {
+    "Ar": "شَكْلٌ",
+    "En": "shape, form",
+    "M": "true",
+    "Pl": "أَشْكَالٌ",
+    "bk": "UNmaB3L17",
+    "v": "false"
+  },
+  {
+    "Ar": "صَرِيحٌ",
+    "En": "pure, unadulterated",
+    "M": "true",
+    "Pl": "صَرْحَى",
+    "bk": "UNmaB3L26",
+    "v": "false"
+  },
+  {
+    "Ar": "صَفٌّ",
+    "En": "row, rank, file",
+    "M": "true",
+    "Pl": "صُفُوفٌ",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "صَيْدٌ",
+    "En": "game (hunted wild animal)",
+    "M": "true",
+    "bk": "UNmaB3L2",
+    "v": "false"
+  },
+  {
+    "Ar": "ضَخْمٌ",
+    "En": "Volumuous",
+    "M": "true",
+    "Pl": "ضخام",
+    "bk": "UNmaB3L16",
+    "v": "false"
+  },
+  {
+    "Ar": "ضِدٌّ",
+    "En": "opposite",
+    "M": "true",
+    "bk": "UNmaB3L8",
+    "v": "false"
+  },
+  {
+    "Ar": "طَاعَةٌ",
+    "En": "obedience",
+    "M": "true",
+    "bk": "UNmaB3L4",
+    "v": "false"
+  },
+  {
+    "Ar": "طَرِيقَةٌ",
+    "En": "manner, method, procedure, way",
+    "M": "true",
+    "Pl": "طَرَائِقُ",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "ظَنٌّ",
+    "En": "assumption, doubt, suspicion",
+    "M": "true",
+    "Pl": "ظُنُونٌ",
+    "bk": "UNmaB3L18/23",
+    "v": "false"
+  },
+  {
+    "Ar": "عَجَلَةٌ",
+    "En": "hast, hurry (2) wheel",
+    "M": "true",
+    "bk": "UNmaB3L20",
+    "v": "false"
+  },
+  {
+    "Ar": "عَدَمٌ",
+    "En": "nonexistense, absence",
+    "M": "true",
+    "bk": "UNmaB3L26",
+    "v": "false"
+  },
+  {
+    "Ar": "عَرْشٌ",
+    "En": "throne (2) roof",
+    "M": "true",
+    "Pl": "عُرُوشٌ",
+    "bk": "UNmaB3L31",
+    "v": "false"
+  },
+  {
+    "Ar": "عَظِيْمٌ",
+    "En": "Mighty, Great",
+    "M": "true",
+    "bk": "UNmaB3L15",
+    "v": "false"
+  },
+  {
+    "Ar": "عَنْدَلِيبٌ",
+    "En": "nightingale",
+    "M": "true",
+    "Pl": "عَنَادِلُ",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "عَيْبٌ",
+    "En": "defect, fault, flaw",
+    "M": "true",
+    "Pl": "عُيُوبٌ",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "عُسْرٌ",
+    "En": "difficulty",
+    "M": "true",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "عِصْيَانٌ",
+    "En": "disobidience",
+    "M": "true",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "عِلَّةٌ",
+    "En": "reason",
+    "M": "true",
+    "Pl": "عِلَلٌ",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "غَالِباً",
+    "En": "mostly, for most part",
+    "M": "true",
+    "bk": "UNmaB3L25",
+    "v": "false"
+  },
+  {
+    "Ar": "غِلاَفٌ",
+    "En": "cover, wrapper, title-page",
+    "M": "true",
+    "bk": "UNmaB3L8",
+    "v": "false"
+  },
+  {
+    "Ar": "فَائِدَةٌ",
+    "En": "benefit, utility, advantage, profit, use",
+    "M": "true",
+    "Pl": "فَوَائِدُ",
+    "bk": "UNmaB3L16",
+    "v": "false"
+  },
+  {
+    "Ar": "فَاتِحاً",
+    "En": "opening",
+    "M": "true",
+    "bk": "UNmaB3L31",
+    "v": "false"
+  },
+  {
+    "Ar": "فَرَاغٌ",
+    "En": "Finishing, conclusion",
+    "M": "true",
+    "bk": "UNmaB3L13",
+    "v": "false"
+  },
+  {
+    "Ar": "فَرِيدَةٌ",
+    "En": "matchless, unique",
+    "M": "true",
+    "bk": "UNmaB3L17",
+    "v": "false"
+  },
+  {
+    "Ar": "فَصَلَ: فَصْلاً",
+    "En": "to expel (from school) (2) to separate, cut off",
+    "M": "true",
+    "bk": "UNmaB3L25",
+    "v": "false"
+  },
+  {
+    "Ar": "فَضْلٌ",
+    "En": "grace, favour, kindness",
+    "M": "true",
+    "bk": "UNmaB3L22",
+    "v": "false"
+  },
+  {
+    "Ar": "فَنَاءٌ",
+    "En": "extinction, vanishing, total ruin",
+    "M": "true",
+    "bk": "UNmaB3L17",
+    "v": "false"
+  },
+  {
+    "Ar": "فَوْضَى",
+    "En": "confusion, chaos",
+    "M": "true",
+    "bk": "UNmaB3L10",
+    "v": "false"
+  },
+  {
+    "Ar": "فُرْصَةٌ",
+    "En": "opportunity",
+    "M": "true",
+    "bk": "UNmaB3L5",
+    "v": "false"
+  },
+  {
+    "Ar": "فِكْرَةٌ",
+    "En": "idea",
+    "M": "true",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "قَاعِدَةٌ",
+    "En": "rule",
+    "M": "true",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "قَدْرٌ",
+    "En": "extant, amount",
+    "M": "true",
+    "bk": "UNmaB3L30",
+    "v": "false"
+  },
+  {
+    "Ar": "قَسْمٌ",
+    "En": "category, kind, division",
+    "M": "true",
+    "Pl": "أَقْسَامٌ",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "قَضَى؛ قَضَاءً",
+    "En": "to spend (time) (2) to judge, act as judge, to decree",
+    "M": "true",
+    "bk": "UNmaB3L27",
+    "v": "false"
+  },
+  {
+    "Ar": "قَطُّ",
+    "En": "Never. (used with a negative verb in the past tense)",
+    "M": "true",
+    "bk": "UNmaB3L12",
+    "v": "false"
+  },
+  {
+    "Ar": "قِبْطِيٌّ",
+    "En": "Copt, Coptic",
+    "M": "true",
+    "bk": "UNmaB3L22",
+    "v": "false"
+  },
+  {
+    "Ar": "قِسْمٌ",
+    "En": "section",
+    "M": "true",
+    "bk": "UNmaB3L8",
+    "v": "false"
+  },
+  {
+    "Ar": "كِلاَهُمَا",
+    "En": "both of them",
+    "M": "true",
+    "bk": "UNmaB3L9",
+    "v": "false"
+  },
+  {
+    "Ar": "كِلْتَا الْجَـنَّـتَـيْـنِ آتَتْ أُكُلَهَا",
+    "En": "Both the gardens brought forth their produce.",
+    "M": "true",
+    "bk": "UNmaB3L9",
+    "v": "false"
+  },
+  {
+    "Ar": "كِيسٌ",
+    "En": "sack",
+    "M": "true",
+    "Pl": "أَكْيَاسٌ",
+    "bk": "UNmaB3L30",
+    "v": "false"
+  },
+  {
+    "Ar": "لا بَاْسَ",
+    "En": "never mind, it doen't matter, it is allright, may no harm come to you",
+    "M": "true",
+    "bk": "UNmaB3L17",
+    "v": "false"
+  },
+  {
+    "Ar": "لا مَحَالَةَ مِن ذَلِكَ",
+    "En": "it is inevitable, it is certain",
+    "M": "true",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "لاَ بَأْسَ، طَهُورٌ إِنْ شَاءَ اللَّهُ",
+    "En": "May no harm come to you and may your indisposition be a mens of cleansing you (from your sins)",
+    "M": "true",
+    "bk": "UNmaB3L25",
+    "v": "false"
+  },
+  {
+    "Ar": "لاَ بُدَّ",
+    "En": "it is absolutely imperative",
+    "M": "true",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "لاَ دَاعِيَ لِلخَوفِ",
+    "En": "there is no need to panic. (there is no reason/case for fear)",
+    "M": "true",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "لَبَّيْكَ",
+    "En": "here I am! at your service!",
+    "M": "true",
+    "bk": "UNmaB3L28",
+    "v": "false"
+  },
+  {
+    "Ar": "لَوْ",
+    "En": "had he/it ... Introduces a hypothetical condition",
+    "M": "true",
+    "bk": "UNmaB3L12",
+    "v": "false"
+  },
+  {
+    "Ar": "لَوْلا = لَوْما",
+    "En": "Had it not been ... But for ...",
+    "M": "true",
+    "bk": "UNmaB3L12",
+    "v": "false"
+  },
+  {
+    "Ar": "لَيْتَ",
+    "En": "introduced to express a wish which is either impossible or very difficult to achieve",
+    "M": "true",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "ما الكافَّةُ",
+    "En": "the particle ma in innama (meaning only) so called because it prevents inna from rendering the following noun manssub.",
+    "M": "true",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "مانِعٌ",
+    "En": "Objection, Anything that prevents",
+    "M": "true",
+    "bk": "UNmaB3L12",
+    "v": "false"
+  },
+  {
+    "Ar": "مَا عَدَا",
+    "En": "except",
+    "M": "true",
+    "bk": "UNmaB3L1",
+    "v": "false"
+  },
+  {
+    "Ar": "مَانِعٌ",
+    "En": "objection, anything to prevent",
+    "M": "true",
+    "bk": "UNmaB3L16",
+    "v": "false"
+  },
+  {
+    "Ar": "مَبْرُوراً",
+    "En": "valid (accepted)",
+    "M": "true",
+    "bk": "UNmaB3L28",
+    "v": "false"
+  },
+  {
+    "Ar": "مَجَالٌ",
+    "En": "domain, subject",
+    "M": "true",
+    "bk": "UNmaB3L28",
+    "v": "false"
+  },
+  {
+    "Ar": "مَجَّاناً",
+    "En": "free",
+    "M": "true",
+    "bk": "UNmaB3L17",
+    "v": "false"
+  },
+  {
+    "Ar": "مَحَالَةٌ",
+    "En": "stratagem, device",
+    "M": "true",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "مَرِيَّةٌ",
+    "En": "merit, advantage",
+    "M": "true",
+    "Pl": "مَرَايِا",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "مَرْحَبٌ",
+    "En": "spaciousness",
+    "M": "true",
+    "bk": "UNmaB3L5",
+    "v": "false"
+  },
+  {
+    "Ar": "مَزْجِياً",
+    "En": "combined",
+    "M": "true",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "مَسَدٌ",
+    "En": "palm fibre, name of the 111th sûrah",
+    "M": "true",
+    "bk": "UNmaB3L9",
+    "v": "false"
+  },
+  {
+    "Ar": "مَسْأَلَةٌ",
+    "En": "issue, matter, problem",
+    "M": "true",
+    "Pl": "مَسَائِلُ",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "مَشْوَرَةٌ",
+    "En": "consultation",
+    "M": "true",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "مَضْمونٌ",
+    "En": "purporte, meaning, contents",
+    "M": "true",
+    "bk": "UNmaB3L17",
+    "v": "false"
+  },
+  {
+    "Ar": "مَعَ أَنَّ",
+    "En": "even though",
+    "M": "true",
+    "bk": "UNmaB3L29",
+    "v": "false"
+  },
+  {
+    "Ar": "مَعْصِيَةٌ",
+    "En": "disobedience",
+    "M": "true",
+    "bk": "UNmaB3L4",
+    "v": "false"
+  },
+  {
+    "Ar": "مَقْصُودٌ بِالنِّدَاءِ",
+    "En": "specified by calling",
+    "M": "true",
+    "bk": "UNmaB3L8",
+    "v": "false"
+  },
+  {
+    "Ar": "مَكْرُوهٌ",
+    "En": "hated, detested",
+    "M": "true",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "مَنْفِيٌّ",
+    "En": "negative",
+    "M": "true",
+    "bk": "UNmaB3L25",
+    "v": "false"
+  },
+  {
+    "Ar": "مَهْدِيٌّ",
+    "En": "Guided",
+    "M": "true",
+    "bk": "UNmaB3L14",
+    "v": "false"
+  },
+  {
+    "Ar": "مَهْلاً",
+    "En": "slowly, please!",
+    "M": "true",
+    "bk": "UNmaB3L28",
+    "v": "false"
+  },
+  {
+    "Ar": "مَهْماً (أَداةُ الشَّرطِ)",
+    "En": "Whatever",
+    "M": "true",
+    "bk": "UNmaB3L15",
+    "v": "false"
+  },
+  {
+    "Ar": "مُبَايِنٌ",
+    "En": "different, alien",
+    "M": "true",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "مُبِينٌ",
+    "En": "manifest",
+    "M": "true",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "مُبْهَمٌ",
+    "En": "vague, ambiguos, unspecified",
+    "M": "true",
+    "bk": "UNmaB3L17",
+    "v": "false"
+  },
+  {
+    "Ar": "مُثْبَتٌ",
+    "En": "Affirmative",
+    "M": "true",
+    "bk": "UNmaB3L12/18/25",
+    "v": "false"
+  },
+  {
+    "Ar": "مُجَلَّدٌ",
+    "En": "bound, volume",
+    "M": "true",
+    "bk": "UNmaB3L16",
+    "v": "false"
+  },
+  {
+    "Ar": "مُحْدَثَاتُ الأُمُورِ",
+    "En": "Religious practices and beliefs not based on the teaching of Qur'an and the sunnah but invented after the time of the Prophet (saw)",
+    "M": "true",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "مُخَيَّمُ الشَّبَّابِ",
+    "En": "youth camp",
+    "M": "true",
+    "bk": "UNmaB3L16",
+    "v": "false"
+  },
+  {
+    "Ar": "مُرَاعَاةٌ",
+    "En": "considering, bearing in mind",
+    "M": "true",
+    "bk": "UNmaB3L9",
+    "v": "false"
+  },
+  {
+    "Ar": "مُرَاقِبٌ",
+    "En": "controller os attendance in schools",
+    "M": "true",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "مُرَبٍّ (المُرَبِّي)",
+    "En": "educationist",
+    "M": "true",
+    "bk": "UNmaB3L33",
+    "v": "false"
+  },
+  {
+    "Ar": "مُرَكَّباً",
+    "En": "compound",
+    "M": "true",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "مُسَابَقَةٌ",
+    "En": "Contest",
+    "M": "true",
+    "bk": "UNmaB3L15",
+    "v": "false"
+  },
+  {
+    "Ar": "مُسَجِّلٌ",
+    "En": "Tape recorder",
+    "M": "true",
+    "bk": "UNmaB3L15",
+    "v": "false"
+  },
+  {
+    "Ar": "مُسَمَّى",
+    "En": "named, called, known",
+    "M": "true",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "مُسْتَقِلٌّ",
+    "En": "independent, separate",
+    "M": "true",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "مُشَارَكَةٌ",
+    "En": "participation og more then one subject (faail) in an action",
+    "M": "true",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "مُصْطَفًى",
+    "En": "chosen",
+    "M": "true",
+    "bk": "UNmaB3L23",
+    "v": "false"
+  },
+  {
+    "Ar": "مُطَابَقَةٌ",
+    "En": "agreement",
+    "M": "true",
+    "bk": "UNmaB3L11",
+    "v": "false"
+  },
+  {
+    "Ar": "مُطْلَقاً",
+    "En": "absolutely",
+    "M": "true",
+    "bk": "UNmaB3L1",
+    "v": "false"
+  },
+  {
+    "Ar": "مُطْلَقٌ",
+    "En": "free, unrestricted, absolute",
+    "M": "true",
+    "bk": "UNmaB3L28",
+    "v": "false"
+  },
+  {
+    "Ar": "مُعَيَّنٌ",
+    "En": "particular, specified",
+    "M": "true",
+    "bk": "UNmaB3L8",
+    "v": "false"
+  },
+  {
+    "Ar": "مُعْتَدِلٌ",
+    "En": "moderate",
+    "M": "true",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "مُـسْـتَـعِـدٌّ",
+    "En": "ready",
+    "M": "true",
+    "bk": "UNmaB3L6",
+    "v": "false"
+  },
+  {
+    "Ar": "مُفْتَرَقُ الطُّرُقِ",
+    "En": "crossroads",
+    "M": "true",
+    "bk": "UNmaB3L23",
+    "v": "false"
+  },
+  {
+    "Ar": "مُقَدَّسٌ",
+    "En": "holy",
+    "M": "true",
+    "bk": "UNmaB3L9",
+    "v": "false"
+  },
+  {
+    "Ar": "مُكَوَّنٌ",
+    "En": "made",
+    "M": "true",
+    "bk": "UNmaB3L17",
+    "v": "false"
+  },
+  {
+    "Ar": "مُلْتَزَمٌ",
+    "En": "Eastern wall of the Ka'bah between the door and the Black Stone",
+    "M": "true",
+    "bk": "UNmaB3L12",
+    "v": "false"
+  },
+  {
+    "Ar": "مُمْتِعٌ",
+    "En": "enjoyable, pleasant",
+    "M": "true",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "مُنْتَصِفٌ",
+    "En": "middle",
+    "M": "true",
+    "bk": "UNmaB3L22",
+    "v": "false"
+  },
+  {
+    "Ar": "مُهَاجَرٌ",
+    "En": "place where ome migrates to",
+    "M": "true",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "مُهِمٌّ",
+    "En": "important",
+    "M": "true",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "مُهْلِكٌ",
+    "En": "destroyer",
+    "M": "true",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "مِبْرَدٌ",
+    "En": "file (metal tool with a rough surface)",
+    "M": "true",
+    "bk": "UNmaB3L7",
+    "v": "false"
+  },
+  {
+    "Ar": "مِثَالِيٌّ",
+    "En": "exemplary, ideal",
+    "M": "true",
+    "bk": "UNmaB3L29",
+    "v": "false"
+  },
+  {
+    "Ar": "مِحَكٌّ",
+    "En": "touchstone",
+    "M": "true",
+    "bk": "UNmaB3L7",
+    "v": "false"
+  },
+  {
+    "Ar": "مِرْقَاةٌ",
+    "En": "step (in a staircase)",
+    "M": "true",
+    "bk": "UNmaB3L7",
+    "v": "false"
+  },
+  {
+    "Ar": "مِزْلاَجٌ",
+    "En": "sliding bolt",
+    "M": "true",
+    "bk": "UNmaB3L7",
+    "v": "false"
+  },
+  {
+    "Ar": "مِعْصَرةٌ",
+    "En": "press (for extracting oil, fruit juice, etc.)",
+    "M": "true",
+    "bk": "UNmaB3L7",
+    "v": "false"
+  },
+  {
+    "Ar": "مِقْبَضٌ",
+    "En": "handle",
+    "M": "true",
+    "bk": "UNmaB3L7",
+    "v": "false"
+  },
+  {
+    "Ar": "مِقْوَدٌ",
+    "En": "halter, steering (of an automobile)",
+    "M": "true",
+    "bk": "UNmaB3L7",
+    "v": "false"
+  },
+  {
+    "Ar": "مِنْ التَّبْعِيضِيَّةُ",
+    "En": "the partitive min, meaning 'some'",
+    "M": "true",
+    "bk": "UNmaB3L26",
+    "v": "false"
+  },
+  {
+    "Ar": "نَشَطٌ",
+    "En": "activity",
+    "M": "true",
+    "Pl": "أَنْشِطَةٌ",
+    "bk": "UNmaB3L17",
+    "v": "false"
+  },
+  {
+    "Ar": "نَعِيمٌ",
+    "En": "comfort, amenities, hapiness",
+    "M": "true",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "نَـتِـيـجَـةٌ",
+    "En": "result",
+    "M": "true",
+    "bk": "UNmaB3L4",
+    "v": "false"
+  },
+  {
+    "Ar": "نَمَّامٌ",
+    "En": "tablebearer",
+    "M": "true",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "نَمِيمَةٌ",
+    "En": "the work of a tablebearer",
+    "M": "true",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "نَهْجَةٌ",
+    "En": "joy, delight",
+    "M": "true",
+    "bk": "UNmaB3L30",
+    "v": "false"
+  },
+  {
+    "Ar": "نُحَاةٌ",
+    "En": "grammarian",
+    "M": "true",
+    "bk": "UNmaB3L1",
+    "v": "false"
+  },
+  {
+    "Ar": "نُدْبَةٌ",
+    "En": "word used to express pain",
+    "M": "true",
+    "bk": "UNmaB3L13",
+    "v": "false"
+  },
+  {
+    "Ar": "نِعْمَةٌ",
+    "En": "blessing, favour, grace",
+    "M": "true",
+    "Pl": "نِعَمٌ",
+    "bk": "UNmaB3L17",
+    "v": "false"
+  },
+  {
+    "Ar": "نِكْلٌ",
+    "En": "fetter",
+    "M": "true",
+    "Pl": "أَنْكَالٌ",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "هَاءَ، هَاؤُمْ، هَاءِ، هَاؤُنَّ (اِسْمُ الفِعْلِ)",
+    "En": "Take!",
+    "M": "true",
+    "bk": "UNmaB3L15",
+    "v": "false"
+  },
+  {
+    "Ar": "هَادٍ (الهَادِي",
+    "En": "Guide",
+    "M": "true",
+    "bk": "UNmaB3L14",
+    "v": "false"
+  },
+  {
+    "Ar": "هَامٌّ",
+    "En": "Important",
+    "M": "true",
+    "bk": "UNmaB3L15",
+    "v": "false"
+  },
+  {
+    "Ar": "هَلاَّ اِنْتَظَرْتَنِي؟",
+    "En": "Shouldn't you have waited for me?",
+    "M": "true",
+    "bk": "UNmaB3L29",
+    "v": "false"
+  },
+  {
+    "Ar": "هَلاَّ تَجْتَهِدُ!",
+    "En": "Do strive!",
+    "M": "true",
+    "bk": "UNmaB3L29",
+    "v": "false"
+  },
+  {
+    "Ar": "هَيْئَةٌ",
+    "En": "position, situation, mode, organization",
+    "M": "true",
+    "bk": "UNmaB3L28",
+    "v": "false"
+  },
+  {
+    "Ar": "هُدًى",
+    "En": "Guidance",
+    "M": "true",
+    "bk": "UNmaB3L14",
+    "v": "false"
+  },
+  {
+    "Ar": "هِلاَلٌ",
+    "En": "crescent, new moon",
+    "M": "true",
+    "bk": "UNmaB3L31",
+    "v": "false"
+  },
+  {
+    "Ar": "وَاسِطَةٌ",
+    "En": "means, medium,moderate,middle",
+    "M": "true",
+    "bk": "UNmaB3L7",
+    "v": "false"
+  },
+  {
+    "Ar": "وَافٍ (الوَافِي)",
+    "En": "full, complete, ample, abundante",
+    "M": "true",
+    "bk": "UNmaB3L16",
+    "v": "false"
+  },
+  {
+    "Ar": "وَجِيزٌ",
+    "En": "short, concise",
+    "M": "true",
+    "bk": "UNmaB3L28",
+    "v": "false"
+  },
+  {
+    "Ar": "وَحْيٌ",
+    "En": "sign, revelation",
+    "M": "true",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "وَسَطٌ",
+    "En": "middle",
+    "M": "true",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "وَفْدٌ",
+    "En": "Delegation",
+    "M": "true",
+    "Pl": "وُفُوْدٌ",
+    "bk": "UNmaB3L13",
+    "v": "false"
+  },
+  {
+    "Ar": "وَلَوْ",
+    "En": "even if",
+    "M": "true",
+    "bk": "UNmaB3L17",
+    "v": "false"
+  },
+  {
+    "Ar": "وَيْلٌ",
+    "En": "woe, affliction",
+    "M": "true",
+    "bk": "UNmaB3L7",
+    "v": "false"
+  },
+  {
+    "Ar": "وُجُودٌ",
+    "En": "existance, presence, being",
+    "M": "true",
+    "bk": "UNmaB3L31",
+    "v": "false"
+  },
+  {
+    "Ar": "وُضُوحٌ",
+    "En": "clarity",
+    "M": "true",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "يَحْتَاجٌ",
+    "En": "need",
+    "M": "true",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "يُسْرٌ",
+    "En": "ease, facility, easy",
+    "M": "true",
+    "bk": "UNmaB3L11",
+    "v": "false"
+  },
+  {
+    "M": "true",
+    "Pl": "صِيَغ",
+    "v": "false"
+  },
+  {
+    "Ar": "تَعَدَّى",
+    "En": "to overstep, traverse, go beyond (gr) to be transitive",
+    "M": "true",
+    "T": "",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "حَدَثٌ",
+    "En": "(gr) action of a verb",
+    "M": "true",
+    "T": "grammar?",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "أدْغَمَ؛ إِدْغَاماً",
+    "En": "(gr) to merge a letter with another, to assimilate",
+    "M": "true",
+    "T": "grammar?",
+    "bk": "UNmaB3L23",
+    "v": "false"
+  }
+]

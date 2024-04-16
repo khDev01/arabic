@@ -1,0 +1,218 @@
+[
+  {
+    "id": null,
+    "note": ["by default numbers 3-10 are feminine", "Unique numbers: 0 11 12 20"],
+    "!Ignore!summary": ["arabic,number,gender"]
+  },
+  {
+    "id": 0,
+    "Ar": "صِفْرٌ",
+    "En": "Zero",
+    "M": true,
+    "T": "nNumber",
+    "v": "false",
+    "o": ""
+  },
+  {
+    "id": 1,
+    "Ar": "أَحَد",
+    "Ar2": "وَاحِد",
+    "Ar3": "إِحْدَى",
+    "En": "one",
+    "M": true,
+    "Pl": "آحَاد",
+    "Pl2": "وُحْدَان",
+    "T": "nNumber",
+    "ArOrd": "أَوَّل",
+    "EnOrd": "first",
+    "MOrd": true,
+    "PlOrd": "أَوَّلُونَ/أُولَى",
+    "v": "false"
+  },
+  {
+    "id": 2,
+    "Ar": "اِثْنَانِ",
+    "En": "two",
+    "M": true,
+    "T": "nNumber",
+    "bk": "UNmaB3L27",
+    "ArOrd": "الثَّانِي",
+    "EnOrd": "thesecond",
+    "ArOrdWoAl": "ثَانٍ",
+    "EnOrdWoAl": "second",
+    "PlOrdWoAl": "ثَوَانٍ",
+    "ArOrd2": "الثَّانَوِيَّةُ/ثَانَوِيّ",
+    "EnOrd2": "secondary",
+    "PlOrd2": "SOUND",
+    "v": "false"
+  },
+  {
+    "id": 3,
+    "Ar": "ثَلَاثَة",
+    "ArM": "ثَلَاث",
+    "En": "three",
+    "M": false,
+    "T": "nNumber",
+    "ArOrd": "الثَّالِثُ",
+    "EnOrd": "thethird",
+    "v": "false"
+  },
+  {
+    "id": 4,
+    "Ar": "أَرْبَعَةٌ",
+    "ArM": "أَرَبـع",
+    "En": "four",
+    "M": false,
+    "T": "nNumber",
+    "ArOrd": "الَرّابِعُ",
+    "EnOrd": "thefourth",
+    "v": "false"
+  },
+  {
+    "id": 5,
+    "Ar": "خَمْسَةٌ",
+    "ArM": "خَمْس",
+    "En": "five",
+    "M": false,
+    "T": "nNumber",
+    "ArOrd": "الْخَامِسُ",
+    "EnOrd": "thefifth",
+    "v": "false"
+  },
+  {
+    "id": 6,
+    "Ar": "سِتَّةٌ",
+    "ArM": "سِتّ",
+    "En": "six",
+    "M": false,
+    "T": "nNumber",
+    "ArOrd": "سَادِس",
+    "EnOrd": "sixth",
+    "v": "false"
+  },
+  {
+    "id": 7,
+    "Ar": "سَبْعَةٌ",
+    "ArM": "سَبْع",
+    "En": "seven",
+    "M": false,
+    "T": "nNumber",
+    "ArOrd": "سَابِع",
+    "EnOrd": "seventh",
+    "v": "false"
+  },
+  {
+    "id": 8,
+    "Ar": "ثَمَانِيَةٌ",
+    "ArM": "ثَمَانٍ",
+    "En": "eight",
+    "M": false,
+    "T": "nNumber",
+    "ArOrd": "ثَامِن",
+    "EnOrd": "eighth",
+    "v": "false"
+  },
+  {
+    "id": 9,
+    "Ar": "تِسْعَةٌ",
+    "ArM": "تِسْع",
+    "En": "nine",
+    "M": false,
+    "T": "nNumber",
+    "ArOrd": "تَاسِع",
+    "EnOrd": "ninth",
+    "v": "false"
+  },
+
+  {
+    "id": 10,
+    "Ar": "عَشَرَةٌ",
+    "ArM": "عَشْر",
+    "En": "ten",
+    "M": false,
+    "Pl": "عَشَرَات",
+    "T": "nNumber",
+    "ArOrd": "عَاشِر",
+    "EnOrd": "tenth",
+    "v": "false"
+  },
+  {
+    "id": 11,
+    "Ar": "أحَدَ عَشَرَ",
+    "En": "eleven",
+    "M": true,
+    "T": "nNumber",
+    "v": "false"
+  },
+  {
+    "id": 12,
+    "Ar": "اِثْنَا عَشَرَ",
+    "En": "twelve",
+    "M": true,
+    "T": "nNumber",
+    "v": "false"
+  },
+  {
+    "id": 20,
+    "Ar": "عِشْرُونَ",
+    "En": "twenty",
+    "M": true,
+    "T": "nNumber",
+    "v": "false"
+  },
+  {
+    "id": 100,
+    "Ar": "مِائةٌ",
+    "En": "hundred",
+    "M": "false",
+    "T": "nnumber",
+    "bk": "maB2L1",
+    "v": "false"
+  },
+  {
+    "ArOrd11": "حاديَ عَشَرَ",
+    "EnOrd11": "eleventh",
+    "ArOrd12": "ثَانِي عَشَرَ",
+    "EnOrd12": "twelfth",
+    "ArOrd13": "ثَالِثَ عَشَرَ",
+    "EnOrd13": "thirteenth",
+    "ArOrd14": "رَابِعَ عَشَرَ",
+    "EnOrd14": "fourteenth",
+    "ArOrd15": "خَامِسَ عَشَرَ",
+    "EnOrd15": "fifteenth",
+    "ArOrd16": "سَادِسَ عَشَرَ",
+    "EnOrd16": "sixteenth",
+    "ArOrd17": "سابِعَ عَشَرَ",
+    "EnOrd17": "seventeenth",
+    "ArOrd18": "ثَامِنَ عَشَرَ",
+    "EnOrd18": "eighteenth",
+    "ArOrd19": "تَاسِعَ عَشَرَ",
+    "EnOrd19": "nineteenth",
+    "ArOrd21": "حَادِي وَالْعِشْرُونَ",
+    "EnOrd21": "twentyfirst",
+    "ArOrd22": "الثَّانِي وَالْعِشْرُونَ",
+    "EnOrd22": "twentysecond",
+    "ArOrd23": "الثَّالِثُ وَالْعِشْرُونَ",
+    "EnOrd23": "twentythird"
+  },
+  {
+    "id": 1000,
+    "Ar": "أَلْفٌ",
+    "En": "thousand",
+    "M": true,
+    "T": "nNumber",
+    "bk": "maB2L1",
+    "v": "false"
+  },
+  {
+    "id": -1,
+    "num": 0.5,
+    "Ar": "نَصْف",
+    "En": "half",
+    "M": true,
+    "Pl": "أَنْصَاف",
+    "T": "nNumber",
+    "bk": "maB1L19",
+    "v": "false"
+  }
+]

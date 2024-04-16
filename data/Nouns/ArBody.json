@@ -1,0 +1,378 @@
+[
+  {
+    "Ar": "أَحْوَرُ (ث حَوراءُ، ج حُورٌ",
+    "En": "dark eyed",
+    "M": "true",
+    "T": "nbody",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "أَحْوَلُ (ثحَولاءُ، ج حُولٌ",
+    "En": "squint-eyed",
+    "M": "true",
+    "T": "nbody",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "أَعْوَرُ (ث عَوْرَاءُ، ج عُورٌ",
+    "En": "one eyed",
+    "M": "true",
+    "T": "nbody",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "wrrong",
+    "En": "foot",
+    "M": "true",
+    "T": "nbody",
+    "v": "false"
+  },
+  {
+    "Ar": "أَعْيَنُ (ث عَيْنَاءُ، ج عِيْنٌ",
+    "En": "wide-eyed",
+    "M": "true",
+    "T": "nbody",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "أَنْف",
+    "En": "nose",
+    "M": "true",
+    "Pl": "أُنُوف",
+    "T": "nbody",
+    "bk": "maB1L6",
+    "v": "false"
+  },
+  {
+    "Ar": "أُذُن",
+    "En": "ear",
+    "M": "true",
+    "Pl": "آذَان",
+    "T": "nbody",
+    "bk": "maB1L6",
+    "v": "false"
+  },
+  {
+    "Ar": "إِصْبَع",
+    "En": "finger",
+    "M": "true",
+    "Pl": "أَصَابِعُ",
+    "T": "nbody",
+    "v": "false"
+  },
+  {
+    "Ar": "السُّفُورُ",
+    "En": "being unveiled, not covering the face (woman)",
+    "M": "true",
+    "T": "nbody",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "جَنَاحٌ",
+    "En": "wing",
+    "M": "true",
+    "Pl": "أَجْنِحَةٌ",
+    "T": "nbody",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "جَنْبٌ",
+    "En": "side (of human body)",
+    "M": "true",
+    "Pl": "جُنُوبٌ",
+    "T": "nbody",
+    "bk": "UNmaB3L29",
+    "v": "false"
+  },
+  {
+    "Ar": "جِلْدٌ",
+    "En": "skin, leather",
+    "M": "true",
+    "Pl": "جُلُودٌ",
+    "T": "nbody",
+    "bk": "UNmaB3L26",
+    "v": "false"
+  },
+  {
+    "Ar": "حَاجِب",
+    "En": "eyebrow",
+    "M": "true",
+    "Pl": "حَوَاجِبُ",
+    "T": "nbody",
+    "v": "false"
+  },
+  {
+    "Ar": "حَافٍ",
+    "En": "barefoot",
+    "M": "true",
+    "Pl": "حُفَاةٌ",
+    "T": "nbody",
+    "bk": "UNmaB3L25",
+    "v": "false"
+  },
+  {
+    "Ar": "خَدّ",
+    "En": "cheek",
+    "M": "true",
+    "Pl": "خُدُود",
+    "T": "nbody",
+    "v": "false"
+  },
+  {
+    "Ar": "رَأْس",
+    "En": "head",
+    "M": "true",
+    "Pl": "رُءُوس",
+    "T": "nbody",
+    "bk": "maB1L6",
+    "v": "false"
+  },
+  {
+    "Ar": "رَمَش",
+    "En": "eyelash",
+    "M": "true",
+    "Pl": "رُمُوش",
+    "T": "nbody",
+    "v": "false"
+  },
+  {
+    "Ar": "رِجْل",
+    "En": "leg",
+    "M": "true",
+    "Pl": "أَرْجُل",
+    "T": "nbody",
+    "bk": "maB1L6",
+    "v": "false"
+  },
+  {
+    "Ar": "سَمَاعِيَةٌ",
+    "En": "by hearing",
+    "M": "true",
+    "T": "nbody",
+    "bk": "UNmaB3L16",
+    "v": "false"
+  },
+  {
+    "Ar": "سِنٌّ",
+    "En": "tooth",
+    "M": "true",
+    "Pl": "أَسْنَانٌ",
+    "T": "nbody",
+    "bk": "maB2L6",
+    "v": "false"
+  },
+  {
+    "Ar": "سِنُّ",
+    "En": "age",
+    "M": "true",
+    "T": "nbody",
+    "bk": "maB2L3",
+    "v": "false"
+  },
+  {
+    "Ar": "سِوَارٌ",
+    "En": "bracelet",
+    "M": "true",
+    "T": "nbody",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "شَارِب",
+    "En": "moustache",
+    "M": "true",
+    "Pl": "شَوَارِبُ",
+    "T": "nbody",
+    "v": "false"
+  },
+  {
+    "Ar": "شَعْرٌ",
+    "En": "hair",
+    "M": "true",
+    "T": "nbody",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "صَدْر",
+    "En": "chest",
+    "M": "true",
+    "Pl": "صُدُور",
+    "T": "nbody",
+    "v": "false"
+  },
+  {
+    "Ar": "ظُفْر",
+    "En": "fingernail",
+    "M": "true",
+    "Pl": "أَظْفَار",
+    "T": "nbody",
+    "v": "false"
+  },
+  {
+    "Ar": "عَانَة",
+    "En": "pubichair",
+    "M": "true",
+    "Pl": "عَانَات",
+    "T": "nbody",
+    "v": "false"
+  },
+  {
+    "Ar": "عَلَقٌ",
+    "En": "clot of blood",
+    "M": "true",
+    "T": "nbody",
+    "bk": "maB2L14",
+    "v": "false"
+  },
+  {
+    "Ar": "عَنْفَقَة",
+    "En": "soulpatch",
+    "M": "true",
+    "Pl": "عَنَافِقُ",
+    "T": "nbody",
+    "v": "false"
+  },
+  {
+    "Ar": "عَيْن",
+    "En": "eye",
+    "M": "true",
+    "Pl": "أعْيُن",
+    "T": "nbody",
+    "bk": "maB1L6",
+    "v": "false"
+  },
+  {
+    "Ar": "عُطَاسٌ",
+    "En": "Sneeze",
+    "M": "true",
+    "T": "nbody",
+    "bk": "UNmaB3L14",
+    "v": "false"
+  },
+  {
+    "Ar": "فَم",
+    "En": "mouth",
+    "M": "true",
+    "Pl": "أَفْوَاه/أفْمَام",
+    "T": "nbody",
+    "bk": "maB1L6",
+    "v": "false"
+  },
+  {
+    "Ar": "قَفاً",
+    "En": "nape (back part of the neck)",
+    "M": "true",
+    "Pl": "قُفِيٌ، أَقْفَاءٌ",
+    "T": "nbody",
+    "bk": "UNmaB3L25",
+    "v": "false"
+  },
+  {
+    "Ar": "قَلْب",
+    "En": "heart",
+    "M": "true",
+    "Pl": "قُلُوب",
+    "T": "nbody",
+    "v": "false"
+  },
+  {
+    "Ar": "كَفٌّ",
+    "En": "palm",
+    "M": "true",
+    "T": "nbody",
+    "bk": "maB2L29",
+    "v": "false"
+  },
+  {
+    "Ar": "كَفٌّ",
+    "En": "plam of a hand (including the fingers)",
+    "M": "true",
+    "T": "nbody",
+    "bk": "UNmaB3L30",
+    "v": "false"
+  },
+  {
+    "Ar": "كُمٌّ",
+    "En": "sleeve",
+    "M": "true",
+    "Pl": "أكْمَام",
+    "T": "nbody",
+    "bk": "maB2L1",
+    "v": "false"
+  },
+  {
+    "Ar": "لِحْيَة",
+    "En": "beard",
+    "M": "true",
+    "Pl": "لِحًى",
+    "T": "nbody",
+    "v": "false"
+  },
+  {
+    "Ar": "مَعْدِي",
+    "En": "stomach",
+    "M": "true",
+    "T": "nbody",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "مَنْكِبٌ",
+    "En": "shoulder",
+    "M": "true",
+    "T": "nbody",
+    "bk": "UNmaB3L4",
+    "v": "false"
+  },
+  {
+    "Ar": "مِرْفَقٌ",
+    "En": "Elbow",
+    "M": "true",
+    "Pl": "مَرَافِقُ",
+    "T": "nbody",
+    "bk": "UNmaB3L14",
+    "v": "false"
+  },
+  {
+    "Ar": "نَابٌ",
+    "En": "canine tooth",
+    "M": "true",
+    "Pl": "أَنْيَابٌ، نُيُوبٌ",
+    "T": "nbody",
+    "bk": "UNmaB3L33",
+    "v": "false"
+  },
+  {
+    "Ar": "وَجْنَةٌ",
+    "En": "cheek (esp. the raised part)",
+    "M": "true",
+    "Pl": "وَجَنَاتٌ",
+    "T": "nbody",
+    "bk": "UNmaB3L24",
+    "v": "false"
+  },
+  {
+    "Ar": "وَجْه",
+    "En": "face",
+    "M": "true",
+    "Pl": "وُجُوه",
+    "T": "nbody",
+    "bk": "maB1L6",
+    "v": "false"
+  },
+  {
+    "Ar": "يَد",
+    "En": "hand",
+    "M": "true",
+    "Pl": "أَيْدٍ",
+    "T": "nbody",
+    "v": "false"
+  }
+]

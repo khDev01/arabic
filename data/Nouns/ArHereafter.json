@@ -1,0 +1,26 @@
+[
+  {
+    "Ar": "جَنَّاتُ عَدْنٍ",
+    "En": "name of Gardens inParadise",
+    "M": "true",
+    "T": "njannah",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "جَنَّة",
+    "En": "paradise",
+    "M": "false",
+    "Pl": "جَنَّات",
+    "T": "nafterlife",
+    "v": "false"
+  },
+  {
+    "Ar": "عَدْنٌ",
+    "En": "paradise, Eden, eternity",
+    "M": "true",
+    "T": "njannah",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  }
+]

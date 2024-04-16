@@ -1,0 +1,51 @@
+[
+  {
+    "Ar": "تَدْخِين",
+    "En": "smoking",
+    "M": "true",
+    "T": "Adv",
+    "v": "false"
+  },
+  {
+    "Ar": "جَرّ",
+    "En": "pulling",
+    "M": "true",
+    "T": "Adv",
+    "v": "false",
+    "o": "pushing"
+  },
+  {
+    "Ar": "قَطْع",
+    "En": "cutting",
+    "M": "true",
+    "T": "Adv",
+    "v": "false"
+  },
+  {
+    "Ar": "قِرَاءَة",
+    "En": "reading",
+    "M": "true",
+    "Pl": "قِرَاءَات",
+    "T": "Adv",
+    "v": "false",
+    "o": "writing"
+  },
+  {
+    "Ar": "نِدَاء",
+    "En": "calling",
+    "M": "true",
+    "Pl": "نِدَاءَات",
+    "T": "Adv",
+    "v": "false"
+  },
+  {
+    "Ar": "وَاقِف",
+    "En": "standing",
+    "M": "true",
+    "Pl": "SOUND",
+    "T": "Adv",
+    "bk": "maB1L3",
+    "v": "false",
+    "o": "sitting"
+  }
+]

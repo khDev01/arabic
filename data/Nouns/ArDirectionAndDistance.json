@@ -1,0 +1,128 @@
+[
+  {
+    "Ar": "يَسَارٌ",
+    "En": "left hand",
+    "M": "true",
+    "T": "nbody",
+    "bk": "maB2L28",
+    "v": "false"
+  },
+  {
+    "Ar": "أَمَامَ",
+    "En": "infront",
+    "M": "true",
+    "T": "ndirection",
+    "v": "false"
+  },
+  {
+    "Ar": "اَلْقِبْلَةُ",
+    "En": "prayer direction",
+    "M": "false",
+    "T": "ndirection",
+    "v": "false"
+  },
+  {
+    "Ar": "تَحْتَ",
+    "En": "under, below",
+    "M": "true",
+    "T": "ndirection",
+    "v": "false"
+  },
+  {
+    "Ar": "خَلْفَ",
+    "En": "behind",
+    "M": "true",
+    "T": "ndirection",
+    "v": "false"
+  },
+  {
+    "Ar": "شَرْق",
+    "En": "east",
+    "M": "true",
+    "T": "ndirection",
+    "bk": "maB1L6",
+    "v": "false"
+  },
+  {
+    "Ar": "عَرَبِيَّة",
+    "En": "arabic",
+    "M": "false",
+    "T": "ndirection",
+    "bk": "maB1L9",
+    "v": "false"
+  },
+  {
+    "Ar": "مَغْرِب",
+    "En": "west",
+    "M": "true",
+    "Pl": "مَغَارِبُ",
+    "T": "ndirection",
+    "bk": "maB1L6",
+    "v": "false"
+  },
+  {
+    "Ar": "هُنَا",
+    "En": "here",
+    "M": "true",
+    "T": "ndirection",
+    "bk": "maB1L5",
+    "v": "false"
+  },
+  {
+    "Ar": "هُنَاكَ",
+    "En": "there",
+    "M": "true",
+    "T": "ndirection",
+    "bk": "maB1L5",
+    "v": "false"
+  },
+  {
+    "Ar": "بَيَنَهُمَا",
+    "En": "between them",
+    "M": "true",
+    "T": "ndirection",
+    "bk": "maB2L10",
+    "v": "false"
+  },
+  {
+    "Ar": "بَيْنَ",
+    "En": "between",
+    "M": "true",
+    "T": "ndirection",
+    "bk": "maB2L10",
+    "v": "false"
+  },
+  {
+    "Ar": "ظَهْر",
+    "En": "back",
+    "M": "true",
+    "Pl": "ظُهُور",
+    "T": "ndirection",
+    "v": "false"
+  },
+  {
+    "Ar": "يَمِيْنٌ",
+    "En": "right hand",
+    "M": "true",
+    "T": "ndirection",
+    "bk": "maB2L28",
+    "v": "false"
+  },
+
+  {
+    "Ar": "أَقْرَبُ",
+    "En": "nearer, closer",
+    "M": "true",
+    "T": "ndistance",
+    "bk": "UNmaB3L26",
+    "v": "false"
+  },
+  {
+    "Ar": "بُعَيدٌ",
+    "En": "little far",
+    "M": "true",
+    "T": "ndistance",
+    "bk": "UNmaB3L20",
+    "v": "false"
+  }
+]

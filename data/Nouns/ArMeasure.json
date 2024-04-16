@@ -1,0 +1,159 @@
+[
+  {
+    "Ar": "حَجَمٌ",
+    "En": "size",
+    "M": "true",
+    "Pl": "أَحْجَامٌ",
+    "T": "nmeasure",
+    "bk": "UNmaB3L30",
+    "v": "false"
+  },
+  {
+    "Ar": "ذِرَاعٌ",
+    "En": "cubit",
+    "M": "true",
+    "Pl": "أَذْرُعٌ",
+    "T": "nmeasure",
+    "bk": "UNmaB3L30",
+    "v": "false"
+  },
+  {
+    "Ar": "رِطْلٌ",
+    "En": "an ancient weight",
+    "M": "true",
+    "Pl": "أَرْطَالٌ",
+    "T": "nmeasure",
+    "bk": "UNmaB3L30",
+    "v": "false"
+  },
+  {
+    "Ar": "سَنْتِيمِتْرٌ",
+    "En": "centimetre",
+    "M": "true",
+    "T": "nmeasure",
+    "bk": "maB2L10",
+    "v": "false"
+  },
+  {
+    "Ar": "صَاعٌ",
+    "En": "cubic measure",
+    "M": "true",
+    "T": "nmeasure",
+    "bk": "UNmaB3L30",
+    "v": "false"
+  },
+  {
+    "Ar": "طُولٌ",
+    "En": "length",
+    "M": "true",
+    "T": "nmeasure",
+    "bk": "maB2L10",
+    "v": "false"
+  },
+  {
+    "Ar": "عَرْضٌ",
+    "En": "width",
+    "M": "true",
+    "T": "nmeasure",
+    "bk": "maB2L10",
+    "v": "false"
+  },
+  {
+    "Ar": "قِياسِيَةٌ",
+    "En": "by measure",
+    "M": "true",
+    "T": "nmeasure",
+    "bk": "UNmaB3L16",
+    "v": "false"
+  },
+  {
+    "Ar": "قِيرَاطٌ",
+    "En": "carat , karat (unit of measurement of purity of gold)",
+    "M": "true",
+    "Pl": "قَرَارِيطٌ",
+    "T": "nmeasure",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "كِيلَةٌ",
+    "En": "mode of measuring",
+    "M": "true",
+    "T": "nmeasure",
+    "bk": "UNmaB3L28",
+    "v": "false"
+  },
+  {
+    "Ar": "كِيلُومِتْرٌ",
+    "En": "kilometre",
+    "M": "true",
+    "T": "nmeasure",
+    "bk": "maB2L10",
+    "v": "false"
+  },
+  {
+    "Ar": "مَسَافَةٌ",
+    "En": "distance",
+    "M": "false",
+    "T": "nmeasure",
+    "bk": "maB2L10",
+    "v": "false"
+  },
+  {
+    "Ar": "مِتْرٌ",
+    "En": "metre",
+    "M": "true",
+    "T": "nmeasure",
+    "bk": "maB2L10",
+    "v": "false"
+  },
+  {
+    "Ar": "مِثْقَالُ ذَرَّةٍ",
+    "En": "the weight of an atom",
+    "M": "true",
+    "T": "nmeasure",
+    "bk": "UNmaB3L30",
+    "v": "false"
+  },
+  {
+    "Ar": "مِقْيَاسٌ",
+    "En": "measure, measuring instrument",
+    "M": "true",
+    "T": "nmeasure",
+    "bk": "UNmaB3L7",
+    "v": "false"
+  },
+  {
+    "Ar": "مِلْءٌ",
+    "En": "quantity which fills something",
+    "M": "true",
+    "T": "nmeasure",
+    "bk": "UNmaB3L30",
+    "v": "false"
+  },
+  {
+    "Ar": "نَتِيجَةٌ",
+    "En": "result",
+    "M": "true",
+    "Pl": "نَتَائِجُ",
+    "T": "nmeasure",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "وَرَقٌ مُسَطَّرٌ",
+    "En": "ruled paper",
+    "M": "true",
+    "T": "nmeasure",
+    "bk": "UNmaB3L8",
+    "v": "false"
+  },
+  {
+    "Ar": "كِيلُوغِرَامٌ",
+    "En": "kilogram",
+    "M": "true",
+    "T": "nmeasure",
+    "bk": "maB2L26",
+    "v": "false"
+  }
+]

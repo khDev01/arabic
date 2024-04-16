@@ -1,0 +1,192 @@
+[
+  {
+    "Ar": "جَرَّةٌ",
+    "En": "jar",
+    "M": "true",
+    "Pl": "جِرَارٌ",
+    "T": "nkitchen",
+    "bk": "UNmaB3L30",
+    "v": "false"
+  },
+  {
+    "Ar": "سِكِّين",
+    "En": "knife",
+    "M": "true",
+    "Pl": "سَكَاكِينُ",
+    "T": "nkitchen",
+    "bk": "maB1L8",
+    "v": "false"
+  },
+  {
+    "Ar": "شَوْكَة",
+    "En": "fork",
+    "M": "false",
+    "Pl": "شَوْكَات",
+    "T": "nkitchen",
+    "v": "false"
+  },
+  {
+    "Ar": "طَبَقٌ",
+    "En": "plate, dish, layer",
+    "M": "true",
+    "Pl": "طِبَاقٌ، أَطْباقٌ",
+    "T": "nkitchen",
+    "bk": "UNmaB3L25",
+    "v": "false"
+  },
+  {
+    "Ar": "فِنْجَان",
+    "En": "tea-cup",
+    "M": "true",
+    "Pl": "فَنَاجِينُ",
+    "T": "nkitchen",
+    "bk": "maB1L22",
+    "v": "false"
+  },
+  {
+    "Ar": "فِنْجَانُ",
+    "En": "cofee cup",
+    "M": "true",
+    "Pl": "فَنَاجِينُ",
+    "T": "nkitchen",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "كُوب",
+    "En": "cup",
+    "M": "true",
+    "Pl": "أَكْوَاب",
+    "T": "nkitchen",
+    "bk": "maB1L9",
+    "v": "false"
+  },
+  {
+    "Ar": "مِحْلَبٌ",
+    "En": "milking vessel",
+    "M": "true",
+    "T": "nkitchen",
+    "bk": "UNmaB3L7",
+    "v": "false"
+  },
+  {
+    "Ar": "مِغْرَفَةٌ",
+    "En": "scoop, large spoon, ladle",
+    "M": "true",
+    "T": "nkitchen",
+    "bk": "UNmaB3L7",
+    "v": "false"
+  },
+  {
+    "Ar": "مِلْعَقَة",
+    "En": "spoon",
+    "M": "false",
+    "Pl": "مَلَاعِقُ",
+    "T": "nkitchen",
+    "bk": "maB1L6",
+    "v": "false"
+  },
+  {
+    "Ar": "مِرْآةٌ",
+    "En": "mirror",
+    "M": "false",
+    "T": "nfurn",
+    "bk": "maB2L20",
+    "v": "false"
+  },
+  {
+    "Ar": "مِخَّدَّةٌ",
+    "En": "pillow",
+    "Pl": "مَخَادُّ",
+    "M": "false",
+    "T": "nfurn",
+    "bk": "maB2L20",
+    "v": "false"
+  },
+  {
+    "Ar": "مَقْعَدٌ",
+    "En": "seat",
+    "M": "true",
+    "T": "nfurn",
+    "bk": "maB2L15",
+    "v": "false"
+  },
+  {
+    "Ar": "ثَلَّاجَة",
+    "En": "fridge",
+    "M": "false",
+    "Pl": "ثَلَّاجَات",
+    "T": "nfurn",
+    "bk": "maB1L6",
+    "v": "false"
+  },
+  {
+    "Ar": "دُولَاب",
+    "En": "cupboard",
+    "M": "true",
+    "Pl": "دَوَالِيبُ",
+    "T": "nfurn",
+    "v": "false"
+  },
+  {
+    "Ar": "سَرِير",
+    "En": "bed",
+    "M": "true",
+    "Pl": "سُرُر",
+    "T": "nfurn",
+    "bk": "maB1L1",
+    "v": "false"
+  },
+  {
+    "Ar": "كُرْسِيّ",
+    "En": "chair",
+    "M": "true",
+    "Pl": "كَرَاسِيّ",
+    "T": "nfurn",
+    "bk": "maB1L1",
+    "v": "false"
+  },
+  {
+    "Ar": "أَرِيكَةٌ",
+    "En": "couch, sofa",
+    "M": "true",
+    "T": "nhome",
+    "bk": "UNmaB3L9",
+    "v": "false"
+  },
+  {
+    "Ar": "بِسَاطٌ",
+    "En": "carpet",
+    "M": "true",
+    "Pl": "بُسُطٌ",
+    "T": "nhome",
+    "bk": "UNmaB3L25",
+    "v": "false"
+  },
+  {
+    "Ar": "جِدَارٌ",
+    "En": "wall",
+    "M": "true",
+    "Pl": "جُدُرٌ",
+    "T": "nhome",
+    "bk": "UNmaB3L20",
+    "v": "false"
+  },
+  {
+    "Ar": "دُرْجٌ",
+    "En": "drawer (of a table)",
+    "M": "true",
+    "Pl": "أَدْرَاجٌ",
+    "T": "nhome",
+    "bk": "UNmaB3L27",
+    "v": "false"
+  },
+  {
+    "Ar": "قِدْر",
+    "En": "pot",
+    "M": "true",
+    "Pl": "قُدُور",
+    "T": "nhousing",
+    "v": "false"
+  }
+]

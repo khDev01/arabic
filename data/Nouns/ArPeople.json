@@ -1,0 +1,1379 @@
+[
+  {
+    "id": null,
+    "note": [""]
+  },
+
+  {
+    "Ar": "نَاجِحٌ",
+    "En": "one who has passed the examination",
+    "M": "true",
+    "T": "person",
+    "bk": "maB2L1",
+    "v": "false"
+  },
+  {
+    "Ar": "خَادِمَةٌ",
+    "En": "maid servant",
+    "M": "false",
+    "T": "person",
+    "bk": "maB2L6",
+    "v": "false"
+  },
+  {
+    "Ar": "فَاكِهَانِيٌّ",
+    "En": "fruit seller",
+    "M": "true",
+    "T": "person",
+    "bk": "maB2L27",
+    "v": "false"
+  },
+  {
+    "Ar": "صِغَرٌ",
+    "En": "childhood",
+    "M": "true",
+    "T": "nperson",
+    "bk": "maB2L30",
+    "v": "false"
+  },
+  {
+    "Ar": "أَب",
+    "En": "father",
+    "M": "true",
+    "Pl": "آبَاء",
+    "T": "People",
+    "bk": "maB1L6",
+    "v": "false"
+  },
+  {
+    "Ar": "أُمّ",
+    "En": "mother",
+    "M": "true",
+    "Pl": "أُمَّهَات",
+    "T": "People",
+    "bk": "maB1L6",
+    "v": "false"
+  },
+  {
+    "Ar": "النَّاسُ",
+    "En": "people",
+    "M": "true",
+    "T": "People",
+    "bk": "maB1L13",
+    "v": "false"
+  },
+  {
+    "Ar": "اِبْن",
+    "En": "son",
+    "M": "true",
+    "Pl": "أَبْنَاء",
+    "T": "People",
+    "bk": "maB1L5",
+    "v": "false"
+  },
+  {
+    "Ar": "اِمَْرَأة/مَرْآة",
+    "En": "woman",
+    "M": "false",
+    "Pl": "نِسَاء/نِسْوَةٌ",
+    "T": "People",
+    "v": "false"
+  },
+  {
+    "Ar": "حَاجّ",
+    "En": "pilgrim",
+    "M": "true",
+    "Pl": "حُجَّاج",
+    "T": "People",
+    "bk": "maB1L13",
+    "v": "false"
+  },
+  {
+    "Ar": "حَفِيد",
+    "En": "grandson",
+    "M": "true",
+    "Pl": "حَفَدَة",
+    "T": "People",
+    "bk": "maB1L14",
+    "v": "false"
+  },
+  {
+    "Ar": "رَاكِب",
+    "En": "passenger (bus or plane)",
+    "M": "true",
+    "Pl": "رُكَّاب",
+    "T": "People",
+    "bk": "maB1L19",
+    "v": "false"
+  },
+  {
+    "Ar": "رَجُل",
+    "En": "man",
+    "M": "true",
+    "Pl": "رِجَال",
+    "T": "People",
+    "bk": "maB1L1",
+    "v": "false"
+  },
+  {
+    "Ar": "زَمِيل",
+    "En": "colleague, class-mate",
+    "M": "true",
+    "Pl": "زُمَلاَءُ",
+    "T": "People",
+    "bk": "maB1L10",
+    "v": "false"
+  },
+  {
+    "Ar": "زَوْج",
+    "En": "husband",
+    "M": "true",
+    "T": "People",
+    "bk": "maB1L10",
+    "v": "false"
+  },
+  {
+    "Ar": "زَوْجَة",
+    "En": "wife",
+    "M": "false",
+    "T": "People",
+    "bk": "maB1L13",
+    "v": "false"
+  },
+  {
+    "Ar": "سيِّدي",
+    "En": "sir",
+    "M": "true",
+    "T": "People",
+    "bk": "maB1L12",
+    "v": "false"
+  },
+  {
+    "Ar": "شَيْخ",
+    "En": "old man, learned man, respected elder",
+    "M": "true",
+    "Pl": "شُيُوْخ",
+    "T": "People",
+    "v": "false"
+  },
+  {
+    "Ar": "صَدِيق",
+    "En": "friend",
+    "M": "true",
+    "Pl": "أَصْدِقَاءُ",
+    "T": "People",
+    "bk": "maB1L13",
+    "v": "false"
+  },
+  {
+    "Ar": "ضَيْف",
+    "En": "guest",
+    "M": "true",
+    "Pl": "ضُيُوْف",
+    "T": "People",
+    "bk": "maB1L13",
+    "v": "false"
+  },
+  {
+    "Ar": "طَالِب",
+    "En": "student",
+    "M": "true",
+    "Pl": "طُلاَّب",
+    "T": "People",
+    "bk": "maB1L1",
+    "v": "false"
+  },
+  {
+    "Ar": "طِفْل",
+    "En": "child/kid",
+    "M": "true",
+    "Pl": "أَطْفَال",
+    "T": "People",
+    "bk": "maB1L10",
+    "v": "false"
+  },
+  {
+    "Ar": "عَالِم",
+    "En": "teacher/scholar2",
+    "M": "true",
+    "Pl": "عُلَمَاءُ",
+    "T": "People",
+    "v": "false"
+  },
+  {
+    "Ar": "فَتًى",
+    "En": "young man",
+    "M": "true",
+    "Pl": "فِتْيَة",
+    "T": "People",
+    "bk": "maB1L10",
+    "v": "false"
+  },
+  {
+    "Ar": "فَتَاة",
+    "En": "young lady",
+    "M": "false",
+    "T": "People",
+    "bk": "maB1L12",
+    "v": "false"
+  },
+  {
+    "Ar": "فَلاَّح",
+    "En": "farmer",
+    "M": "true",
+    "Pl": "فَلَّاحُونَ",
+    "T": "People",
+    "bk": "maB1L6",
+    "v": "false"
+  },
+  {
+    "Ar": "مُدِيرُ الشَّرِكَةِ",
+    "En": "director of the company",
+    "M": "true",
+    "T": "People",
+    "bk": "maB1L17",
+    "v": "false"
+  },
+  {
+    "Ar": "مُفَتِّش",
+    "En": "inspector",
+    "M": "true",
+    "T": "People",
+    "bk": "maB1L12",
+    "v": "false"
+  },
+  {
+    "Ar": "نَبِيّ",
+    "En": "prophet",
+    "M": "true",
+    "Pl": "أَنْبِيَاءُ",
+    "T": "People",
+    "v": "false"
+  },
+  {
+    "Ar": "نَصْرَانِى",
+    "En": "christian",
+    "M": "true",
+    "Pl": "نَصَارَى",
+    "T": "People",
+    "v": "false"
+  },
+  {
+    "Ar": "وَالِد",
+    "En": "parent",
+    "M": "true",
+    "Pl": "وَالِدُونَ",
+    "T": "People",
+    "v": "false"
+  },
+  {
+    "Ar": "وَزِير",
+    "En": "minister",
+    "M": "true",
+    "Pl": "وُزَرَاءُ",
+    "T": "People",
+    "bk": "maB1L9",
+    "v": "false"
+  },
+  {
+    "Ar": "وَلَد",
+    "En": "boy",
+    "M": "true",
+    "Pl": "أوْلَادُ",
+    "T": "People",
+    "bk": "maB1L1",
+    "v": "false"
+  },
+  {
+    "Ar": "يَا سيِّدَتِي",
+    "En": "madam",
+    "M": "true",
+    "T": "People",
+    "bk": "maB1L12",
+    "v": "false"
+  },
+  {
+    "Ar": "أَجِيرٌ",
+    "En": "hireling, labourer",
+    "M": "true",
+    "T": "Person",
+    "bk": "UNmaB3L9",
+    "v": "false"
+  },
+  {
+    "Ar": "أَخ",
+    "En": "brother",
+    "M": "true",
+    "Pl": "إخْوَان/ِإخْوَة",
+    "T": "Person",
+    "bk": "maB1L14",
+    "v": "false"
+  },
+  {
+    "Ar": "تَابِع",
+    "En": "follower",
+    "M": "true",
+    "Pl": "تَوَابِعُ",
+    "T": "Person",
+    "v": "false"
+  },
+  {
+    "Ar": "جَرِيحٌ",
+    "En": "wounded person",
+    "M": "true",
+    "T": "Person",
+    "bk": "UNmaB3L1",
+    "v": "false"
+  },
+  {
+    "Ar": "رَسُول",
+    "En": "messenger",
+    "M": "true",
+    "Pl": "رُسُل",
+    "T": "Person",
+    "bk": "maB1L5",
+    "v": "false"
+  },
+  {
+    "Ar": "شَقِيْقٌ",
+    "En": "full brother",
+    "M": "true",
+    "T": "Person",
+    "bk": "maB2L3",
+    "v": "false"
+  },
+  {
+    "Ar": "شُرْطِيٌ (شُرْطَةٌ)",
+    "En": "policeman (police)",
+    "M": "true",
+    "T": "Person",
+    "bk": "UNmaB3L25, maB2L25",
+    "v": "false"
+  },
+  {
+    "Ar": "غَرِيب",
+    "En": "stranger",
+    "M": "true",
+    "Pl": "غُرَبَاءُ",
+    "T": "Person",
+    "v": "false"
+  },
+  {
+    "Ar": "فَرِيقٌ",
+    "En": "team",
+    "M": "true",
+    "T": "Person",
+    "bk": "maB2L3",
+    "v": "false"
+  },
+  {
+    "Ar": "رَئِيسٌ",
+    "En": "president",
+    "M": "true",
+    "T": "person",
+    "bk": "maB2L21",
+    "v": "false"
+  },
+  {
+    "Ar": "قَاعِدَة",
+    "En": "principle",
+    "M": "true",
+    "Pl": "قَوَاعِدُ",
+    "T": "Person",
+    "v": "false"
+  },
+  {
+    "Ar": "مَتْبُوع",
+    "En": "followed",
+    "M": "true",
+    "Pl": "SOUND",
+    "T": "Person",
+    "v": "false"
+  },
+  {
+    "Ar": "مُؤَذِّن",
+    "En": "mu'adhdhin/adhan caller",
+    "M": "true",
+    "Pl": "ـُون",
+    "T": "Person",
+    "v": "false"
+  },
+  {
+    "Ar": "مُنَادَى",
+    "En": "onebeingcalled",
+    "M": "true",
+    "Pl": "مُنَادَوْنَ",
+    "T": "Person",
+    "v": "false"
+  },
+  {
+    "Ar": "يَهُودِيّ",
+    "En": "jew",
+    "M": "true",
+    "Pl": "يَهُود",
+    "T": "Person",
+    "v": "false"
+  },
+  {
+    "Ar": "أَمَة",
+    "En": "slave2",
+    "M": "false",
+    "Pl": "إِمَاء",
+    "T": "people",
+    "v": "false"
+  },
+
+  {
+    "Ar": "بِنْت",
+    "En": "daughter, girl",
+    "M": "true",
+    "Pl": "بَنَات",
+    "T": "people",
+    "bk": "maB1L5",
+    "v": "false"
+  },
+  {
+    "Ar": "تَاجِر",
+    "En": "merchant",
+    "M": "true",
+    "Pl": "تُجَّار",
+    "T": "people",
+    "bk": "maB1L1",
+    "v": "false"
+  },
+  {
+    "Ar": "جَانٍ",
+    "En": "criminal, culprit",
+    "M": "true",
+    "T": "people",
+    "bk": "UNmaB3L1",
+    "v": "false"
+  },
+  {
+    "Ar": "جَانٌّ",
+    "En": "jinn",
+    "M": "true",
+    "T": "people",
+    "bk": "maB2L9",
+    "v": "false"
+  },
+  {
+    "Ar": "خَالَة",
+    "En": "maternal aunt",
+    "M": "false",
+    "Pl": "خَالَات",
+    "T": "people",
+    "bk": "maB1L12",
+    "v": "false"
+  },
+
+  {
+    "Ar": "شَعْبٌ",
+    "En": "people, nation",
+    "M": "true",
+    "Pl": "شُعُوبٌ",
+    "T": "people",
+    "bk": "UNmaB3L25",
+    "v": "false"
+  },
+  {
+    "Ar": "طَبِيب",
+    "En": "doctor",
+    "M": "true",
+    "Pl": "أَطِبَّاءُ",
+    "T": "people",
+    "v": "false"
+  },
+  {
+    "Ar": "عَمَّة",
+    "En": "paternal aunt",
+    "M": "false",
+    "Pl": "عمَّات",
+    "T": "people",
+    "bk": "maB1L12",
+    "v": "false"
+  },
+  {
+    "Ar": "فِـئَـةُ",
+    "En": "group, class",
+    "M": "true",
+    "T": "people",
+    "bk": "UNmaB3L1",
+    "v": "false"
+  },
+  {
+    "Ar": "مُحَامٍ",
+    "En": "lawyer",
+    "M": "true",
+    "T": "people",
+    "bk": "UNmaB3L1",
+    "v": "false"
+  },
+  {
+    "Ar": "مُدَرِّس",
+    "En": "teacher",
+    "M": "true",
+    "Pl": "مُدَرِّسُونَ",
+    "T": "people",
+    "bk": "maB1L1",
+    "v": "false"
+  },
+  {
+    "Ar": "مُدِير",
+    "En": "director/head",
+    "M": "true",
+    "Pl": "ـُون",
+    "T": "people",
+    "v": "false"
+  },
+  {
+    "Ar": "مِسْطَرَة",
+    "En": "ruler",
+    "M": "false",
+    "Pl": "مَسَاطِرُ",
+    "T": "people",
+    "bk": "maB1L18",
+    "v": "false"
+  },
+  {
+    "Ar": "مُمَرِّضَة",
+    "En": "nurse",
+    "M": "false",
+    "Pl": "مُمَرِّضَات",
+    "T": "pepole",
+    "bk": "maB1L7",
+    "v": "false"
+  },
+  {
+    "Ar": "مُعَِلّم",
+    "En": "teacher/scholar",
+    "M": "true",
+    "Pl": "مُعَِلّمُونَ",
+    "T": "peron",
+    "v": "false"
+  },
+  {
+    "Ar": "سَفِيْرٌ",
+    "En": "ambassador",
+    "M": "true",
+    "T": "peron",
+    "bk": "maB2L25",
+    "v": "false"
+  },
+  {
+    "Ar": "حَبِيبٌ",
+    "En": "dear",
+    "M": "true",
+    "T": "peron",
+    "bk": "maB2L26",
+    "v": "true"
+  },
+  {
+    "Ar": "لِصٌّ",
+    "En": "thief",
+    "M": "true",
+    "T": "peron",
+    "bk": "maB2L20",
+    "v": "true"
+  },
+  {
+    "Ar": "أهْلٌ",
+    "En": "relatives, people, kinsfolk",
+    "M": "true",
+    "Pl": "أَهالٍ (اأَهالِي)",
+    "T": "persnon",
+    "bk": "UNmaB3L20",
+    "v": "false"
+  },
+  {
+    "Ar": "عَمِيْدٌ",
+    "En": "dean of a faculty, principal of a college",
+    "M": "true",
+    "T": "persnon",
+    "bk": "maB2L25",
+    "v": "true"
+  },
+  {
+    "Ar": "وَالٍ",
+    "En": "ruler, governor",
+    "M": "true",
+    "Pl": "وُلاَةٌ",
+    "T": "person",
+    "bk": "UNmaB3L25",
+    "v": "false",
+    "pl2": "un",
+    "o": "nonruler"
+  },
+  {
+    "Ar": "سَائِقٌ",
+    "En": "driver",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "عَامِلٌ",
+    "En": "labourer, worker",
+    "M": "true",
+    "Pl": "عُمَّالٌ",
+    "T": "person",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "غَازٍ",
+    "En": "the one who wages war",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L25",
+    "v": "false"
+  },
+  {
+    "Ar": "أَبُو لَهَبٍ",
+    "En": "man of flame Abd al-'Uzzâ uncle of the Prophet . He was so named from his ruddy complexion.",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L9",
+    "v": "false"
+  },
+  {
+    "Ar": "أَرمَلَةٌ",
+    "En": "widow",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "أَرْمَلٌ",
+    "En": "widower",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "أَسِيرٌ",
+    "En": "captive, prisoner",
+    "M": "true",
+    "Pl": "أَسْرَى",
+    "T": "person",
+    "bk": "UNmaB3L26",
+    "v": "false"
+  },
+  {
+    "Ar": "أَعْجَمِيٌّ",
+    "En": "non-Arab",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L22",
+    "v": "false"
+  },
+  {
+    "Ar": "أَمِينٌ",
+    "En": "secretary",
+    "M": "true",
+    "Pl": "أُمَنَاءُ",
+    "T": "person",
+    "bk": "UNmaB3L26",
+    "v": "false"
+  },
+  {
+    "Ar": "أَمِينُ الصُّنْدُوقِ",
+    "En": "treasurer",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L26",
+    "v": "false"
+  },
+  {
+    "Ar": "أَمِيْرٌ",
+    "En": "Commander",
+    "M": "true",
+    "Pl": "أُمَرَاءُ",
+    "T": "person",
+    "bk": "UNmaB3L15",
+    "v": "false"
+  },
+  {
+    "Ar": "أَهْلٌ",
+    "En": "one's kith and kin",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L5",
+    "v": "false"
+  },
+  {
+    "Ar": "أُخْت",
+    "En": "sister",
+    "M": "true",
+    "Pl": "أَخَوَات",
+    "T": "person",
+    "v": "false"
+  },
+  {
+    "Ar": "أُسْتَاذ",
+    "En": "teacher/professor",
+    "M": "true",
+    "Pl": "أَسَاتِذَة",
+    "T": "person",
+    "v": "false"
+  },
+  {
+    "Ar": "إِمَام",
+    "En": "leader",
+    "M": "true",
+    "Pl": "أَئِمَّة",
+    "T": "person",
+    "v": "false"
+  },
+
+  {
+    "Ar": "النَّاطِقُونَ بِالعَرَبِيّةِ",
+    "En": "native speakers of Arabic",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L5",
+    "v": "false"
+  },
+  {
+    "Ar": "بَوَّابٌ",
+    "En": "door-keeper",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "تِلْمِيذٌ",
+    "En": "pupil",
+    "M": "true",
+    "T": "person",
+    "bk": "maB2L12",
+    "v": "false"
+  },
+  {
+    "Ar": "جَارٌ",
+    "En": "neighbor",
+    "M": "true",
+    "T": "person",
+    "bk": "maB2L12",
+    "v": "false"
+  },
+  {
+    "Ar": "جَارِيَةٌ",
+    "En": "slave girl",
+    "M": "true",
+    "Pl": "جَوَارٍ",
+    "T": "person",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "جَاسُوسٌ",
+    "En": "spy",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "جُنْدِيٌّ",
+    "En": "soldier",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "حِزْبٌ",
+    "En": "group, party",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L2",
+    "v": "false"
+  },
+  {
+    "Ar": "خَال",
+    "En": "maternal uncle",
+    "M": "true",
+    "Pl": "أَخْوَال",
+    "T": "person",
+    "bk": "maB1L5",
+    "v": "false"
+  },
+  {
+    "Ar": "خَلِيلاٌ",
+    "En": "bosom friend",
+    "M": "true",
+    "Pl": "أَخِلاَّءُ، خُلاَنٌ",
+    "T": "person",
+    "bk": "UNmaB3L23",
+    "v": "false"
+  },
+  {
+    "Ar": "دُكْتُور",
+    "En": "doctor2",
+    "M": "true",
+    "Pl": "دَكَاتِرَة",
+    "T": "person",
+    "v": "false"
+  },
+  {
+    "Ar": "رَاسِبٌ",
+    "En": "one who has failed (in an examination)",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L2",
+    "v": "false"
+  },
+  {
+    "Ar": "رَاشِدٌ",
+    "En": "rightly-guided",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L20",
+    "v": "false"
+  },
+  {
+    "Ar": "رَفِيقٌ",
+    "En": "companion",
+    "M": "true",
+    "Pl": "رُفَقَاءُ",
+    "T": "person",
+    "bk": "UNmaB3L30",
+    "v": "false"
+  },
+  {
+    "Ar": "زَائِرٌ",
+    "En": "visitor",
+    "M": "true",
+    "Pl": "زُوَّارٌ",
+    "T": "person",
+    "bk": "UNmaB3L5",
+    "v": "false"
+  },
+  {
+    "Ar": "زَوْج",
+    "En": "partner",
+    "M": "true",
+    "Pl": "اَزْوَاج",
+    "T": "person",
+    "v": "false"
+  },
+  {
+    "Ar": "شَابٌّ",
+    "En": "youth, young man",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L5",
+    "v": "false"
+  },
+  {
+    "Ar": "شَاهِدٌ",
+    "En": "witness",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L9",
+    "v": "false"
+  },
+
+  {
+    "Ar": "طَالِبٌ",
+    "En": "student (seeker of knowledge)",
+    "M": "true",
+    "Pl": "طُلاَّبٌ، طَلَبَةٌ",
+    "T": "person",
+    "bk": "UNmaB3L16",
+    "v": "false"
+  },
+  {
+    "Ar": "عَابِرُ سَبِيلٍ",
+    "En": "traveller, wayfarer",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L4",
+    "v": "false"
+  },
+  {
+    "Ar": "عَالِمٌ",
+    "En": "learned man, scholar",
+    "M": "true",
+    "Pl": "عُلَمَاءُ",
+    "T": "person",
+    "bk": "UNmaB3L16",
+    "v": "false"
+  },
+  {
+    "Ar": "عَامِلٌ",
+    "En": "labourer",
+    "M": "true",
+    "T": "person",
+    "bk": "maB2L10",
+    "v": "false"
+  },
+  {
+    "Ar": "عَبْد",
+    "En": "slave",
+    "M": "true",
+    "Pl": "عِبَاد",
+    "T": "person",
+    "v": "false"
+  },
+  {
+    "Ar": "عَبْدٌ",
+    "En": "slave, servant, servant of Allah",
+    "M": "true",
+    "Pl": "عِبَادٌ، عَبِيدٌ",
+    "T": "person",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "عَمّ",
+    "En": "paternal uncle",
+    "M": "true",
+    "Pl": "أعْمَام",
+    "T": "person",
+    "bk": "maB1L5",
+    "v": "false"
+  },
+  {
+    "Ar": "غَيْرُ النَّاطِقِينَ بِالعَرَبِيّةِ",
+    "En": "non-native speakers of Arabic",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L5",
+    "v": "false"
+  },
+  {
+    "Ar": "فاجِرٌ",
+    "En": "libertine, debauchee (A person given to excessive indulgence in sensual pleasures)",
+    "M": "true",
+    "Pl": "فَجَرَةٌ، فُجَّارٌ",
+    "T": "person",
+    "bk": "UNmaB3L16",
+    "v": "false"
+  },
+  {
+    "Ar": "فَاتِحٌ",
+    "En": "conqueror",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L4",
+    "v": "false"
+  },
+  {
+    "Ar": "فَتًى",
+    "En": "maleadolescent",
+    "M": "true",
+    "Pl": "فِتْيَة",
+    "T": "person",
+    "v": "false"
+  },
+  {
+    "Ar": "قَارِئٌ",
+    "En": "Reader, reciter of the Qur'an",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L13",
+    "v": "false"
+  },
+  {
+    "Ar": "كَافِرٌ",
+    "En": "disbeliever",
+    "M": "true",
+    "Pl": "كَفَرَةٌ، كُفَّارٌ",
+    "T": "person",
+    "bk": "UNmaB3L17",
+    "v": "false"
+  },
+  {
+    "Ar": "لاَعِبٌ",
+    "En": "player",
+    "M": "true",
+    "T": "person",
+    "bk": "maB2L3",
+    "v": "false"
+  },
+  {
+    "Ar": "مَاشٍ",
+    "En": "pedestrian",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "مَجُوسِيٌّ",
+    "En": "Zoroastrian",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L4",
+    "v": "false"
+  },
+
+  {
+    "Ar": "مَلأٌ",
+    "En": "courtiers",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L9",
+    "v": "false"
+  },
+  {
+    "Ar": "مَوْءُودَةٌ",
+    "En": "female child buried alive after birth",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "مُؤَلِّفٌ",
+    "En": "author",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L16",
+    "v": "false"
+  },
+  {
+    "Ar": "مُتَشَائِمٌ",
+    "En": "pessimist",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "مُتَفَائِلٌ",
+    "En": "optimist",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "مُتَوَفًّى",
+    "En": "deceased",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L20",
+    "v": "false"
+  },
+  {
+    "Ar": "مُتِمٌ",
+    "En": "completer(the one who completes)",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L17",
+    "v": "false"
+  },
+  {
+    "Ar": "مُجْرِمٌ",
+    "En": "criminal",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "مُحَاضِرٌ",
+    "En": "lecturer",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L5",
+    "v": "false"
+  },
+  {
+    "Ar": "مُحْرِمٌ",
+    "En": "hâjj (pilgrim) who has assumed the state of sanctity",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L2",
+    "v": "false"
+  },
+  {
+    "Ar": "مُخَاطَبٌ",
+    "En": "person spoken to",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "مُخْتَارٌ",
+    "En": "selector/selected, choser/chosen",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L23",
+    "v": "false"
+  },
+  {
+    "Ar": "مُذِيعٌ",
+    "En": "radio anouncer",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L23",
+    "v": "false"
+  },
+  {
+    "Ar": "مُرسِلٌ",
+    "En": "sender (of a letter)",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L17",
+    "v": "false"
+  },
+  {
+    "Ar": "مُرَاسِلُ صَحِيفَةٍ",
+    "En": "newspaper correspondent (a reporter)",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "مُرْسَلٌ إِلَيْهِ",
+    "En": "adrresee (of a letter)",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L17",
+    "v": "false"
+  },
+  {
+    "Ar": "مُسْتَرِيحٌ",
+    "En": "the one who is resting, relaxing",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L25",
+    "v": "false"
+  },
+  {
+    "Ar": "مُسْتَعْمِل",
+    "En": "user",
+    "M": "true",
+    "Pl": "SOUND",
+    "T": "person",
+    "v": "false"
+  },
+  {
+    "Ar": "مُشْتَرِكٌ",
+    "En": "participant",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L6",
+    "v": "false"
+  },
+  {
+    "Ar": "مُشْرِكٌ",
+    "En": "one who associates anyone or anything with Allah subhânahû wa ta'âlâ",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L11",
+    "v": "false"
+  },
+  {
+    "Ar": "مُشْـتَـرٍ",
+    "En": "buyer",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L8",
+    "v": "false"
+  },
+  {
+    "Ar": "مُضْطَرٌّ",
+    "En": "compeler, compeled",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L23",
+    "v": "false"
+  },
+  {
+    "Ar": "مُطَفِّفٌ",
+    "En": "one who weighs or measures less",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L7",
+    "v": "false"
+  },
+  {
+    "Ar": "مُقَاتِلٌ",
+    "En": "fighter",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "مُمْتَحِنٌ",
+    "En": "examiner",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L23",
+    "v": "false"
+  },
+  {
+    "Ar": "مُوَدِّعٌ",
+    "En": "the one bidding farewell",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L28",
+    "v": "false"
+  },
+  {
+    "Ar": "مُيَسِّرٌ",
+    "En": "one who facilitates",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L6",
+    "v": "false"
+  },
+  {
+    "Ar": "نَائِبٌ",
+    "En": "deputy",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "نَاسِخٌ",
+    "En": "typist",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L4",
+    "v": "false"
+  },
+  {
+    "Ar": "وَارِثٌ",
+    "En": "heir",
+    "M": "true",
+    "Pl": "وَرَثَةٌ",
+    "T": "person",
+    "bk": "UNmaB3L20",
+    "v": "false"
+  },
+  {
+    "Ar": "وَزِيرُ الخارِجِيَّةِ",
+    "En": "foreign minister",
+    "M": "true",
+    "T": "person",
+    "bk": "maB2L12",
+    "v": "false"
+  },
+  {
+    "Ar": "وَلِيٌ",
+    "En": "friend, supporter",
+    "M": "true",
+    "Pl": "أَوْلِيَاءُ",
+    "T": "person",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "يَـتِـيـمٌ",
+    "En": "orphan",
+    "M": "true",
+    "T": "person",
+    "bk": "UNmaB3L4",
+    "v": "false"
+  },
+  {
+    "Ar": "فَرِيقٌ",
+    "En": "team (in sports)",
+    "M": "true",
+    "Pl": "فُرَقَاءُ",
+    "T": "personGroup",
+    "bk": "UNmaB3L22",
+    "v": "false"
+  },
+  {
+    "Ar": "سَيِّدٌ",
+    "En": "gentleman",
+    "M": "true",
+    "T": "nperson",
+    "bk": "maB2L18",
+    "v": "true"
+  },
+
+  {
+    "Ar": "آمِنة",
+    "En": "Ameenah",
+    "M": "false",
+    "T": "nName",
+    "v": "false"
+  },
+  {
+    "Ar": "حَامِد",
+    "En": "Hamid",
+    "M": "true",
+    "T": "nName",
+    "v": "false"
+  },
+  {
+    "Ar": "خَالِد",
+    "En": "Khalid",
+    "M": "true",
+    "T": "nName",
+    "v": "false"
+  },
+  {
+    "Ar": "خَديجة",
+    "En": "Khadija",
+    "M": "false",
+    "T": "nName",
+    "v": "false"
+  },
+  {
+    "Ar": "زَيْنَب",
+    "En": "Zaynab",
+    "M": "true",
+    "T": "nName",
+    "v": "false"
+  },
+  {
+    "Ar": "عائِشة",
+    "En": "Aisha",
+    "M": "false",
+    "T": "nName",
+    "v": "false"
+  },
+  {
+    "Ar": "عَلِيّ",
+    "En": "Ali",
+    "M": "true",
+    "T": "nName",
+    "v": "false"
+  },
+  {
+    "Ar": "مَرْيَم",
+    "En": "Maryam",
+    "M": "true",
+    "T": "nName",
+    "v": "false"
+  },
+  {
+    "Ar": "قُرْبَى",
+    "En": "kinship",
+    "M": "true",
+    "T": "nfam",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "مُحَمَّد",
+    "En": "Muhammad",
+    "M": "true",
+    "T": "nName",
+    "v": "false"
+  },
+  {
+    "Ar": "يَحْيَى",
+    "En": "Yahya",
+    "M": "true",
+    "T": "nName",
+    "v": "false"
+  }
+]

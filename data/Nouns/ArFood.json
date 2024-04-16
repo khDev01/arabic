@@ -1,0 +1,327 @@
+[
+  {
+    "Ar": "حَبٌّ",
+    "En": "grains",
+    "M": "true",
+    "T": "food",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "شَعِيرٌ",
+    "En": "barley",
+    "M": "true",
+    "T": "food",
+    "bk": "UNmaB3L30",
+    "v": "false"
+  },
+  {
+    "Ar": "طَعَامٌ",
+    "En": "Food",
+    "M": "true",
+    "Pl": "أَطْعِمَةٌ",
+    "T": "food",
+    "bk": "UNmaB3L13",
+    "v": "false"
+  },
+  {
+    "Ar": "زَيْتٌ",
+    "En": "oil",
+    "M": "true",
+    "T": "nfood",
+    "bk": "maB2L27",
+    "v": "false"
+  },
+  {
+    "Ar": "عَدَسٌ",
+    "En": "lentil",
+    "M": "true",
+    "T": "nfood",
+    "bk": "maB2L27",
+    "v": "false"
+  },
+  {
+    "Ar": "حَشَفٌ",
+    "En": "the most inferior kind of dates",
+    "M": "true",
+    "T": "nfood",
+    "bk": "UNmaB3L28",
+    "v": "false"
+  },
+  {
+    "Ar": "سَمَك",
+    "En": "fish",
+    "M": "true",
+    "Pl": "أَسْمَاك",
+    "T": "nfood",
+    "v": "false"
+  },
+  {
+    "Ar": "عَدَسٌ",
+    "En": "lentils",
+    "M": "true",
+    "T": "nfood",
+    "bk": "UNmaB3L7",
+    "v": "false"
+  },
+  {
+    "Ar": "قَمْحٌ",
+    "En": "wheat",
+    "M": "true",
+    "T": "nfood",
+    "bk": "UNmaB3L7",
+    "v": "false"
+  },
+  {
+    "Ar": "أَرُزٌّ",
+    "En": "rice",
+    "M": "true",
+    "T": "nfood",
+    "bk": "maB2L11",
+    "v": "false"
+  },
+  {
+    "Ar": "بُرٌّ",
+    "En": "wheat",
+    "M": "true",
+    "T": "nfood",
+    "bk": "UNmaB3L7",
+    "v": "false"
+  },
+  {
+    "Ar": "تُفَّاح",
+    "En": "apple",
+    "M": "true",
+    "Pl": "تُفَّاحَة",
+    "T": "nfood",
+    "bk": "maB1L3",
+    "v": "false"
+  },
+  {
+    "Ar": "حَفْلُ الشَّايِ",
+    "En": "tea party",
+    "M": "true",
+    "T": "nfood",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "خُبْز",
+    "En": "pieceofbread",
+    "M": "true",
+    "Pl": "خُبْزَة",
+    "T": "nfood",
+    "v": "false"
+  },
+  {
+    "Ar": "زَهوٌ",
+    "En": "unripe date when it starts turning red or yellow",
+    "M": "true",
+    "T": "nfood",
+    "bk": "UNmaB3L24",
+    "v": "false"
+  },
+  {
+    "Ar": "سَُكّر",
+    "En": "sugar",
+    "M": "true",
+    "Pl": "سَكَاكِرُ",
+    "T": "nfood",
+    "bk": "maB1L2",
+    "v": "false"
+  },
+  {
+    "Ar": "طِبّ",
+    "En": "medicine",
+    "M": "true",
+    "T": "nfood",
+    "v": "false"
+  },
+  {
+    "Ar": "فَاكِهَة",
+    "En": "fruit",
+    "M": "false",
+    "Pl": "فَوَاكِهُ",
+    "T": "nfood",
+    "bk": "maB1L9",
+    "v": "false"
+  },
+  {
+    "Ar": "لَبَن",
+    "En": "yoghurt",
+    "M": "true",
+    "Pl": "أَلْبَان",
+    "T": "nfood",
+    "v": "false"
+  },
+  {
+    "Ar": "لَحْمُ",
+    "En": "meat",
+    "M": "true",
+    "Pl": "لُحُوم",
+    "T": "nfood",
+    "v": "false"
+  },
+  {
+    "Ar": "مَأْدُبَةٌ",
+    "En": "feast, banquet",
+    "M": "true",
+    "Pl": "مَآدِبُ",
+    "T": "nfood",
+    "bk": "UNmaB3L27",
+    "v": "false"
+  },
+  {
+    "Ar": "نَخْلَةٌ",
+    "En": "date palm",
+    "M": "true",
+    "Pl": "نَخْلٌ",
+    "T": "nfood",
+    "bk": "UNmaB3L24",
+    "v": "false"
+  },
+  {
+    "Ar": "جُبْنَةٌ",
+    "En": "cheese",
+    "M": "false",
+    "T": "nfood",
+    "bk": "maB2L27",
+    "v": "false"
+  },
+  {
+    "Ar": "مِلْحٌ",
+    "En": "salt",
+    "M": "true",
+    "T": "nfood",
+    "bk": "maB2L27",
+    "v": "false"
+  },
+
+  {
+    "Ar": "تِيْنٌ",
+    "En": "fig",
+    "M": "true",
+    "T": "nfruit",
+    "bk": "maB2L5",
+    "v": "false"
+  },
+  {
+    "Ar": "عِنَبٌ",
+    "En": "grapes",
+    "M": "true",
+    "T": "nfruit",
+    "bk": "maB2L5",
+    "v": "false"
+  },
+  {
+    "Ar": "مَوْزٌ",
+    "En": "banana",
+    "M": "true",
+    "T": "nfruit",
+    "bk": "maB2L5",
+    "v": "false"
+  },
+
+  {
+    "Ar": "بَطَاطِسُ",
+    "En": "potato",
+    "M": "true",
+    "T": "fruit",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "تَمْرَةٌ",
+    "En": "date",
+    "M": "true",
+    "Pl": "تَمْرٌ",
+    "T": "fruit",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "طَماطِمُ",
+    "En": "tomato",
+    "M": "true",
+    "T": "fruit",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "نَوَاةٌ",
+    "En": "fruit kernel, fruit stone",
+    "M": "true",
+    "T": "fruit",
+    "bk": "UNmaB3L4",
+    "v": "false"
+  },
+
+  {
+    "Ar": "زُجَاجٌ",
+    "En": "glass",
+    "M": "true",
+    "T": "ndrink",
+    "bk": "UNmaB3L22",
+    "v": "false"
+  },
+  {
+    "Ar": "زُلاَلٌ = الْمَاءُ الزُّلاَلُ",
+    "En": "Pleasant cold water",
+    "M": "true",
+    "T": "ndrink",
+    "bk": "UNmaB3L15",
+    "v": "false"
+  },
+  {
+    "Ar": "حَلِيب",
+    "En": "milk",
+    "M": "true",
+    "Pl": "أَحْلِبَة",
+    "T": "ndrink",
+    "bk": "maB1L2",
+    "v": "false"
+  },
+  {
+    "Ar": "شَاي",
+    "En": "tea",
+    "M": "true",
+    "T": "ndrink",
+    "bk": "maB1L6/maB2L4",
+    "v": "false"
+  },
+  {
+    "Ar": "عَصِيْرٌ",
+    "En": "juice",
+    "M": "true",
+    "T": "ndrink",
+    "bk": "maB2L7",
+    "v": "false"
+  },
+  {
+    "Ar": "دَقِيْقٌ",
+    "En": "flour",
+    "M": "true",
+    "T": "nfood",
+    "bk": "maB2L27",
+    "v": "false"
+  },
+  {
+    "Ar": "مَاء",
+    "En": "water",
+    "M": "true",
+    "Pl": "مِيَاه",
+    "T": "ndrink",
+    "bk": "maB1L3",
+    "v": "false"
+  },
+
+  {
+    "Ar": "قَهَوَة",
+    "En": "coffee",
+    "M": "false",
+    "Pl": "قَهَوَات",
+    "T": "ndrink",
+    "bk": "maB1L6",
+    "v": "false"
+  }
+]

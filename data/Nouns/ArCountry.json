@@ -1,0 +1,304 @@
+[
+  {
+    "Ar": "أُرْدِيّ",
+    "En": "Urdu",
+    "M": "true",
+    "T": "Lang",
+    "v": "false"
+  },
+  {
+    "Ar": "إِنْكِلِيزِيّ",
+    "En": "English",
+    "M": "false",
+    "Pl": "SOUND",
+    "T": "Lang",
+    "v": "false"
+  },
+  {
+    "Ar": "يَابَانِيَّة",
+    "En": "Japanese",
+    "M": "false",
+    "T": "Nationality",
+    "bk": "maB1L17",
+    "v": "false"
+  },
+  {
+    "Ar": "آسِيَا",
+    "En": "Asia",
+    "M": "false",
+    "T": "Country",
+    "bk": "maB1L21",
+    "v": "false"
+  },
+  {
+    "Ar": "أَلْمَانِيَا",
+    "En": "Germany",
+    "M": "false",
+    "T": "Country",
+    "bk": "maB1L8",
+    "v": "false"
+  },
+  {
+    "Ar": "أَمْرِيكَا",
+    "En": "America",
+    "M": "false",
+    "T": "Country",
+    "bk": "maB1L8",
+    "v": "false"
+  },
+  {
+    "Ar": "أُوْرُبَّا",
+    "En": "Europe",
+    "M": "false",
+    "T": "Country",
+    "bk": "maB1L19",
+    "v": "false"
+  },
+  {
+    "Ar": "إِصْطَنْبُوْلُ",
+    "En": "Istanbul",
+    "M": "false",
+    "T": "Country",
+    "bk": "maB1L23",
+    "v": "false"
+  },
+  {
+    "Ar": "إِفْرِيقْيَا",
+    "En": "Africa",
+    "M": "false",
+    "T": "Country",
+    "v": "false"
+  },
+  {
+    "Ar": "إِنْدُنِيسِايا",
+    "En": "Indonesia",
+    "M": "false",
+    "T": "Country",
+    "bk": "maB1L9",
+    "v": "false"
+  },
+  {
+    "Ar": "إِنْكَلْتَرَا",
+    "En": "England",
+    "M": "false",
+    "T": "Country",
+    "bk": "maB1L8",
+    "v": "false"
+  },
+  {
+    "Ar": "الرِّيَاضُ",
+    "En": "Riyadh",
+    "M": "false",
+    "T": "Country",
+    "v": "false"
+  },
+  {
+    "Ar": "الصِّينُ",
+    "En": "China",
+    "M": "false",
+    "T": "Country",
+    "bk": "maB1L4",
+    "v": "false"
+  },
+  {
+    "Ar": "الطَّائِفُ",
+    "En": "Ta'if city",
+    "M": "true",
+    "T": "Country",
+    "bk": "maB1L23",
+    "v": "false"
+  },
+  {
+    "Ar": "الفِلِبِينُ",
+    "En": "Philippines",
+    "M": "false",
+    "T": "Country",
+    "v": "false"
+  },
+  {
+    "Ar": "القَاهِرَةُ",
+    "En": "Cairo",
+    "M": "false",
+    "T": "Country",
+    "bk": "maB1L9",
+    "v": "false"
+  },
+  {
+    "Ar": "المَمْلَكَةُ الْعَرَبِيَّةُ السَّعُوْدِيَّةُ",
+    "En": "Kingdom of Saudi Arabia",
+    "M": "false",
+    "T": "Country",
+    "bk": "maB1L12",
+    "v": "false"
+  },
+  {
+    "Ar": "الهِنْدُ",
+    "En": "India",
+    "M": "false",
+    "T": "Country",
+    "bk": "maB1L4",
+    "v": "false"
+  },
+  {
+    "Ar": "اليَابَانُ",
+    "En": "Japan",
+    "M": "false",
+    "T": "Country",
+    "bk": "maB1L4",
+    "v": "false"
+  },
+  {
+    "Ar": "الْعِرَاقُ",
+    "En": "Iraq",
+    "M": "false",
+    "T": "Country",
+    "bk": "maB1L8",
+    "v": "false"
+  },
+  {
+    "Ar": "الْكُوَيْتُ",
+    "En": "Kuwait",
+    "M": "false",
+    "T": "Country",
+    "bk": "maB1L9",
+    "v": "false"
+  },
+  {
+    "Ar": "الْيُونَانُ",
+    "En": "Greece",
+    "M": "false",
+    "T": "Country",
+    "bk": "maB1L14",
+    "v": "false"
+  },
+  {
+    "Ar": "بَارِيسُ",
+    "En": "Paris",
+    "M": "false",
+    "T": "Country",
+    "v": "false"
+  },
+  {
+    "Ar": "بَغْدَادُ",
+    "En": "Baghdad",
+    "M": "false",
+    "T": "Country",
+    "bk": "maB1L22",
+    "v": "false"
+  },
+  {
+    "Ar": "بَلَد",
+    "En": "Country/town",
+    "M": "false",
+    "Pl": "بِلاَد",
+    "T": "Country",
+    "v": "false"
+  },
+  {
+    "Ar": "بِلْجِيكَا",
+    "En": "Belgium",
+    "M": "false",
+    "T": "Country",
+    "v": "false"
+  },
+  {
+    "Ar": "تُرْكِيَا",
+    "En": "Turkey",
+    "M": "true",
+    "T": "Country",
+    "v": "false"
+  },
+  {
+    "Ar": "جِدَّةُ",
+    "En": "Jeddah",
+    "M": "false",
+    "T": "Country",
+    "bk": "maB1L22",
+    "v": "false"
+  },
+  {
+    "Ar": "سُوِيسْرَا",
+    "En": "Switzerland",
+    "M": "false",
+    "T": "Country",
+    "bk": "maB1L8",
+    "v": "false"
+  },
+  {
+    "Ar": "سُوْرِيَا",
+    "En": "Syria",
+    "M": "true",
+    "T": "Country",
+    "bk": "maB1L12",
+    "v": "false"
+  },
+  {
+    "Ar": "غَانَا",
+    "En": "Ghana",
+    "M": "false",
+    "T": "Country",
+    "v": "false"
+  },
+  {
+    "Ar": "فَرَنْسَا",
+    "En": "France",
+    "M": "false",
+    "T": "Country",
+    "v": "false"
+  },
+  {
+    "Ar": "لَنْدَنُ",
+    "En": "London",
+    "M": "false",
+    "T": "Country",
+    "v": "false"
+  },
+  {
+    "Ar": "مَالِيزِيَا",
+    "En": "Malaysia",
+    "M": "false",
+    "T": "Country",
+    "bk": "maB1L12",
+    "v": "false"
+  },
+  {
+    "Ar": "مَدِينَة",
+    "En": "city",
+    "M": "false",
+    "Pl": "مُدُن",
+    "T": "Country",
+    "bk": "maB1L9",
+    "v": "false"
+  },
+  {
+    "Ar": "نَيْجِيريا",
+    "En": "Nigeria",
+    "M": "false",
+    "T": "Country",
+    "v": "false"
+  },
+  {
+    "Ar": "وَاشِنْطُنُ",
+    "En": "Washington",
+    "M": "true",
+    "T": "Country",
+    "bk": "maB1L23",
+    "v": "false"
+  },
+  {
+    "Ar": "يُوْغُسَلافِيَا",
+    "En": "Yugoslavia",
+    "M": "true",
+    "T": "Country",
+    "bk": "maB1L19",
+    "v": "false"
+  },
+  {
+    "Ar": "مِصْرُ",
+    "En": "Egypt",
+    "M": "true",
+    "T": "Country",
+    "bk": "maB2L17",
+    "v": "false"
+  }
+]

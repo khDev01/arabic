@@ -1,0 +1,683 @@
+[
+  {
+    "Ar": "قَاعَةٌ",
+    "En": "hall",
+    "M": "false",
+    "T": "nplace",
+    "bk": "maB2L23",
+    "v": "false"
+  },
+  {
+    "Ar": "اِسْتِقْبَالٌ",
+    "En": "reception",
+    "M": "true",
+    "T": "place",
+    "bk": "maB2L21",
+    "v": "false"
+  },
+  {
+    "Ar": "مُتْحَفٌ",
+    "En": "museum",
+    "M": "true",
+    "T": "place",
+    "bk": "maB2L18",
+    "v": "false"
+  },
+  {
+    "Ar": "الأَنْدَلُسُ",
+    "En": "Spain, especially southern Spain",
+    "M": "true",
+    "T": "Place",
+    "bk": "UNmaB3L4",
+    "v": "false"
+  },
+  {
+    "Ar": "الجَنَّةُ",
+    "En": "the paradise",
+    "M": "false",
+    "T": "Place",
+    "bk": "maB2L14",
+    "v": "false"
+  },
+  {
+    "Ar": "العَالَمُ الإسْلاَمِيُّ",
+    "En": "the Islamic world",
+    "M": "true",
+    "T": "Place",
+    "bk": "UNmaB3L8",
+    "v": "false"
+  },
+  {
+    "Ar": "الكُوفَةُ",
+    "En": "Kufah (a town in Iraq)",
+    "M": "true",
+    "T": "Place",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "المَدْرَسَةُ الْمُتَوَسِّطَةُ",
+    "En": "middle school",
+    "M": "false",
+    "T": "Place",
+    "bk": "maB1L12",
+    "v": "false"
+  },
+  {
+    "Ar": "النَّادِي الرِّيَاضِيُّ",
+    "En": "sports club",
+    "M": "true",
+    "T": "Place",
+    "bk": "UNmaB3L11",
+    "v": "false"
+  },
+  {
+    "Ar": "بَقَّالٌ",
+    "En": "grocer",
+    "M": "true",
+    "T": "Place",
+    "bk": "maB2L5/27",
+    "v": "false"
+  },
+  {
+    "Ar": "بَيْت",
+    "En": "house",
+    "M": "true",
+    "Pl": "بُيُوت",
+    "T": "Place",
+    "bk": "maB1L1",
+    "v": "false"
+  },
+  {
+    "Ar": "بُنْيَانٌ",
+    "En": "building, structure",
+    "M": "true",
+    "T": "Place",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "بُنْيَانٌ مَرْصُوصٌ",
+    "En": "compact building (2) building built with molten lead",
+    "M": "true",
+    "T": "Place",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "جَامِعَة",
+    "En": "university",
+    "M": "false",
+    "Pl": "جَامِعَات",
+    "T": "Place",
+    "bk": "maB1L4",
+    "v": "false"
+  },
+  {
+    "Ar": "حَدِيقَة",
+    "En": "garden",
+    "M": "false",
+    "Pl": "حَدَائِقُ",
+    "T": "Place",
+    "bk": "maB1L14",
+    "v": "false"
+  },
+  {
+    "Ar": "حَيّ",
+    "En": "city district/district/avenue/area",
+    "M": "true",
+    "Pl": "أَحْيَاء",
+    "T": "Place",
+    "bk": "maB1L18",
+    "v": "false"
+  },
+  {
+    "Ar": "خارِجَ",
+    "En": "Outside",
+    "M": "true",
+    "T": "Place",
+    "bk": "UNmaB3L13",
+    "v": "false"
+  },
+  {
+    "Ar": "دَوْلَةٌ",
+    "En": "state/ country",
+    "M": "true",
+    "Pl": "دُوَلٌ",
+    "T": "Place",
+    "bk": "UNmaB3L16",
+    "v": "false"
+  },
+  {
+    "Ar": "دُكَّان",
+    "En": "shop",
+    "M": "true",
+    "Pl": "دَكَاكِينُ",
+    "T": "Place",
+    "bk": "maB1L3/b2l5",
+    "v": "false"
+  },
+  {
+    "Ar": "سَكَنٌ",
+    "En": "doweling, residence, hostel",
+    "M": "true",
+    "T": "Place",
+    "bk": "UNmaB3L13",
+    "v": "false"
+  },
+  {
+    "Ar": "سُوق",
+    "En": "market",
+    "M": "true",
+    "Pl": "أَسْوَاق",
+    "T": "Place",
+    "bk": "maB1L4",
+    "v": "false"
+  },
+  {
+    "Ar": "شَارِع",
+    "En": "street",
+    "M": "true",
+    "Pl": "شَوَارِعُ",
+    "T": "Place",
+    "bk": "maB1L5",
+    "v": "false"
+  },
+  {
+    "Ar": "شَرِكَة",
+    "En": "company",
+    "M": "false",
+    "Pl": "شَرِكَات",
+    "T": "Place",
+    "v": "false"
+  },
+  {
+    "Ar": "شَقُةٌ",
+    "En": "flat, apartment",
+    "M": "false",
+    "Pl": "شِقَقٌ",
+    "T": "Place",
+    "bk": "maB2L6",
+    "v": "false"
+  },
+  {
+    "Ar": "شُرْفَةٌ",
+    "En": "balcony",
+    "M": "true",
+    "Pl": "شُرُفَاتٌ",
+    "T": "Place",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "صَحْرَاءُ",
+    "En": "desert",
+    "M": "true",
+    "Pl": "صَحَارِيُ",
+    "T": "Place",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "صَيْدَ لِيَّةٌ",
+    "En": "pharmacy",
+    "M": "false",
+    "T": "Place",
+    "bk": "maB2L11",
+    "v": "false"
+  },
+  {
+    "Ar": "عُنْوَانٌ",
+    "En": "address",
+    "M": "true",
+    "T": "Place",
+    "bk": "maB2L11",
+    "v": "false"
+  },
+  {
+    "Ar": "عِمَارَةٌ",
+    "En": "building",
+    "M": "false",
+    "T": "Place",
+    "bk": "maB2L6",
+    "v": "false"
+  },
+  {
+    "Ar": "غُرْفَة",
+    "En": "room",
+    "M": "false",
+    "Pl": "غُرَف",
+    "T": "Place",
+    "bk": "maB1L4",
+    "v": "false"
+  },
+  {
+    "Ar": "فُنْدُق",
+    "En": "hotel",
+    "M": "true",
+    "T": "Place",
+    "bk": "maB1L16",
+    "v": "false"
+  },
+  {
+    "Ar": "قَرْيَة",
+    "En": "village",
+    "M": "false",
+    "Pl": "قُرًى",
+    "T": "Place",
+    "bk": "maB1L13",
+    "v": "false"
+  },
+  {
+    "Ar": "كَعْبَة",
+    "En": "ka'bah",
+    "M": "false",
+    "Pl": "كَعَبَات",
+    "T": "Place",
+    "v": "false"
+  },
+  {
+    "Ar": "كُلِّيَة",
+    "En": "faculty",
+    "M": "false",
+    "Pl": "كُِلِّيَات",
+    "T": "Place",
+    "v": "false"
+  },
+  {
+    "Ar": "كُلِّيَّة",
+    "En": "faculty,college",
+    "M": "false",
+    "T": "Place",
+    "bk": "maB1L14",
+    "v": "false"
+  },
+  {
+    "Ar": "كُلِّيَّةُ التِّجَارَةِ",
+    "En": "faculty of commerce",
+    "M": "false",
+    "T": "Place",
+    "bk": "maB1L14",
+    "v": "false"
+  },
+  {
+    "Ar": "كُلِّيَّةُ الشَّرِيعَةِ",
+    "En": "faculty of islamic law",
+    "M": "false",
+    "T": "Place",
+    "bk": "maB1L14",
+    "v": "false"
+  },
+  {
+    "Ar": "كُلِّيَّةُ الطِّبِّ",
+    "En": "faculty of medicine",
+    "M": "false",
+    "T": "Place",
+    "bk": "maB1L14",
+    "v": "false"
+  },
+  {
+    "Ar": "كُلِّيَّةُ الْهَنْدَسَةِ",
+    "En": "faculty of engineering",
+    "M": "false",
+    "T": "Place",
+    "bk": "maB1L14",
+    "v": "false"
+  },
+  {
+    "Ar": "مكْتَبُ البَرِيدِ",
+    "En": "post office",
+    "M": "true",
+    "T": "Place",
+    "bk": "maB2L2",
+    "v": "false"
+  },
+  {
+    "Ar": "مَتْجَر",
+    "En": "placeoftrade",
+    "M": "true",
+    "Pl": "مَتَاجِرُ",
+    "T": "Place",
+    "v": "false"
+  },
+  {
+    "Ar": "مَحَطَّةُ القِطارِ",
+    "En": "railway station",
+    "M": "true",
+    "T": "Place",
+    "bk": "UNmaB3L6",
+    "v": "false"
+  },
+  {
+    "Ar": "مَحَطَّةٌ",
+    "En": "station",
+    "M": "false",
+    "T": "Place",
+    "bk": "maB2L11",
+    "v": "false"
+  },
+  {
+    "Ar": "مَحَلٌّ",
+    "En": "place, location",
+    "M": "true",
+    "Pl": "مَحَلَّات",
+    "T": "Place",
+    "bk": "UNmaB3L11",
+    "v": "false"
+  },
+  {
+    "Ar": "مَحْكَمَة",
+    "En": "courthouse",
+    "M": "false",
+    "Pl": "مَحَاكِمُ",
+    "T": "Place",
+    "v": "false"
+  },
+  {
+    "Ar": "مَحْكَمَة",
+    "En": "lawcourt",
+    "M": "false",
+    "T": "Place",
+    "bk": "maB1L14",
+    "v": "false"
+  },
+  {
+    "Ar": "مَدْرَسَة",
+    "En": "school",
+    "M": "false",
+    "Pl": "مَدَارِسُ",
+    "T": "Place",
+    "bk": "maB1L4",
+    "v": "false"
+  },
+  {
+    "Ar": "مَرْكَزٌ",
+    "En": "centre",
+    "M": "true",
+    "T": "Place",
+    "bk": "UNmaB3L5",
+    "v": "false"
+  },
+  {
+    "Ar": "مَرْكَزُ شُؤُونِ الدَّعْوَةِ",
+    "En": "centre for da'wah affairs",
+    "M": "true",
+    "T": "Place",
+    "bk": "UNmaB3L5",
+    "v": "false"
+  },
+  {
+    "Ar": "مَسْجِد",
+    "En": "masjid",
+    "M": "true",
+    "Pl": "مَسَاجِدُ",
+    "T": "Place",
+    "bk": "maB1L1",
+    "v": "false"
+  },
+  {
+    "Ar": "مَسْكَنٌ",
+    "En": "dwelling",
+    "M": "true",
+    "Pl": "مَسَاكِنُ",
+    "T": "Place",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "مَصْرِفٌ",
+    "En": "bank",
+    "M": "true",
+    "T": "Place",
+    "bk": "maB2L2",
+    "v": "false"
+  },
+  {
+    "Ar": "مَصْنَعٌ",
+    "En": "factory",
+    "M": "true",
+    "Pl": "مَصَانِعُ",
+    "T": "Place",
+    "bk": "UNmaB3L30",
+    "v": "false"
+  },
+  {
+    "Ar": "مَطَار",
+    "En": "airport",
+    "M": "true",
+    "Pl": "مَطَارَات",
+    "T": "Place",
+    "bk": "maB1L14",
+    "v": "false"
+  },
+  {
+    "Ar": "مَطْعَمٌ",
+    "En": "Restaurant, Dinning Room",
+    "M": "true",
+    "Pl": "مَطَاعِمُ",
+    "T": "Place",
+    "bk": "UNmaB3L13",
+    "v": "false"
+  },
+  {
+    "Ar": "مَعْشَرٌ",
+    "En": "group, company",
+    "M": "true",
+    "Pl": "مَعَاشِرُ",
+    "T": "Place",
+    "bk": "UNmaB3L20",
+    "v": "false"
+  },
+  {
+    "Ar": "مَعْمَلٌ",
+    "En": "laboratory, workshop",
+    "M": "true",
+    "T": "Place",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "مَعْهَدٌ",
+    "En": "institute",
+    "M": "true",
+    "T": "Place",
+    "bk": "maB2L30",
+    "v": "false"
+  },
+  {
+    "Ar": "مَقَرٌّ",
+    "En": "residence, place of work, headquarters",
+    "M": "true",
+    "T": "Place",
+    "bk": "UNmaB3L6",
+    "v": "false"
+  },
+  {
+    "Ar": "مَكَان",
+    "En": "Place",
+    "M": "true",
+    "Pl": "أَمْكِنَة",
+    "T": "Place",
+    "v": "false"
+  },
+  {
+    "Ar": "مَكْتَبَة",
+    "En": "library",
+    "M": "false",
+    "Pl": "مَكْتَبَات",
+    "T": "Place",
+    "bk": "maB1L9",
+    "v": "false"
+  },
+  {
+    "Ar": "مَكْتَبُ خُطُوْطٍ جَوِّيَّةٍ",
+    "En": "airlines office",
+    "M": "false",
+    "T": "Place",
+    "bk": "maB2L30",
+    "v": "false"
+  },
+  {
+    "Ar": "مَلْعَب",
+    "En": "playground",
+    "M": "true",
+    "Pl": "مَلَاعِبُ",
+    "T": "Place",
+    "v": "false"
+  },
+  {
+    "Ar": "مَهْبِطٌ",
+    "En": "place of descending",
+    "M": "true",
+    "T": "Place",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "مَهْبِطُ الوَحِي",
+    "En": "Land where revelation came to Prophet (saw), e.e., Medinah",
+    "M": "true",
+    "T": "Place",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "مَهْجَعٌ",
+    "En": "hostel",
+    "M": "true",
+    "T": "Place",
+    "bk": "maB2L3",
+    "v": "false"
+  },
+  {
+    "Ar": "مَوْقِفُ السّـيَّـاراتِ",
+    "En": "car park",
+    "M": "true",
+    "T": "Place",
+    "bk": "UNmaB3L6",
+    "v": "false"
+  },
+  {
+    "Ar": "مُتَنَفَّسٌ",
+    "En": "breathing space, place were one can breath fresh air",
+    "M": "true",
+    "T": "Place",
+    "bk": "UNmaB3L20",
+    "v": "false"
+  },
+  {
+    "Ar": "مُتَوَضَّأٌ",
+    "En": "place for performing wudu",
+    "M": "true",
+    "T": "Place",
+    "bk": "UNmaB3L20",
+    "v": "false"
+  },
+  {
+    "Ar": "مُستَوْصَف",
+    "En": "clinic, small hospital",
+    "M": "true",
+    "Pl": "مُسْتَوْصَفَات",
+    "T": "Place",
+    "bk": "maB1L9",
+    "v": "false"
+  },
+  {
+    "Ar": "مُسْتَشْفَى",
+    "En": "hospital",
+    "M": "true",
+    "T": "Place",
+    "bk": "maB1L8",
+    "v": "false"
+  },
+  {
+    "Ar": "مُسْتَشْفَى الوِلاَدَةِ",
+    "En": "maternity hospital",
+    "M": "false",
+    "T": "Place",
+    "bk": "maB1L12",
+    "v": "false"
+  },
+  {
+    "Ar": "مِحْرَاب",
+    "En": "sanctuary",
+    "M": "true",
+    "Pl": "مَحَارِيبُ",
+    "T": "Place",
+    "v": "false"
+  },
+  {
+    "Ar": "مِصْعَدٌ",
+    "En": "elevator (US), lift (UK)",
+    "M": "true",
+    "T": "Place",
+    "bk": "UNmaB3L7",
+    "v": "false"
+  },
+  {
+    "Ar": "سُلَّمٌ",
+    "En": "staircase",
+    "M": "true",
+    "T": "nplace",
+    "bk": "maB2L7",
+    "v": "false"
+  },
+  {
+    "Ar": "عَاصِمَةٌ",
+    "En": "capital city",
+    "M": "false",
+    "T": "nplace",
+    "bk": "maB2L9",
+    "v": "false"
+  },
+  {
+    "Ar": "مَنَارَةٌ",
+    "En": "minaret",
+    "M": "false",
+    "T": "nplace",
+    "bk": "maB2L7",
+    "v": "false"
+  },
+
+  {
+    "Ar": "بَاطِنٌ",
+    "En": "interior",
+    "M": "true",
+    "T": "place",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "طَابَقٌ",
+    "En": "building floor",
+    "M": "true",
+    "Pl": "طَوَابِقُ",
+    "T": "place",
+    "bk": "UNmaB3L23",
+    "v": "false"
+  },
+  {
+    "Ar": "طَـيْـبَـةُ",
+    "En": "another name of Madinah",
+    "M": "true",
+    "T": "place",
+    "bk": "UNmaB3L2",
+    "v": "false"
+  },
+  {
+    "Ar": "حَلَّاقٌ",
+    "En": "barber",
+    "M": "true",
+    "T": "place/person",
+    "bk": "maB2L11",
+    "v": "false"
+  },
+  {
+    "Ar": "بِلُوْعَةٌ",
+    "En": "drain, sewer",
+    "M": "false",
+    "T": "nplace",
+    "bk": "maB2L29",
+    "v": "false"
+  }
+]

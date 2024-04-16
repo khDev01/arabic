@@ -1,0 +1,519 @@
+[
+  {
+    "Ar": "أَجِبْ",
+    "En": "answer!",
+    "M": "true",
+    "T": "vAmr",
+    "v": "false"
+  },
+  {
+    "Ar": "أضِفْ",
+    "En": "ascribe!",
+    "M": "true",
+    "T": "vAmr",
+    "v": "false"
+  },
+  {
+    "Ar": "حَوِّلْ",
+    "En": "change!",
+    "M": "true",
+    "T": "vAmr",
+    "v": "false"
+  },
+  {
+    "Ar": "اِخْتَرْ",
+    "En": "choose!",
+    "M": "true",
+    "T": "vAmr",
+    "v": "false"
+  },
+  {
+    "Ar": "كَوِّنْ",
+    "En": "construct",
+    "M": "true",
+    "T": "vAmr",
+    "v": "false"
+  },
+  {
+    "Ar": "صَحِّحْ",
+    "En": "correct!",
+    "M": "true",
+    "T": "vAmr",
+    "v": "false"
+  },
+  {
+    "Ar": "امْلَأُ",
+    "En": "fill!",
+    "M": "true",
+    "T": "vAmr",
+    "v": "false"
+  },
+  {
+    "Ar": "هَاتِ",
+    "En": "give/bring(M)",
+    "M": "true",
+    "Pl": "هَاتُوا",
+    "T": "V",
+    "v": "false"
+  },
+  {
+    "Ar": "أَكَلَ",
+    "En": "he ate",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L5",
+    "v": "false"
+  },
+  {
+    "Ar": "حَضَرَ",
+    "En": "he attended, he was present",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L9",
+    "v": "false"
+  },
+  {
+    "Ar": "ضَرَبَ",
+    "En": "he beat",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L5",
+    "v": "false"
+  },
+  {
+    "Ar": "كَسَرَ",
+    "En": "he broke",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L5",
+    "v": "false"
+  },
+  {
+    "Ar": "جَاءَ",
+    "En": "he came",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L6",
+    "v": "false"
+  },
+  {
+    "Ar": "خَلَقَ",
+    "En": "he created",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L9",
+    "v": "false"
+  },
+  {
+    "Ar": "شَرِبَ",
+    "En": "he drank",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L5",
+    "v": "false"
+  },
+  {
+    "Ar": "دَخَلَ",
+    "En": "he entered",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L5",
+    "v": "false"
+  },
+  {
+    "Ar": "وَجَدَ",
+    "En": "he found",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L7",
+    "v": "false"
+  },
+  {
+    "Ar": "سَمِعَ",
+    "En": "he heard",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L5",
+    "v": "false"
+  },
+  {
+    "Ar": "كَوَى",
+    "En": "he ironed",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L6",
+    "v": "false"
+  },
+  {
+    "Ar": "قَتَلَ",
+    "En": "he killed",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L5",
+    "v": "false"
+  },
+  {
+    "Ar": "بَحَثَ عَنْ",
+    "En": "he looked for",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L7",
+    "v": "false"
+  },
+  {
+    "Ar": "حَفِظَ",
+    "En": "he memorized",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L5",
+    "v": "false"
+  },
+  {
+    "Ar": "وَضَعَ",
+    "En": "he placed",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L7",
+    "v": "false"
+  },
+  {
+    "Ar": "رَفَعَ",
+    "En": "he raised",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L9",
+    "v": "false"
+  },
+  {
+    "Ar": "أَخَذَ",
+    "En": "he took",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L7",
+    "v": "false"
+  },
+  {
+    "Ar": "فَهِمَ",
+    "En": "he understood",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L5",
+    "v": "false"
+  },
+  {
+    "Ar": "مَشَى",
+    "En": "he walked",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L7",
+    "v": "false"
+  },
+  {
+    "Ar": "فَرِحَ",
+    "En": "he was pleased",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L6",
+    "v": "false"
+  },
+  {
+    "Ar": "غَسَلَ",
+    "En": "he washed",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L5",
+    "v": "false"
+  },
+  {
+    "Ar": "يَشَاءُ",
+    "En": "he wills",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L26",
+    "v": "false"
+  },
+  {
+    "Ar": "صُدَاعٌ",
+    "En": "headache",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L27",
+    "v": "false"
+  },
+  {
+    "Ar": "خَرَجُوا",
+    "En": "heleft",
+    "M": "true",
+    "Pl": "خَرَجَ",
+    "T": "Verb",
+    "v": "false"
+  },
+  {
+    "Ar": "جَلَسَ",
+    "En": "hesat",
+    "M": "true",
+    "Pl": "جَلَسُوا",
+    "T": "Verb",
+    "v": "false"
+  },
+  {
+    "Ar": "نَسِيْتُ",
+    "En": "I forgot",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L11",
+    "v": "false"
+  },
+  {
+    "Ar": "أَرْجُو",
+    "En": "I request",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L17",
+    "v": "false"
+  },
+  {
+    "Ar": "ذَهَبْتُ",
+    "En": "I(B)went",
+    "M": "true",
+    "Pl": "ذَهَبْنَا",
+    "T": "Verb",
+    "v": "false"
+  },
+  {
+    "Ar": "اِنْقَلَبَ",
+    "En": "it overturned",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L15",
+    "v": "false"
+  },
+  {
+    "Ar": "رَنَّ",
+    "En": "it rang",
+    "M": "true",
+    "T": "Verb",
+    "bk": "maB2L9",
+    "v": "false"
+  },
+  {
+    "Ar": "كَسْلَى",
+    "En": "lazy (fem)",
+    "M": "true",
+    "T": "V",
+    "bk": "maB2L3",
+    "v": "false"
+  },
+  {
+    "Ar": "كَسْلَانُ",
+    "En": "lazy (masc)",
+    "M": "true",
+    "T": "V",
+    "bk": "maB2L3",
+    "v": "false"
+  },
+  {
+    "Ar": "يُحِبُّ",
+    "En": "love",
+    "M": "true",
+    "Pl": "أُحَبَّ",
+    "T": "V?",
+    "v": "false"
+  },
+  {
+    "Ar": "اِجْعَلْ",
+    "En": "make",
+    "M": "true",
+    "T": "vAmr",
+    "v": "false"
+  },
+  {
+    "Ar": "ثَنِّ",
+    "En": "makedual",
+    "M": "true",
+    "T": "V",
+    "v": "false"
+  },
+  {
+    "Ar": "اُذْكُرْ",
+    "En": "mention",
+    "M": "true",
+    "T": "vAmr",
+    "v": "false"
+  },
+  {
+    "Ar": "أَشِرْ",
+    "En": "point!",
+    "M": "true",
+    "T": "vAmr",
+    "v": "false"
+  },
+  {
+    "Ar": "اِقْرَأ",
+    "En": "read",
+    "M": "true",
+    "T": "VerbAmr",
+    "v": "false"
+  },
+  {
+    "Ar": "ذَهَبَتْ",
+    "En": "sheWent",
+    "M": "true",
+    "Pl": "ذَهَبْنَ",
+    "T": "Verb",
+    "v": "false"
+  },
+  {
+    "Ar": "مَهْلًا",
+    "En": "slowly, please, don't hurry",
+    "M": "true",
+    "T": "V",
+    "bk": "maB2L21",
+    "v": "false"
+  },
+  {
+    "Ar": "اِسْتَرِحْ",
+    "En": "take rest!",
+    "M": "true",
+    "T": "VerbAmr",
+    "bk": "maB2L21",
+    "v": "false"
+  },
+  {
+    "Ar": "تَناوُلٌ",
+    "En": "taking,eating",
+    "M": "true",
+    "T": "V",
+    "bk": "maB2L28",
+    "v": "false"
+  },
+  {
+    "Ar": "جَالِس",
+    "En": "sitting",
+    "M": "true",
+    "Pl": "SOUND",
+    "T": "adv",
+    "bk": "maB1L3",
+    "v": "false",
+    "o": "standing"
+  },
+  {
+    "Ar": "عَادَ:يَعُودُ؛ عَوْداً، عَوْدَةً",
+    "En": "to return (2) to visit a sick person",
+    "M": "true",
+    "T": "v",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "غَرْغَرَ؛ غَرْغَرَةً",
+    "En": "to gargle (2) to be in the throes of death",
+    "M": "true",
+    "T": "v",
+    "bk": "UNmaB3L26",
+    "v": "false"
+  },
+  {
+    "Ar": "ضَعَّفَ؛ تَضْعِيفاً",
+    "En": "to redouble (2) gr to change a verb into form ii",
+    "M": "true",
+    "T": "v",
+    "bk": "UNmaB3L18/21",
+    "v": "false"
+  },
+  {
+    "Ar": "أَفْرَدَ؛ إِفْرَاداً",
+    "En": "(gr) to render a word singular",
+    "M": "true",
+    "T": "v",
+    "bk": "UNmaB3L28",
+    "v": "false"
+  },
+  {
+    "Ar": "وَصْل",
+    "En": "connecting",
+    "M": "true",
+    "T": "v",
+    "v": "false"
+  },
+  {
+    "Ar": "مِلْء",
+    "En": "fill",
+    "M": "true",
+    "Pl": "أَمْلَاء",
+    "T": "v",
+    "v": "false"
+  },
+  {
+    "Ar": "تَرْكِزي",
+    "En": "focus",
+    "M": "true",
+    "Pl": "تَرْكِزيَات",
+    "T": "v",
+    "v": "false"
+  },
+  {
+    "Ar": "طَيِّب!",
+    "En": "good!",
+    "M": "true",
+    "Pl": "طَيِّبُونَ/طَيِّبَة",
+    "T": "v",
+    "v": "false"
+  },
+  {
+    "Ar": "قَالَ",
+    "En": "hesaid",
+    "M": "true",
+    "Pl": "قَالُوا",
+    "T": "v",
+    "v": "false"
+  },
+  {
+    "Ar": "أُحِبُّ",
+    "En": "I love, I like",
+    "M": "true",
+    "T": "v",
+    "bk": "maB1L11",
+    "v": "false"
+  },
+  {
+    "Ar": "اِسْتِمَاع",
+    "En": "listening",
+    "M": "true",
+    "Pl": "اِسْتِمَاعَات",
+    "T": "v",
+    "v": "false"
+  },
+  {
+    "Ar": "طَلَب",
+    "En": "seeking/request",
+    "M": "true",
+    "Pl": "طَلَبَات",
+    "T": "v",
+    "v": "false"
+  },
+  {
+    "Ar": "خَرَجْنَ",
+    "En": "sheleft",
+    "M": "true",
+    "Pl": "خَرَجَتْ",
+    "T": "v",
+    "v": "false"
+  },
+  {
+    "Ar": "قَالَتْ",
+    "En": "shesaid",
+    "M": "true",
+    "Pl": "قُلْنَ",
+    "T": "v",
+    "v": "false"
+  },
+  {
+    "Ar": "جَلَسَتْ",
+    "En": "shesat",
+    "M": "true",
+    "Pl": "جَلَسْنَ",
+    "T": "v",
+    "v": "false"
+  }
+]

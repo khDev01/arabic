@@ -1,0 +1,788 @@
+[
+  {
+    "Ar": "بَدَلٌ مُبِينٌ",
+    "En": "type of badal in which the second word is alien to the first",
+    "M": "true",
+    "T": "gr",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "بَدَلُ اِشْتِمَالٍ",
+    "En": "type od badal where the second word is not part of the first, but s.t. contained in it",
+    "M": "true",
+    "T": "gr",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "تُسَكِّنُ",
+    "En": "It is give sukoon",
+    "M": "true",
+    "T": "gr",
+    "bk": "UNmaB3L13",
+    "v": "false"
+  },
+  {
+    "Ar": "صَرْفٌ",
+    "En": "morphology (study of the forms of words)",
+    "M": "true",
+    "T": "gr",
+    "bk": "UNmaB3L9",
+    "v": "false"
+  },
+  {
+    "Ar": "فِعْلُ الْمُتَكَلِّمِ",
+    "En": "First person (verb)",
+    "M": "true",
+    "T": "gr",
+    "bk": "UNmaB3L13",
+    "v": "false"
+  },
+  {
+    "Ar": "أَصْلٌ",
+    "En": "original form (of a word)",
+    "M": "true",
+    "T": "gr",
+    "bk": "UNmaB3L5",
+    "v": "false"
+  },
+  {
+    "Ar": "أَوجَبَ:يُوجِيْبُ؛ إِيْجاباً",
+    "En": "to enjoin, make s.t. obligatory (2) gr. Affirmation",
+    "M": "true",
+    "T": "gr",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "الاسْمُ الْمُحَلَّى بِـاَلْ",
+    "En": "noun with al attached to it(literally, a noun which has been decorated with the ornament of al)",
+    "M": "true",
+    "T": "gr",
+    "bk": "UNmaB3L8",
+    "v": "false"
+  },
+  {
+    "Ar": "النَّحْوِيَّةُ",
+    "En": "grammatical",
+    "M": "true",
+    "T": "gr",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "اِرْتَفَعَ؛ اِرْتِفَاعاً",
+    "En": "to be raise, rise (gr) have primary case-ending dammah or its equivalent seconday ending.",
+    "M": "true",
+    "T": "gr",
+    "bk": "UNmaB3L23",
+    "v": "false"
+  },
+  {
+    "Ar": "جَازِمٌ",
+    "En": "Word that make a verb majzum",
+    "M": "true",
+    "T": "gr",
+    "bk": "UNmaB3L13",
+    "v": "false"
+  },
+  {
+    "Ar": "حَيْثُ",
+    "En": "Where (The mudaafu ilaihi is a verb or a nominal sentence)",
+    "M": "true",
+    "T": "gr",
+    "bk": "UNmaB3L12",
+    "v": "false"
+  },
+  {
+    "Ar": "غَائِبٌ",
+    "En": "Absent. (gr) Third person (he, she, it, they)",
+    "M": "true",
+    "T": "gr",
+    "bk": "UNmaB3L15",
+    "v": "false"
+  },
+  {
+    "Ar": "فِعْلُ الغَائِبِ",
+    "En": "Third person (verb)",
+    "M": "true",
+    "T": "gr",
+    "bk": "UNmaB3L13",
+    "v": "false"
+  },
+  {
+    "Ar": "فِعْلُ الْمُخَاطِبِ",
+    "En": "Second Person (verb)",
+    "M": "true",
+    "T": "gr",
+    "bk": "UNmaB3L13",
+    "v": "false"
+  },
+  {
+    "Ar": "مَزِيدٌ",
+    "En": "verb in which one, two or 3 letters have been added",
+    "M": "true",
+    "T": "gr",
+    "bk": "UNmaB3L16",
+    "v": "false"
+  },
+  {
+    "Ar": "مُجَرَّدٌ",
+    "En": "verb in its original forms without additional letteers",
+    "M": "true",
+    "T": "gr",
+    "bk": "UNmaB3L16",
+    "v": "false"
+  },
+  {
+    "Ar": "مُطَأَوِعٌ",
+    "En": "verb in the active voice but with passive meaning in relation to another form of the same verb.",
+    "M": "true",
+    "T": "gr",
+    "bk": "UNmaB3L22",
+    "v": "false"
+  },
+  {
+    "Ar": "هَلاّ (حَرْفُ التَّنْدِيم",
+    "En": "followed with a madi verb signifies that the action contained in the sentence should have been done. In this case it is a particle that makes you feel sorry.",
+    "M": "true",
+    "T": "gr",
+    "bk": "UNmaB3L29",
+    "v": "false"
+  },
+  {
+    "Ar": "أَنَّثَ؛ تَأْنِيثاً",
+    "En": "to feminize, give the feminine ending/form",
+    "M": "true",
+    "T": "gr/v",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "مَاضٍ",
+    "En": "past",
+    "M": "true",
+    "Pl": "مَاضُونَ",
+    "T": "grammar",
+    "bk": "unknown",
+    "v": "false",
+    "pl2": "un",
+    "o": "future"
+  },
+  {
+    "Ar": "أَدَاةٌ",
+    "En": "Word denoting a grammatical tool, Instrument, Function",
+    "M": "true",
+    "Pl": "أَدَوَاتٌ",
+    "T": "grammar",
+    "bk": "UNmaB3L15",
+    "v": "false"
+  },
+  {
+    "Ar": "أَضَافَ:يُضِيفُ؛ إِضَافَةً",
+    "En": "to add (gr) to add a noun to another to signify the meaning of possession.",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "أَمْر",
+    "En": "command",
+    "M": "true",
+    "Pl": "أَوَامِرُ",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "أُنْثَى",
+    "En": "feminine/female",
+    "M": "true",
+    "Pl": "إِنَاث",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "إشْفَاقٌ",
+    "En": "fear",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "إَظْهَارُ ما ليسَ في الباطِنِ",
+    "En": "to show what is not in the inside, to feign",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "إِضَافَة",
+    "En": "ascription",
+    "M": "true",
+    "Pl": "إِضَافَات",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "إِعْرَاب",
+    "En": "grammaticalanalysis",
+    "M": "true",
+    "Pl": "إِعْرَابَات",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "إِمْلَاء",
+    "En": "dictation/spelling",
+    "M": "true",
+    "Pl": "إِمْلَاءَات",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "اِخْتِصَاصٌ",
+    "En": "to use a mansub noun after a pronoun to peculiarize the pronoun",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L20",
+    "v": "false"
+  },
+  {
+    "Ar": "اِسْتَثْنَى؛ اِسْتِثْنَاءً",
+    "En": "to except",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "اِسْتِدْرَاكٌ",
+    "En": "rectification, correction",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "اِسْتِفْهَام",
+    "En": "interrogative",
+    "M": "true",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "اِشْتَقَّ؛ اِشْتِقَاقاً",
+    "En": "to derive a word from another",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L28",
+    "v": "false"
+  },
+  {
+    "Ar": "اِضْرَابٌ",
+    "En": "literally 'abondoning'. The partile بَلْ signifies abandoning the subject preceding it and proceeding to a different subject.",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L33",
+    "v": "false"
+  },
+  {
+    "Ar": "تَحْلِيَةُ الاسْمِ بِـاَلْ",
+    "En": "adding al to the noun",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L8",
+    "v": "false"
+  },
+  {
+    "Ar": "تَرَجٍّ (التَّرَجِّي",
+    "En": "hope",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "تَرْكِيب",
+    "En": "structure",
+    "M": "true",
+    "Pl": "تَرْكِيبَات",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "تَشْكِيل",
+    "En": "diacriticalmarking",
+    "M": "true",
+    "Pl": "تَشْكِيلَات",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "تَنْوِين",
+    "En": "Nunnation",
+    "M": "true",
+    "Pl": "تَنْوِينَات",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "تَوَالِي الأَمْثَالِ",
+    "En": "two or more identical consonants or vowels following each other in close succession. Arabic does not like this phonetic phenomenon and usually drops off indentical speech sound,",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L33",
+    "v": "false"
+  },
+  {
+    "Ar": "ثُلاَثِيٌّ سَاكِنُ الوَسَطِ",
+    "En": "a three-letter word with middle letter being vowelless",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "ثُنَاء",
+    "En": "dual",
+    "M": "true",
+    "Pl": "مَثَانٍ",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "جَمْع",
+    "En": "plural",
+    "M": "true",
+    "Pl": "جُمُوع",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "جُمَل/",
+    "En": "sentence",
+    "M": "true",
+    "Pl": "جُمْلَة",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "جِنْس",
+    "En": "gender",
+    "M": "true",
+    "Pl": "أَجْنَاس",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "حَرفُ الإسْتِفْتَاحِ وَالتَّنْبِيهِ",
+    "En": "particle used at the beginning of a sentence to draw attention of the listner/reader to the important statement following it",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "حَرْف",
+    "En": "letter (of the alphabet) particle",
+    "M": "true",
+    "Pl": "حُرُوْف",
+    "T": "grammar",
+    "bk": "maB1L20",
+    "v": "false"
+  },
+  {
+    "Ar": "خَبَر",
+    "En": "predicate",
+    "M": "true",
+    "Pl": "أَخْبَار",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "ذَكَر",
+    "En": "masculine",
+    "M": "true",
+    "Pl": "ذُكُور",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "رَابِطٌ",
+    "En": "a word linking the hal to the sahebulhall",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L31",
+    "v": "false"
+  },
+  {
+    "Ar": "رُتْبَةٌ",
+    "En": "person, ie first person, second or third person",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L27",
+    "v": "false"
+  },
+  {
+    "Ar": "سُؤَال",
+    "En": "question",
+    "M": "true",
+    "Pl": "أَسْئِلَة",
+    "T": "grammar",
+    "bk": "maB1L19",
+    "v": "false"
+  },
+  {
+    "Ar": "صَرْف",
+    "En": "exchange/tanween",
+    "M": "true",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "صِفَةٌ",
+    "En": "adjective",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "ضَبْط",
+    "En": "vowelisation",
+    "M": "true",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "ضَمِير",
+    "En": "pronoun",
+    "M": "true",
+    "Pl": "ضَمَائِرُ",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "ظَرْف",
+    "En": "adverb",
+    "M": "true",
+    "Pl": "ظُرُوف",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "عَدَّى؛ تَعْدِيَةً",
+    "En": "to transfer an intrasitive verb into a transitive verb",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "عَطْف",
+    "En": "conjunction",
+    "M": "true",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "عَلَم",
+    "En": "properNoun",
+    "M": "true",
+    "Pl": "أَعْالَام",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "غَائِب",
+    "En": "3rdperson",
+    "M": "true",
+    "Pl": "ـُونَ",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "غَيْرُعَاقِلٍ",
+    "En": "irrational",
+    "M": "true",
+    "Pl": "عُقَلَاءُ غَيْرُ",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "فَرْد",
+    "En": "singular",
+    "M": "true",
+    "Pl": "أَفْرَاد",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "فَضْلَةٌ",
+    "En": "an element in a sentence which can be dispensed with like hall and naat. Opposed to عُمْدَةٌ which can not be dispensed like fail.",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L31",
+    "v": "false"
+  },
+  {
+    "Ar": "كَلِمَة",
+    "En": "word",
+    "M": "false",
+    "Pl": "كَلِمَات",
+    "T": "grammar",
+    "bk": "maB1L20",
+    "v": "false"
+  },
+  {
+    "Ar": "لاَزِمٌ",
+    "En": "intransitive",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "لَازِم",
+    "En": "intransitive",
+    "M": "true",
+    "Pl": "لَوَازِمُ",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "مخَاطَب",
+    "En": "2ndperson",
+    "M": "true",
+    "Pl": "ـُونَ",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "منْعُوت",
+    "En": "described",
+    "M": "true",
+    "Pl": "SOUND",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "مَجْرُور",
+    "En": "kasrahending",
+    "M": "true",
+    "Pl": "مَجْرُورَات",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "مَرْفُوع",
+    "En": "dhammahending",
+    "M": "true",
+    "Pl": "مَرْفُوعَات",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "مَعْدُولٌ",
+    "En": "transformed",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "مَعْرِفَة",
+    "En": "definite",
+    "M": "false",
+    "Pl": "مَعَارِفُ",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "مَفْعُول/بِهِ",
+    "En": "object",
+    "M": "true",
+    "Pl": "مَفَاعِيلُ",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "مَقَادِيرُ",
+    "En": "what is determined by counting, weighing, cubic mesure or liner measure",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L30",
+    "v": "false"
+  },
+  {
+    "Ar": "مَنْصُوب",
+    "En": "fathahending",
+    "M": "true",
+    "Pl": "مَنْصُوبَات",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "مَنْقُوصٌ",
+    "En": "noun ending in an original ya such as an-naady",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "مُبْتَدَأ",
+    "En": "subject",
+    "M": "true",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "مُتَكَِلِّم",
+    "En": "1stperson",
+    "M": "true",
+    "Pl": "ـُونَ",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "مُتَّصِل",
+    "En": "attached",
+    "M": "true",
+    "Pl": "SOUND",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "مُسَوِّغٌ",
+    "En": "justifying factor",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L31",
+    "v": "false"
+  },
+  {
+    "Ar": "مُسْتَثْنًى",
+    "En": "that which is excepted",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "مُسْتَثْنًى مِنْهُ",
+    "En": "that from which something is excepted",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "مُضَارِع",
+    "En": "present",
+    "M": "true",
+    "Pl": "SOUND",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "مُعَرَّف",
+    "En": "madedefinite",
+    "M": "true",
+    "Pl": "ـة/ـُونَ",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "مُنْفَصِل",
+    "En": "detached",
+    "M": "true",
+    "Pl": "SOUND",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "نَحْو",
+    "En": "grammar",
+    "M": "true",
+    "Pl": "أَنْحَاء",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "نَعْت",
+    "En": "description",
+    "M": "true",
+    "Pl": "نُعُوت",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "نَفْي",
+    "En": "negation",
+    "M": "true",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "نَكِرَة",
+    "En": "indefinite",
+    "M": "true",
+    "Pl": "نَكِرَات",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "نُطْق",
+    "En": "pronunciation",
+    "M": "true",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "هَلاّ (حَرْفُ التَّحْضِيضِ",
+    "En": "Followed by a mudaria verb it goads. In this sence it is a particle of encouragement.",
+    "M": "true",
+    "T": "grammar",
+    "bk": "UNmaB3L29",
+    "v": "false"
+  },
+  {
+    "Ar": "يَة/مُتَعَدٍّ",
+    "En": "transitive",
+    "M": "true",
+    "Pl": "متَعَدُّونَ",
+    "T": "grammar",
+    "v": "false"
+  },
+  {
+    "Ar": "عَلَمٌ",
+    "En": "proper name",
+    "M": "true",
+    "Pl": "أَعْلامٌ",
+    "T": "grammar?",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "مُفْرَدٌ",
+    "En": "singular/vocab",
+    "M": "true",
+    "Pl": "مُفْرَدَاتٌ",
+    "T": "grammar?",
+    "bk": "UNmaB3L31",
+    "v": "false"
+  },
+  {
+    "Ar": "نَحْوِيٌ",
+    "En": "grammatical, syntatic(al)",
+    "M": "true",
+    "T": "grammar?",
+    "bk": "UNmaB3L26",
+    "v": "false"
+  }
+]

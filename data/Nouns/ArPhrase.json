@@ -1,0 +1,227 @@
+[
+  {
+    "id": null,
+    "note": ["random phrases save"],
+    "v": false
+  },
+  {
+    "Ar": "كُتُبٌ مُقَرَّرَةٌ",
+    "En": "prescribed text books",
+    "M": "false",
+    "T": "phrase",
+    "bk": "maB2L30",
+    "v": "false"
+  },
+  {
+    "Ar": "يَا أَبَتِ",
+    "En": "O my father!",
+    "M": "true",
+    "T": "phrase",
+    "bk": "maB2L15",
+    "v": "false"
+  },
+  {
+    "Ar": "عَدَّةُ كُتُبٍ",
+    "En": "a number of books",
+    "M": "true",
+    "T": "phrase",
+    "bk": "maB2L9",
+    "v": "true"
+  },
+  {
+    "Ar": "عَدَّةُ أَسْئِلَةٍ",
+    "En": "a number of questions",
+    "M": "true",
+    "T": "phrase",
+    "bk": "maB2L9",
+    "v": "true"
+  },
+  {
+    "Ar": "جَمِيْعُ أنْحَاءِ العالَمِ",
+    "En": "all parts of the world",
+    "M": "true",
+    "T": "phrase",
+    "bk": "maB2L25",
+    "v": "true"
+  },
+
+  {
+    "Ar": "ابْنُ عِشْرِينَ عاماً",
+    "En": "twenty years old",
+    "M": "true",
+    "T": "phrase",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+
+  {
+    "Ar": "تَذْكِرَةُ الطَّائِرَةِ ذَهَابًا وَإِيَابًا",
+    "En": "return air-ticket",
+    "M": "true",
+    "T": "nsent",
+    "bk": "maB2L26",
+    "v": "false"
+  },
+  {
+    "Ar": "حانَ وَقْتُ الصَّلاةِ",
+    "En": "it is time for salaah",
+    "M": "true",
+    "T": "nsent",
+    "bk": "UNmaB3L16",
+    "v": "false"
+  },
+  {
+    "Ar": "زَادَكَ الله عِلْمًا",
+    "En": "may Allah increase your knowledge",
+    "M": "true",
+    "T": "nsent",
+    "bk": "maB2L6",
+    "v": "false"
+  },
+  {
+    "Ar": "فَهِمْتُهُ حَيِّدًا",
+    "En": "I have understood it well",
+    "M": "true",
+    "T": "nsent",
+    "bk": "maB2L6",
+    "v": "false"
+  },
+  {
+    "Ar": "مَا شَاءَ الله",
+    "En": "literally, 'what Allah wills' : an expression of surprise",
+    "M": "true",
+    "T": "nsent",
+    "bk": "maB2L6",
+    "v": "false"
+  },
+  {
+    "Ar": "يَا بُنَيَّ",
+    "En": "O my little son!",
+    "M": "true",
+    "T": "nsent",
+    "bk": "maB2L6",
+    "v": "false"
+  },
+  {
+    "Ar": "يَجِبُ أَنْ تَذْهَبَ",
+    "En": "you must go",
+    "M": "true",
+    "T": "nsent",
+    "bk": "UNmaB3L6",
+    "v": "false"
+  },
+  {
+    "Ar": "أنا مَسرُورُ بِلِقَائِكَ",
+    "En": "I am happy to meet you",
+    "M": "true",
+    "T": "nsentence",
+    "bk": "maB2UnL2",
+    "v": "false"
+  },
+  {
+    "Ar": "أَحلاً وَسَهْلاً وَمَرْحَبًا",
+    "En": "welcome",
+    "M": "true",
+    "T": "nsentence",
+    "bk": "maB1L14",
+    "v": "false"
+  },
+  {
+    "Ar": "أَنَا بِخَيْرٍ",
+    "En": "I am fine",
+    "M": "true",
+    "T": "nsentence",
+    "bk": "maB1L12",
+    "v": "false"
+  },
+  {
+    "Ar": "شَفَاهُ اللَّهُ",
+    "En": "May Allah grant him health",
+    "M": "true",
+    "T": "nsentence",
+    "bk": "maB1L14",
+    "v": "false"
+  },
+  {
+    "Ar": "صَحِبَـتْـكَ السّلامَةُ في الْحَلِّ والتَّرْحَالِ",
+    "En": "May safety be your companion while you stay and while you travel!",
+    "M": "true",
+    "T": "nsentence",
+    "bk": "UNmaB3L5",
+    "v": "false"
+  },
+  {
+    "Ar": "كَيْفَ حَالُكَ",
+    "En": "how are you?",
+    "M": "true",
+    "T": "nsentence",
+    "v": "false"
+  },
+  {
+    "Ar": "لَا بَأْسَ",
+    "En": "may no harm come to you!",
+    "M": "true",
+    "T": "nsentence",
+    "bk": "maB2L4",
+    "v": "false"
+  },
+  {
+    "Ar": "لا يَزَالُ يَدْرُسُ",
+    "En": "he is still studying",
+    "M": "true",
+    "T": "V",
+    "bk": "maB2L27",
+    "v": "false"
+  },
+  {
+    "Ar": "ذُو وَجْهَيْنِ",
+    "En": "hypocrite (two-faced)",
+    "M": "true",
+    "T": "V",
+    "bk": "maB2L20",
+    "v": "false"
+  },
+
+  {
+    "Ar": "لا أَدْرِي",
+    "En": "I don't know",
+    "M": "true",
+    "T": "V",
+    "bk": "maB2L14",
+    "v": "false"
+  },
+
+  {
+    "Ar": "فِي المَنَامِ",
+    "En": "in dream",
+    "M": "true",
+    "T": "V",
+    "bk": "maB2L3",
+    "v": "false"
+  },
+
+  {
+    "Ar": "وَفَّقَكَ اللهُ",
+    "En": "May Allah grant you success",
+    "M": "true",
+    "T": "V",
+    "bk": "maB2L30",
+    "v": "false"
+  },
+  {
+    "Ar": "عَلَى غِرَارِ كَذَا",
+    "En": "after the pattern of, similar to, in the manner of",
+    "M": "true",
+    "T": "neng",
+    "bk": "UNmaB3L2",
+    "v": "false"
+  },
+
+  {
+    "Ar": "يَسُدُّ مَسَدَّ المَفْعُولَيْنِ",
+    "En": "it fills the place of the 2 mafuls, i.e., it functions as 2 mafuls.",
+    "M": "true",
+    "bk": "UNmaB3L23",
+    "v": "false"
+  }
+]

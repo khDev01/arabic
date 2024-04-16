@@ -1,0 +1,381 @@
+[
+  {
+    "Ar": "طَبَاشِيرُ",
+    "En": "chalk",
+    "M": "true",
+    "T": "nstudy",
+    "bk": "maB2L16",
+    "v": "false"
+  },
+  {
+    "Ar": "مِلَفٌّ",
+    "En": "file",
+    "M": "true",
+    "T": "nstudy",
+    "bk": "maB2L16",
+    "v": "false"
+  },
+  {
+    "Ar": "جَدْوَل",
+    "En": "schedule",
+    "M": "true",
+    "Pl": "جَدَاوِلُ",
+    "T": "nStudy",
+    "v": "false"
+  },
+  {
+    "Ar": "إِنْشَاءٌ",
+    "En": "composition, writing",
+    "M": "true",
+    "T": "nstudy",
+    "bk": "UNmaB3L2",
+    "v": "false"
+  },
+  {
+    "Ar": "الإمْتِحَانُ النَّهائِيُّ",
+    "En": "final examination",
+    "M": "true",
+    "T": "nstudy",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "تَعْلِيمٌ",
+    "En": "teaching",
+    "M": "true",
+    "T": "nstudy",
+    "bk": "UNmaB3L33",
+    "v": "false"
+  },
+  {
+    "Ar": "تَقْدِيْرٌ",
+    "En": "Grade (in an exam)",
+    "M": "true",
+    "T": "nstudy",
+    "bk": "UNmaB3L12",
+    "v": "false"
+  },
+  {
+    "Ar": "طَوَى قَيْدَهُ",
+    "En": "His name has been struck off the registry (in school)",
+    "M": "true",
+    "T": "nstudy",
+    "bk": "UNmaB3L12",
+    "v": "false"
+  },
+  {
+    "Ar": "اِخْتِبَار",
+    "En": "examination",
+    "M": "true",
+    "T": "nstudy",
+    "bk": "maB1L15",
+    "v": "false"
+  },
+  {
+    "Ar": "تَرْجَمَة",
+    "En": "translation",
+    "M": "false",
+    "Pl": "تَرَاجِمُ",
+    "T": "nstudy",
+    "v": "false"
+  },
+  {
+    "Ar": "تَمْرِين",
+    "En": "excercise",
+    "M": "true",
+    "Pl": "تَمَارِينُ",
+    "T": "nstudy",
+    "v": "false"
+  },
+  {
+    "Ar": "جَدْوَلٌ",
+    "En": "table (of words)",
+    "M": "true",
+    "T": "nstudy",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "جَوَاب",
+    "En": "answer",
+    "M": "true",
+    "Pl": "أَجْوِبَة",
+    "T": "nstudy",
+    "v": "false"
+  },
+  {
+    "Ar": "حِبْرٌ",
+    "En": "ink",
+    "M": "true",
+    "Pl": "أحْبارٌ",
+    "T": "nstudy",
+    "bk": "UNmaB3L13",
+    "v": "false"
+  },
+  {
+    "Ar": "خَطٌّ",
+    "En": "handwriting/writing/caligraphy",
+    "M": "true",
+    "T": "nstudy",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "خَطَأ",
+    "En": "mistake/wrong",
+    "M": "true",
+    "Pl": "أَخْطَاء",
+    "T": "nstudy",
+    "v": "false"
+  },
+  {
+    "Ar": "دَرَجَةٌ",
+    "En": "Mark (obtained in an exam)",
+    "M": "true",
+    "T": "nstudy",
+    "bk": "UNmaB3L12",
+    "v": "false"
+  },
+  {
+    "Ar": "دَرْس",
+    "En": "lesson",
+    "M": "true",
+    "Pl": "دُرُوْس",
+    "T": "nstudy",
+    "v": "false"
+  },
+  {
+    "Ar": "دَرْسٌ إِضَافِيٌّ",
+    "En": "Additional lecture",
+    "M": "true",
+    "T": "nstudy",
+    "bk": "UNmaB3L15",
+    "v": "false"
+  },
+  {
+    "Ar": "دَفْتَر",
+    "En": "notebook",
+    "M": "true",
+    "Pl": "دَفَاتِرُ",
+    "T": "nstudy",
+    "bk": "maB1L12",
+    "v": "false"
+  },
+  {
+    "Ar": "سَبُوْرَة",
+    "En": "writing board",
+    "M": "false",
+    "T": "nstudy",
+    "bk": "maB1L18",
+    "v": "false"
+  },
+  {
+    "Ar": "صَفْحَةٌ",
+    "En": "page",
+    "M": "false",
+    "Pl": "صَفَحَات",
+    "T": "nstudy",
+    "bk": "maB2L1",
+    "v": "false"
+  },
+  {
+    "Ar": "طَبَاشِيرُ",
+    "En": "chalk (to write)",
+    "M": "true",
+    "T": "nstudy",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "فَصْل",
+    "En": "classroom",
+    "M": "true",
+    "Pl": "فُصُول",
+    "T": "nstudy",
+    "bk": "maB1L4",
+    "v": "false"
+  },
+  {
+    "Ar": "قَلَم",
+    "En": "pen",
+    "M": "true",
+    "Pl": "أَقْلَام",
+    "T": "nstudy",
+    "bk": "maB1L1",
+    "v": "false"
+  },
+  {
+    "Ar": "قَلَمٌ جَافٌّ",
+    "En": "ball-point pen",
+    "M": "true",
+    "T": "nstudy",
+    "bk": "UNmaB3L8",
+    "v": "false"
+  },
+  {
+    "Ar": "قَلَمُ حِبْرٍ",
+    "En": "fountain pen",
+    "M": "true",
+    "T": "nstudy",
+    "bk": "UNmaB3L8",
+    "v": "false"
+  },
+  {
+    "Ar": "قَلَمُ رَصَاصٍقققق",
+    "En": "pencil",
+    "M": "true",
+    "T": "nstudy",
+    "bk": "UNmaB3L8",
+    "v": "false"
+  },
+  {
+    "Ar": "قَيْدٌ",
+    "En": "Record, Registry, Entry, Enrolment",
+    "M": "true",
+    "Pl": "قُيُودٌ",
+    "T": "nstudy",
+    "bk": "UNmaB3L12",
+    "v": "false"
+  },
+  {
+    "Ar": "قِيَاس",
+    "En": "analogy",
+    "M": "true",
+    "Pl": "أَقْيِسَة",
+    "T": "nstudy",
+    "v": "false"
+  },
+  {
+    "Ar": "كِتاب",
+    "En": "book",
+    "M": "true",
+    "Pl": "كُتُب",
+    "T": "nstudy",
+    "bk": "maB1L1",
+    "v": "false"
+  },
+  {
+    "Ar": "كِتَابَة",
+    "En": "writing",
+    "M": "false",
+    "Pl": "كِتَابَات",
+    "T": "nstudy",
+    "v": "false"
+  },
+  {
+    "Ar": "لَوْحَةٌ",
+    "En": "chart, poster",
+    "M": "true",
+    "Pl": "لَوْحَاتٌ",
+    "T": "nstudy",
+    "bk": "UNmaB3L30",
+    "v": "false"
+  },
+  {
+    "Ar": "مَعْنَى",
+    "En": "meaning",
+    "M": "true",
+    "Pl": "مَعَانٍ",
+    "T": "nstudy",
+    "v": "false"
+  },
+  {
+    "Ar": "مَقَالٌ",
+    "En": "article (in a newspaper, magazine, etc.)",
+    "M": "true",
+    "T": "nstudy",
+    "bk": "UNmaB3L9",
+    "v": "false"
+  },
+  {
+    "Ar": "مَكْتَب",
+    "En": "desk",
+    "M": "true",
+    "Pl": "مَكَاتِبُ",
+    "T": "nstudy",
+    "bk": "maB1L1",
+    "v": "false"
+  },
+  {
+    "Ar": "مَنْهَجٌ",
+    "En": "syllabus, curriculum",
+    "M": "true",
+    "Pl": "مَنَاهِجُ",
+    "T": "nstudy",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "مَوْضُوْعٌ",
+    "En": "Subject, Subject matter",
+    "M": "true",
+    "Pl": "مَوَاضِيْعُ",
+    "T": "nstudy",
+    "bk": "UNmaB3L15",
+    "v": "false"
+  },
+  {
+    "Ar": "مُدَارَسَة",
+    "En": "peerStudy",
+    "M": "false",
+    "Pl": "مُدَارَسَات",
+    "T": "nstudy",
+    "v": "false"
+  },
+  {
+    "Ar": "مُرَاجَعَة",
+    "En": "revision",
+    "M": "false",
+    "Pl": "مُرَاجَعَات",
+    "T": "nstudy",
+    "v": "false"
+  },
+  {
+    "Ar": "مُوَضَّح",
+    "En": "explained",
+    "M": "true",
+    "Pl": "SOUND",
+    "T": "nstudy",
+    "v": "false"
+  },
+  {
+    "Ar": "مِثَال",
+    "En": "example",
+    "M": "true",
+    "Pl": "أَمْثِلَة",
+    "T": "nstudy",
+    "v": "false"
+  },
+  {
+    "Ar": "مِمْحَاةٌ",
+    "En": "eraser",
+    "M": "true",
+    "T": "nstudy",
+    "bk": "UNmaB3L7",
+    "v": "false"
+  },
+  {
+    "Ar": "نَحْوٌ",
+    "En": "syntax (study of sentence structure)",
+    "M": "true",
+    "T": "nstudy",
+    "bk": "UNmaB3L9",
+    "v": "false"
+  },
+  {
+    "Ar": "وَاجِبَاتٌ",
+    "En": "homework",
+    "M": "true",
+    "T": "nstudy",
+    "bk": "maB2L12",
+    "v": "false"
+  },
+  {
+    "Ar": "مُعْجَمٌ",
+    "En": "dictionary",
+    "M": "true",
+    "T": "nstudy",
+    "bk": "maB2L1",
+    "v": "false"
+  }
+]

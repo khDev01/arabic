@@ -1,0 +1,18 @@
+[
+  {
+    "Ar": "جوَّال",
+    "En": "mobilephone",
+    "M": "true",
+    "Pl": "جَوَّالَات",
+    "T": "nTech",
+    "v": "false"
+  },
+  {
+    "Ar": "حَاسُوب",
+    "En": "computer",
+    "M": "true",
+    "Pl": "حَوَاسِيبُ",
+    "T": "nTech",
+    "v": "false"
+  }
+]

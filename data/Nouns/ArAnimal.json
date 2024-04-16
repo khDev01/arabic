@@ -1,0 +1,294 @@
+[
+  {
+    "Ar": "أَرْنَبٌ",
+    "En": "rabbit",
+    "M": "true",
+    "Pl": "أَرَانِبُ",
+    "T": "animal",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "أَفْعًى",
+    "En": "viper",
+    "M": "true",
+    "T": "animal",
+    "bk": "UNmaB3L1",
+    "v": "false"
+  },
+  {
+    "Ar": "النَّحْلُ",
+    "En": "name of the 16th sûrah (literally, bees)",
+    "M": "true",
+    "T": "animal",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "بَغْلَةٌ",
+    "En": "female mule",
+    "M": "true",
+    "T": "animal",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "ثُعْبَانٌ",
+    "En": "serpent",
+    "M": "true",
+    "Pl": "ثُعَابِينُ",
+    "T": "animal",
+    "bk": "UNmaB3L23",
+    "v": "false"
+  },
+  {
+    "Ar": "جُحْرٌ",
+    "En": "hole (of a snake)",
+    "M": "true",
+    "T": "animal",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "حَشَرَةٌ",
+    "En": "insect",
+    "M": "true",
+    "T": "animal",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "خَيْلٌ",
+    "En": "horses",
+    "M": "true",
+    "T": "animal",
+    "bk": "maB2L11",
+    "v": "false"
+  },
+  {
+    "Ar": "ذِئْبٌ",
+    "En": "wolf",
+    "M": "true",
+    "T": "animal",
+    "bk": "UNmaB3L7",
+    "v": "false"
+  },
+  {
+    "Ar": "صُوفٌ",
+    "En": "wool",
+    "M": "true",
+    "Pl": "أَصْوَافٌ",
+    "T": "animal",
+    "bk": "UNmaB3L29",
+    "v": "false"
+  },
+  {
+    "Ar": "عَنْكَبُوتٌ",
+    "En": "spider",
+    "M": "true",
+    "Pl": "عَنَاكِبُ",
+    "T": "animal",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "لَيْثٌ",
+    "En": "lion",
+    "M": "true",
+    "Pl": "لُيُوثٌ",
+    "T": "animal",
+    "bk": "UNmaB3L28",
+    "v": "false"
+  },
+  {
+    "Ar": "مَطِيَّةٌ",
+    "En": "riding animal",
+    "M": "true",
+    "Pl": "مَطَايَا",
+    "T": "animal",
+    "bk": "UNmaB3L19",
+    "v": "false"
+  },
+  {
+    "Ar": "مِخْلَبٌ",
+    "En": "claw",
+    "M": "true",
+    "T": "animal",
+    "bk": "UNmaB3L7",
+    "v": "false"
+  },
+  {
+    "Ar": "نَمِرٌ",
+    "En": "leopard, tiger",
+    "M": "true",
+    "T": "animal",
+    "bk": "UNmaB3L7",
+    "v": "false"
+  },
+  {
+    "Ar": "بَطَة",
+    "En": "duck",
+    "M": "false",
+    "Pl": "بَطّ",
+    "T": "animals",
+    "bk": "maB1L7",
+    "v": "false"
+  },
+  {
+    "Ar": "بَغْل",
+    "En": "mule",
+    "M": "true",
+    "Pl": "بِغَال",
+    "T": "animals",
+    "v": "false"
+  },
+  {
+    "Ar": "بَيْضَة",
+    "En": "egg",
+    "M": "false",
+    "Pl": "بَيْض",
+    "T": "animals",
+    "bk": "maB1L7",
+    "v": "false"
+  },
+  {
+    "Ar": "حَيَّةٌ",
+    "En": "snake",
+    "M": "false",
+    "T": "animals",
+    "bk": "maB2L5",
+    "v": "false"
+  },
+  {
+    "Ar": "حِصَان",
+    "En": "horse",
+    "M": "true",
+    "Pl": "حُصُن",
+    "T": "animals",
+    "bk": "maB1L1",
+    "v": "false"
+  },
+  {
+    "Ar": "دِيك",
+    "En": "rooster",
+    "M": "true",
+    "Pl": "دُيُوك",
+    "T": "animals",
+    "bk": "maB1L1",
+    "v": "false"
+  },
+  {
+    "Ar": "رِيشَة",
+    "En": "feather",
+    "M": "false",
+    "Pl": "رِيشَات",
+    "T": "animals",
+    "v": "false"
+  },
+  {
+    "Ar": "عَقْرَبٌ",
+    "En": "scorpion",
+    "M": "true",
+    "T": "animals",
+    "bk": "maB2L14",
+    "v": "false"
+  },
+  {
+    "Ar": "كَلْب",
+    "En": "dog",
+    "M": "true",
+    "Pl": "كِلَاب",
+    "T": "animals",
+    "bk": "maB1L1",
+    "v": "false"
+  },
+  {
+    "Ar": "نَعَمٌ",
+    "En": "livestock (camels, cattle, etc)",
+    "M": "true",
+    "Pl": "أَنْعامٌ",
+    "T": "animals",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+
+  {
+    "Ar": "نَاقَة",
+    "En": "she-camel",
+    "M": "true",
+    "Pl": "نُوق",
+    "T": "Animal",
+    "bk": "maB1L7",
+    "v": "false"
+  },
+  {
+    "Ar": "بَقَرَة",
+    "En": "cow",
+    "M": "false",
+    "T": "Animals",
+    "bk": "maB1L6",
+    "v": "false"
+  },
+  {
+    "Ar": "جَمَل",
+    "En": "camel",
+    "M": "true",
+    "Pl": "جِمَال",
+    "T": "Animals",
+    "bk": "maB1L1",
+    "v": "false"
+  },
+  {
+    "Ar": "حِمار",
+    "En": "donkey",
+    "M": "true",
+    "Pl": "حُمُر",
+    "T": "Animals",
+    "bk": "maB1L1",
+    "v": "false"
+  },
+  {
+    "Ar": "دَجَاجَة",
+    "En": "hen",
+    "M": "false",
+    "Pl": "دَجَاج",
+    "T": "Animals",
+    "bk": "maB1L7",
+    "v": "false"
+  },
+  {
+    "Ar": "طَائِر",
+    "En": "bird",
+    "M": "true",
+    "Pl": "طُيُور",
+    "T": "Animals",
+    "bk": "maB1L9",
+    "v": "false"
+  },
+  {
+    "Ar": "عُصْفُور",
+    "En": "sparrow",
+    "M": "true",
+    "Pl": "عَصَافِيرُ",
+    "T": "Animals",
+    "bk": "maB1L9",
+    "v": "false"
+  },
+  {
+    "Ar": "قِطّ",
+    "En": "cat",
+    "M": "true",
+    "Pl": "قِطَط",
+    "T": "Animals",
+    "bk": "maB1L1",
+    "v": "false"
+  },
+  {
+    "Ar": "الذُّبابُ",
+    "En": "flies",
+    "M": "true",
+    "T": "animal",
+    "bk": "maB2L17",
+    "v": "false"
+  }
+]

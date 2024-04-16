@@ -1,0 +1,144 @@
+[
+  {
+    "Ar": "تَرْحَالٌ",
+    "En": "travel",
+    "M": "true",
+    "T": "ntravel",
+    "bk": "UNmaB3L5",
+    "v": "false"
+  },
+  {
+    "Ar": "خَرِيطَةٌ",
+    "En": "map",
+    "M": "true",
+    "T": "ntravel",
+    "bk": "UNmaB3L8",
+    "v": "false"
+  },
+  {
+    "Ar": "خُطُوْطٌ جَوِّيَّةٌ",
+    "En": "airlines",
+    "M": "false",
+    "T": "ntravel",
+    "bk": "maB2L30",
+    "v": "false"
+  },
+  {
+    "Ar": "رِحْلَـةٌ",
+    "En": "tour, trip",
+    "M": "true",
+    "T": "ntravel",
+    "bk": "UNmaB3L6",
+    "v": "false"
+  },
+  {
+    "Ar": "سَبِيلٌ",
+    "En": "way, path, road",
+    "M": "true",
+    "Pl": "سُبُلٌ",
+    "T": "ntravel",
+    "bk": "UNmaB3L23",
+    "v": "false"
+  },
+  {
+    "Ar": "شَنْطَة",
+    "En": "suitcase",
+    "M": "true",
+    "Pl": "شُنَط",
+    "T": "ntravel",
+    "v": "false"
+  },
+  {
+    "Ar": "طَرِيْقٌ",
+    "En": "way, road",
+    "M": "true",
+    "Pl": "طُرُقٌ/طُرُقَاتٌ",
+    "T": "ntravel",
+    "bk": "UNmaB3L13",
+    "v": "false"
+  },
+  {
+    "Ar": "غَدْوَةٌ",
+    "En": "journey in the early morning",
+    "M": "true",
+    "T": "ntravel",
+    "bk": "UNmaB3L17",
+    "v": "false"
+  },
+  {
+    "Ar": "مُرُورٌ",
+    "En": "traffic",
+    "M": "true",
+    "T": "ntravel",
+    "bk": "UNmaB3L12",
+    "v": "false"
+  },
+  {
+    "Ar": "حَافِلَة",
+    "En": "bus",
+    "M": "false",
+    "Pl": "حَافِلَات",
+    "T": "nvehicle",
+    "bk": "maB1L19",
+    "v": "false"
+  },
+  {
+    "Ar": "دَرَاجَة",
+    "En": "bicycle",
+    "M": "false",
+    "Pl": "درَّاجَات",
+    "T": "nvehicle",
+    "bk": "maB1L6",
+    "v": "false"
+  },
+  {
+    "Ar": "سَيَّارَة",
+    "En": "car",
+    "M": "false",
+    "Pl": "سَيَّارَات",
+    "T": "nvehicle",
+    "bk": "maB1L5",
+    "v": "false"
+  },
+  {
+    "Ar": "سَيَّارَةُ الأُجْرَةِ",
+    "En": "Taxi(rental car)",
+    "M": "true",
+    "T": "nvehicle",
+    "bk": "UNmaB3L13",
+    "v": "false"
+  },
+  {
+    "Ar": "سَيَّارَةُ الإِسْعَافِ",
+    "En": "ambulance",
+    "M": "true",
+    "T": "nvehicle",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "شَاحِنَةٌ",
+    "En": "lorry, truck",
+    "M": "true",
+    "T": "nvehicle",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "طَائِرَة",
+    "En": "airplane",
+    "M": "false",
+    "Pl": "طَائِرَات",
+    "T": "nvehicle",
+    "bk": "maB1L16",
+    "v": "false"
+  },
+  {
+    "Ar": "نَارِيّة دَرَّاجَة",
+    "En": "motorbike",
+    "M": "false",
+    "Pl": "نَارِيّة دَرَّاجَات",
+    "T": "nvehicle",
+    "v": "false"
+  }
+]

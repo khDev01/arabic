@@ -124,3 +124,34 @@ Ar,En,M,Pl,T,order
 وَالْعِشْرُونَ,twentysecond,true,الثَّانِي,nNumber,
 الثَّالِثُ وَالْعِشْرُونَ,twentythird,true,,nNumber,
 
+
+
+
+removed from arnumbers.json
+
+  {
+    "Ar": "بِضْعَةٌ",
+    "En": "any number between 3 and 9. It is treated exactly like a number.",
+    "M": true,
+    "T": "nNumber",
+    "bk": "UNmaB3L22",
+    "v": "false"
+  },
+  {
+    "id": null,
+    "Ar": "مَرَّةٌ",
+    "En": "once",
+    "M": "false",
+    "T": "nNumber",
+    "bk": "maB2L29",
+    "v": "false"
+  },
+  {
+    "id": null,
+    "Ar": "عَدَد",
+    "En": "number",
+    "M": true,
+    "Pl": "أَعْدَاد",
+    "T": "nNumber",
+    "v": "false"
+  },

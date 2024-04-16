@@ -1,0 +1,97 @@
+[
+  {
+    "Ar": "كَذَلِكَ",
+    "En": "like that",
+    "M": "true",
+    "T": "nthat",
+    "bk": "maB2L9",
+    "v": "false"
+  },
+  {
+    "Ar": "هَكَذَا",
+    "En": "like this, so",
+    "M": "true",
+    "T": "nthat",
+    "bk": "maB2L9",
+    "v": "false"
+  },
+  {
+    "Ar": "لِمَاذَا",
+    "En": "why",
+    "M": "true",
+    "T": "Question",
+    "bk": "maB1L9",
+    "v": "false"
+  },
+  {
+    "Ar": "أل",
+    "En": "the",
+    "M": "true",
+    "T": "N",
+    "v": "false"
+  },
+  {
+    "Ar": "أَيّ",
+    "En": "which...?",
+    "M": "true",
+    "T": "N",
+    "v": "false"
+  },
+  {
+    "Ar": "أَيْضًا",
+    "En": "also",
+    "M": "true",
+    "T": "N",
+    "v": "false"
+  },
+  {
+    "Ar": "أَيْنَ",
+    "En": "where...?",
+    "M": "true",
+    "T": "N",
+    "v": "false"
+  },
+  {
+    "Ar": "شُكْرًا",
+    "En": "thanks",
+    "M": "true",
+    "T": "N",
+    "bk": "maB1L19",
+    "v": "false"
+  },
+  {
+    "Ar": "كَمْ",
+    "En": "howmuch/many?",
+    "M": "true",
+    "T": "N",
+    "v": "false"
+  },
+  {
+    "Ar": "كَيْفَ",
+    "En": "how...?",
+    "M": "true",
+    "T": "N",
+    "v": "false"
+  },
+  {
+    "Ar": "مَا",
+    "En": "what...?",
+    "M": "true",
+    "T": "N",
+    "v": "false"
+  },
+  {
+    "Ar": "مَاذَا",
+    "En": "what...?2",
+    "M": "true",
+    "T": "N",
+    "v": "false"
+  },
+  {
+    "Ar": "مَنْ",
+    "En": "who...?",
+    "M": "true",
+    "T": "N",
+    "v": "false"
+  }
+]

@@ -1,0 +1,223 @@
+[
+  {
+    "Ar": "السِّيْرَةُ",
+    "En": "the prophet's biography",
+    "M": "false",
+    "T": "nsunnah",
+    "bk": "maB2L20",
+    "v": "false"
+  },
+
+  {
+    "Ar": "صَفٌّ",
+    "En": "row",
+    "M": "true",
+    "T": "nsalah",
+    "bk": "maB2L16",
+    "v": "false"
+  },
+  {
+    "Ar": "أَثَامٌ",
+    "En": "penalty fo sin",
+    "M": "true",
+    "T": "ndeed",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "أَجْرٌ",
+    "En": "recompense, reward",
+    "M": "true",
+    "Pl": "أُجُورٌ",
+    "T": "ndeed",
+    "bk": "UNmaB3L17/26",
+    "v": "false"
+  },
+  {
+    "Ar": "إِثْمٌ",
+    "En": "sin",
+    "M": "true",
+    "Pl": "آثَامٌ",
+    "T": "ndeed",
+    "bk": "UNmaB3L18, UNmaB3L23",
+    "v": "false"
+  },
+  {
+    "Ar": "الْمُتَنَبِّئُ (أَبُو طَيِّبٍ)",
+    "En": "One falsely caliming to be prophet (nick name of the famous Arabic poet Abu Tayyib)",
+    "M": "true",
+    "T": "ndeed",
+    "bk": "UNmaB3L15",
+    "v": "false"
+  },
+  {
+    "Ar": "بَأْسٌ",
+    "En": "harm, hurt (2) strength, might (3) war",
+    "M": "true",
+    "T": "ndeed",
+    "bk": "UNmaB3L19/24",
+    "v": "false"
+  },
+  {
+    "Ar": "تَبَرُّجٌ",
+    "En": "display by a woman of her charms",
+    "M": "true",
+    "T": "ndeed",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "جَزاءٍ",
+    "En": "rewarding, recompensing",
+    "M": "true",
+    "T": "ndeed",
+    "bk": "UNmaB3L25",
+    "v": "false"
+  },
+  {
+    "Ar": "جَزَاءٌ",
+    "En": "recompense",
+    "M": "true",
+    "T": "ndeed",
+    "bk": "UNmaB3L4",
+    "v": "false"
+  },
+  {
+    "Ar": "حَسَنَةٌ",
+    "En": "good deed, good thing",
+    "M": "true",
+    "T": "ndeed",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "حَقٌ",
+    "En": "truth, right",
+    "M": "true",
+    "Pl": "حُقُوقٌ",
+    "T": "ndeed",
+    "bk": "UNmaB3L23",
+    "v": "false"
+  },
+  {
+    "Ar": "خُلُودٌ",
+    "En": "immortality, eternal life",
+    "M": "true",
+    "T": "ndeed",
+    "bk": "UNmaB3L28",
+    "v": "false"
+  },
+  {
+    "Ar": "ذَنْبٌ",
+    "En": "crime, offense, sin",
+    "M": "true",
+    "T": "ndeed",
+    "bk": "UNmaB3L3",
+    "v": "false"
+  },
+  {
+    "Ar": "سَدِيدٌ",
+    "En": "correct, right",
+    "M": "true",
+    "T": "ndeed",
+    "bk": "UNmaB3L23",
+    "v": "false"
+  },
+  {
+    "Ar": "سَرِقَةٌ",
+    "En": "theft",
+    "M": "true",
+    "T": "ndeed",
+    "bk": "UNmaB3L4",
+    "v": "false"
+  },
+  {
+    "Ar": "سَكِينَةٌ",
+    "En": "tranquility, peace of mind",
+    "M": "true",
+    "T": "ndeed",
+    "bk": "UNmaB3L33",
+    "v": "false"
+  },
+  {
+    "Ar": "سُوءٌ",
+    "En": "evil",
+    "M": "true",
+    "T": "ndeed",
+    "bk": "UNmaB3L18",
+    "v": "false"
+  },
+  {
+    "Ar": "شَرٌّ",
+    "En": "evil",
+    "M": "true",
+    "T": "ndeed",
+    "bk": "UNmaB3L28",
+    "v": "false"
+  },
+  {
+    "Ar": "صَوَابٌ",
+    "En": "right, correct",
+    "M": "true",
+    "T": "ndeed",
+    "bk": "UNmaB3L33",
+    "v": "false"
+  },
+  {
+    "Ar": "ضَرَرٌ",
+    "En": "harm",
+    "M": "true",
+    "T": "ndeed",
+    "bk": "UNmaB3L29",
+    "v": "false"
+  },
+  {
+    "Ar": "حَدِيثٌ مُـتَّـفَـقٌ عَلَيْهِ",
+    "En": "hadîth reported by both Imam Bukhari and Imam Muslim in their hadîth collections known as الصَّحِيحانِ",
+    "M": "true",
+    "T": "nhadeeth",
+    "bk": "UNmaB3L2",
+    "v": "false"
+  },
+  {
+    "Ar": "رِسَالَةٌ",
+    "En": "message",
+    "M": "true",
+    "Pl": "رَسَائِلُ",
+    "T": "nislam",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "صَدَقَةٌ",
+    "En": "charity, alms",
+    "M": "true",
+    "T": "nislam",
+    "bk": "UNmaB3L29",
+    "v": "false"
+  },
+  {
+    "Ar": "تَفْسِيْرٌ",
+    "En": "commentary of the Qur'an",
+    "M": "true",
+    "T": "nislam",
+    "bk": "maB2L20",
+    "v": "false"
+  },
+  {
+    "Ar": "مُصْحَفٌ",
+    "En": "copy of the Qur'an",
+    "M": "true",
+    "T": "nislam",
+    "bk": "maB2L16",
+    "v": "false"
+  },
+  {
+    "Ar": "دُعَاء",
+    "En": "call, invocation of God, supplication, prayer",
+    "M": "true",
+    "Pl": "أَدْعِيَة",
+    "T": "nallah",
+    "v": "false"
+  }
+]

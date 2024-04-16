@@ -1,0 +1,94 @@
+[
+  {
+    "Ar": "أَذًى",
+    "En": "harm, injury, offence",
+    "M": "true",
+    "T": "ndisease",
+    "bk": "UNmaB3L29",
+    "v": "false"
+  },
+  {
+    "Ar": "حَادِثٌ",
+    "En": "accident",
+    "M": "true",
+    "Pl": "حَوَدِثُ",
+    "T": "ndisease",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "أَصَمُّ (ث صَمَّاءُ، ج صُمٌّ",
+    "En": "deaf",
+    "M": "true",
+    "T": "ndisease",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "إسْهَالٌ",
+    "En": "diarrhea",
+    "M": "true",
+    "T": "ndisease",
+    "bk": "UNmaB3L9",
+    "v": "false"
+  },
+  {
+    "Ar": "جَرِيْحٌ",
+    "En": "Wounded",
+    "M": "true",
+    "Pl": "جَرْحَى",
+    "T": "ndisease",
+    "bk": "UNmaB3L12",
+    "v": "false"
+  },
+  {
+    "Ar": "دَاءٌ",
+    "En": "disease",
+    "M": "true",
+    "Pl": "أَدْوَاءٌ",
+    "T": "ndisease",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "سَرْطانٌ",
+    "En": "cancer",
+    "M": "true",
+    "T": "ndisease",
+    "bk": "UNmaB3L16",
+    "v": "false"
+  },
+  {
+    "Ar": "طَاعُونٌ",
+    "En": "Plague",
+    "M": "true",
+    "T": "ndisease",
+    "bk": "UNmaB3L14",
+    "v": "false"
+  },
+  {
+    "Ar": "قُرْصٌ",
+    "En": "tablet, pill (medicine)",
+    "M": "true",
+    "Pl": "أضقْراصٌ",
+    "T": "ndisease",
+    "bk": "UNmaB3L21",
+    "v": "false"
+  },
+  {
+    "Ar": "مَعْدِيكَرِبُ",
+    "En": "stomach distresse???",
+    "M": "true",
+    "T": "ndisease",
+    "bk": "UNmaB3L34",
+    "v": "false"
+  },
+  {
+    "Ar": "وَجَعٌ",
+    "En": "pain, ache",
+    "M": "true",
+    "T": "ndisease",
+    "bk": "UNmaB3L13",
+    "v": "false"
+  }
+]

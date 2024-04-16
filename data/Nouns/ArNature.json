@@ -1,0 +1,102 @@
+[
+  {
+    "Ar": "أَرْضٌ",
+    "En": "earth, floor",
+    "M": "true",
+    "Pl": "أَرَاضٍ (الأَرَاضِي)",
+    "T": "nearth",
+    "bk": "UNmaB3L22",
+    "v": "false"
+  },
+  {
+    "Ar": "أَرْضٌ",
+    "En": "land, earth",
+    "M": "true",
+    "T": "nearth",
+    "bk": "UNmaB3L32",
+    "v": "false"
+  },
+  {
+    "Ar": "عَالَمٌ",
+    "En": "world",
+    "M": "true",
+    "Pl": "عَالَمُونَ",
+    "T": "nearth",
+    "bk": "UNmaB3L29",
+    "v": "false"
+  },
+  {
+    "Ar": "زَهْرَة",
+    "En": "flower",
+    "M": "false",
+    "Pl": "أَزْهَار",
+    "T": "nNature",
+    "v": "false"
+  },
+  {
+    "Ar": "بَحْر",
+    "En": "sea",
+    "M": "true",
+    "T": "nnature",
+    "bk": "maB1L16",
+    "v": "false"
+  },
+  {
+    "Ar": "حَجَر",
+    "En": "stone",
+    "M": "true",
+    "Pl": "أَحْجَار",
+    "T": "nnature",
+    "bk": "maB1L2",
+    "v": "false"
+  },
+  {
+    "Ar": "حَقْل",
+    "En": "field",
+    "M": "true",
+    "Pl": "حُقُوْل",
+    "T": "nnature",
+    "bk": "maB1L13",
+    "v": "false"
+  },
+  {
+    "Ar": "خَشَب",
+    "En": "wood",
+    "M": "true",
+    "Pl": "خُشُب",
+    "T": "nnature",
+    "v": "false"
+  },
+  {
+    "Ar": "شَجَرَة",
+    "En": "tree",
+    "M": "false",
+    "T": "nnature",
+    "bk": "maB1L12",
+    "v": "false"
+  },
+  {
+    "Ar": "غَابَةٌ",
+    "En": "forest",
+    "M": "false",
+    "T": "nnature",
+    "bk": "maB2L27",
+    "v": "false"
+  },
+  {
+    "Ar": "الرَّبِيْعُ",
+    "En": "spring",
+    "M": "true",
+    "T": "nnature",
+    "bk": "maB2L17",
+    "v": "false"
+  },
+  {
+    "Ar": "نَهْر",
+    "En": "river",
+    "M": "true",
+    "T": "nnature",
+    "bk": "maB1L16",
+    "v": "false"
+  }
+]
